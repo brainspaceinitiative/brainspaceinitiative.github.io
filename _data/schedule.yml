@@ -250,3 +250,15 @@
     	endTime: "12:00",
     	sessionIds: [022]
     }
+- 
+  date: "2021-09-30"
+  dateReadable: "September 30"
+  past: false
+  tracks: 
+    - {title: "Neuroimaging", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "11:00",
+    	endTime: "12:00",
+    	sessionIds: [023]
+    }

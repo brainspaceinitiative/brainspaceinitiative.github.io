@@ -549,3 +549,16 @@
   rockstar: true
   social: 
     - {name: "", link: ""}
+- 
+  id: 126
+  name: "Test1"
+  surname: "Speaker"
+  company: "Test Company"
+  title: "Test title"
+  team: true
+  bio: "test biong"
+  thumbnailUrl: ''
+  rockstar: true
+  social: 
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=zPpJc94AAAAJ&hl=en&oi=ao"}
+    - {name: "site", link: "https://testboy21.github.io/"}

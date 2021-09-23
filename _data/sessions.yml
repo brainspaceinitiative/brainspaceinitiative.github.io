@@ -252,6 +252,14 @@
   speakers: [125]
   language: en
   complexity: 
-
+-
+  id: 023
+  title: "Test title"
+  description: "test description"
+  subtype: presentation
+  speakers: [126]
+  language: en
+  complexity: 
+  video: ""
 
 
