@@ -550,17 +550,6 @@
   social: 
     - {name: "site", link: "https://sites.google.com/msu.edu/aviyente/home"}
 - 
-  id: 126
-  name: "Konrad"
-  surname: "Kording"
-  company: ""
-  title: ""
-  team: false
-  bio: ""
-  thumbnailUrl: ''
-  rockstar: true
-  social: 
-- 
   id: 127
   name: "Gustavo"
   surname: "Deco"
