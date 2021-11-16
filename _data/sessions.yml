@@ -337,12 +337,15 @@
   complexity: 
 -
   id: 031
-  title: "TBA"
-  description: ""
+  title: "Data Integration in Neuroimaging Studies"
+  description: "<p>As advances in technology allow the acquisition of complementary information, it is common for scientific studies to collect multiple datasets. In this talk, we will examine two approaches to data integration. In the first part, we will analyze the joint and individual structure in cognitive assessments and brain morphometry from the Alzheimer’s Disease Neuroimaging Initiative. We introduce probabilistic joint and individual variation (ProJIVE), which extends probabilistic PCA to multiple datasets. ProJIVE reveals links between brain regions and cognitive performance. In the second part of this talk, we introduce Simultaneous Non-Gaussian component analysis (SING) in which dimension reduction and feature extraction are achieved simultaneously. Instead of maximizing variance using PCA, SING maximizes non-Gaussianity to extract a lower-dimensional subspace and reveal new insights. We apply our method to a working memory task and resting-state correlations from the Human Connectome Project. We find joint structure as evident from learned spatial correspondence. Moreover, some of the subject scores are related to fluid intelligence.</p>
+<b>Recommended Article:</b>
+<ul><li>Benjamin B. Risk, Irina Gaynanova (2021) Simultaneous non-Gaussian component analysis (SING) for data integration in neuroimaging. Ann. Appl. Stat. 15(3): 1431-1454. <a href='https://doi.org/10.1214/21-AOAS1466'>https://doi.org/10.1214/21-AOAS1466</a></li></ul>"
   subtype: presentation
   speakers: [134]
   language: en
   complexity: 
+  video: https://www.youtube.com/embed/invjfQSycmE
 -
   id: 032
   title: "TBA"
