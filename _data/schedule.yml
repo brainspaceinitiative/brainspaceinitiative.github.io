@@ -248,7 +248,7 @@
 - 
   date: "2021-10-29"
   dateReadable: "October 29, 2021"
-  past: false
+  past: true
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -260,7 +260,7 @@
 - 
   date: "2021-11-05"
   dateReadable: "November 05, 2021"
-  past: false
+  past: true
   tracks: 
     - {title: "Cognitive Neuroscience Journal Club", color: "#5cb85c"}
   timeslots:
@@ -272,7 +272,7 @@
 - 
   date: "2021-11-10"
   dateReadable: "November 10, 2021"
-  past: false
+  past: true
   tracks: 
     - {title: "#BSIsubspace Virtual Talks", color: "#5bc0de"}
   timeslots:

@@ -261,7 +261,10 @@
 -
   id: 023
   title: "The lure of misleading causal statements in functional connectivity research"
-  description: ""
+  description: "<p>As neuroscientists we want to understand how causal interactions or mechanisms within the brain give rise to perception, cognition, and behavior. It is typical to estimate interaction effects from measured activity using statistical techniques such as functional connectivity, Granger Causality, or information flow, whose outcomes are often falsely treated as revealing mechanistic insight. Since these statistical techniques fit models to low-dimensional measurements from brains, they ignore the fact that brain activity is high-dimensional. Here we focus on the obvious confound of common inputs: the countless unobserved variables likely have more influence than the few observed ones. Any given observed correlation can be explained by an infinite set of causal models that take into account the unobserved variables. Therefore, correlations within massively undersampled measurements tell us little about mechanisms. We argue that these mis-inferences of causality from correlation are augmented by an implicit redefinition of words that suggest mechanisms, such as connectivity, causality, and flow.</p>
+<b>Recommended Articles:</b>
+<ul><li>Mehler, D. M. A., & Kording, K. P. (2018). The lure of misleading causal statements in functional connectivity research. arXiv preprint arXiv:1812.03363. <a href='https://arxiv.org/abs/1812.03363'>https://arxiv.org/abs/1812.03363</a></li>
+<li>Reid, A. T., Headley, D. B., Mill, R. D., Sanchez-Romero, R., Uddin, L. Q., Marinazzo, D., ... & Cole, M. W. (2019). Advancing functional connectivity research from association to causation. Nature neuroscience, 22(11), 1751-1760. <a href='https://www.nature.com/articles/s41593-019-0510-4'>https://www.nature.com/articles/s41593-019-0510-4</a></li></ul>"
   subtype: presentation
   speakers: [126]
   language: en

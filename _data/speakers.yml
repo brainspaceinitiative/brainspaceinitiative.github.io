@@ -377,8 +377,8 @@
   company: "University of Pennsylvania"
   title: "Penn Integrated Knowledge Professor"
   team: true
-  bio: "Website: <a href='http://kordinglab.com/'>http://kordinglab.com/</a>"
-  thumbnailUrl: Transparent-Portrait-218x300.jpg
+  bio: "Dr. Kording obtained both a diploma degree and a PhD in physics at ETH Zurich in 1997 and 2001, respectively. He then worked as a postdoctoral fellow at the Collegium Helveticum in Zurich and at University College London, followed by a Heisenberg Fellow position at MIT. He joined the faculty at Northwestern University and the Rehabilitation Institute of Chicago where he was a professor of physical medicine and rehabilitation, physiology, and applied mathematics. In 2017, he joined the faculty at the University of Pennsylvania with joint appointments in the Department of Neuroscience and Department of Bioengineering."
+  thumbnailUrl: konrad_profile_3.jpg
   rockstar: true
   social: 
     - {name: "site", link: "http://kordinglab.com/"}
