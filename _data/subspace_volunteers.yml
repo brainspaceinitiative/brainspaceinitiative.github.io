@@ -2,14 +2,14 @@
   id: 1
   name: "Gaia"
   surname: "Zin"
-  company: "."
-  title: "."
+  company: "Delft University of Technology"
+  title: "Undergraduate student"
   team: true
-  bio: "."
-  thumbnailUrl: 'gaia_zin.jpeg'
+  bio: "I have studied Electronics and Communication Engineering at the Politecnico of Torin (IT) and I am now at my last year of the Master degree in Electrical Engineering at Delft University of Technology (NL). I am working with EEG signals for the detection of Epilepsy, using graph signal processing. My interests are multiple and they lie at the intersection of neuroscience, signal processing and machine learning. After my Master I aim to pursue a Ph.D focusing on Epilepsy prediction or detection. I am super excited of being part of this group and cannot wait for the opportunity to grow and learn new things together!:grinning:"
+  thumbnailUrl: 'gaia_zin.jpg'
   rockstar: true
   social: 
-    - {name: "google-scholar", link: "https://scholar.google.com/citations?hl=en&user=Q480I1oAAAAJ"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/gaia-zin-44b6621a4/"}
 - 
   id: 6
   name: "Carlos H."
