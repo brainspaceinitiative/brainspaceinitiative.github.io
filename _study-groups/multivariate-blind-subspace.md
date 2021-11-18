@@ -64,7 +64,7 @@ A (sub)space to discuss and learn about the relationships among classical & nove
                         {% endfor %}
                     </div>
                     {% endif %}                    
-                    <p class="about">{{ speaker.bio | strip_html}}</p>
+                    <p class="about">{{ speaker.bio }}</p>
                     {% for social in speaker.social %}
                     <a href="{{ social["link"] }}" target="_blank">
                         <svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">

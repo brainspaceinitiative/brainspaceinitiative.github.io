@@ -23,4 +23,21 @@
   social: 
     - {name: "google-scholar", link: "https://scholar.google.com/citations?user=1qyz9gYAAAAJ&hl"}
     - {name: "site", link: "https://www.eecis.udel.edu/~mendoza/"}
+-
+  id: 3
+  name: "Iris-Lucia"
+  surname: "Soare"
+  company: "University of Edinburgh"
+  title: "Ph.D. candidate"
+  team: true
+  bio: "“It is foolish to answer a question that you do not understand. It is sad to work for an end that you do not desire.” How to solve it: A New Aspect of the Mathematical Method, G. Polya
+
+  <br><br> 
+  
+  As a person and scientist, I am passionate about understanding and identifying solutions for problems of engineering, mathematics, neuroscience and philosophy.
+  In my present work, I am applying control theory onto the brain activity network for tackling epilepsy. My background is in Mechatronics Engineering and Control Theory, having graduated at the University of Manchester, UK. I have worked with deep learning networks on neuroscience and nonlinear control challenges."
+  thumbnailUrl: 'IrisSoare.png'
+  rockstar: true
+  social: 
+    - {name: "LinkedIn", link: "https://www.linkedin.com/in/iris-lucia-soare-engineering/"}
 
