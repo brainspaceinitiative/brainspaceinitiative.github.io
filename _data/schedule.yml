@@ -284,7 +284,7 @@
 - 
   date: "2021-11-19"
   dateReadable: "November 19, 2021"
-  past: false
+  past: true
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
