@@ -41,3 +41,20 @@
   social: 
     - {name: "LinkedIn", link: "https://www.linkedin.com/in/iris-lucia-soare-engineering/"}
 
+-
+  id: 2
+  name: "Mite"
+  surname: "Mijalkov"
+  company: "Karolinska Institutet"
+  title: "Postdoctoral researcher"
+  team: true
+  bio: "I am a postdoctoral researcher working with Dr. Joana Pereira at the Department of Neurobiology, Care Sciences and Society, Karolinska Institute in Sweden. I obtained my Ph.D. in Materials Science and Nanotechnology from Bilkent University, Turkey, studying the emergent collective behaviors from the interaction of autonomous mobile individuals. 
+
+  <br><br> 
+  
+  Currently, I use complex networks as a tool to model the complex brain connectivity patterns that arise due to the interaction between distributed brain regions. The goal of my studies is to design more efficient and sensitive methods to understand the alterations of these complex brain networks in individuals with neurodegenerative disorders. Ultimately, the developed methods can have immense value as prognostic markers, e.g. to achieve earlier and more accurate diagnosis, identify patients with worse prognosis or assess the effects of treatment on brain connectivity."
+  thumbnailUrl: 'MiteMijalkov.jpg'
+  rockstar: true
+  social: 
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=x7MacIwAAAAJ&hl=en&oi=ao"}
+    - {name: "site", link: "https://staff.ki.se/people/mite-mijalkov"}
