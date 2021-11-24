@@ -1,0 +1,43 @@
+- 
+  id: 1
+  name: "Gaia"
+  surname: "Zin"
+  company: "Delft University of Technology"
+  title: "Undergraduate student"
+  team: true
+  bio: "I have studied Electronics and Communication Engineering at the Politecnico of Torin (IT) and I am now at my last year of the Master degree in Electrical Engineering at Delft University of Technology (NL). I am working with EEG signals for the detection of Epilepsy, using graph signal processing. My interests are multiple and they lie at the intersection of neuroscience, signal processing and machine learning. After my Master I aim to pursue a Ph.D focusing on Epilepsy prediction or detection. I am super excited of being part of this group and cannot wait for the opportunity to grow and learn new things together!:grinning:"
+  thumbnailUrl: 'gaia_zin.jpg'
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/gaia-zin-44b6621a4/"}
+- 
+  id: 6
+  name: "Carlos H."
+  surname: "Mendoza-Cardenas"
+  company: "University of Delaware"
+  title: "Ph.D. candidate"
+  team: true
+  bio: "I am a data scientist with a passion for the development and application of statistical and computational methods to understand and solve complex problems. I have a strong background in digital signal processing, training and research experience with unsupervised and supervised learning methods, experience with data wrangling and data cleaning of large (>2TB) data sets, and with the execution of experiments in high-performance clusters using Slurm and batch scripts. I also have extensive experience as a Linux user and administrator. In general, I like to strike a balance between a solid theoretical understanding of the mathematical methods and the software development needed to solve problems."
+  thumbnailUrl: 'chmendozac.jpg'
+  rockstar: true
+  social: 
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=1qyz9gYAAAAJ&hl"}
+    - {name: "site", link: "https://www.eecis.udel.edu/~mendoza/"}
+-
+  id: 3
+  name: "Iris-Lucia"
+  surname: "Soare"
+  company: "University of Edinburgh"
+  title: "Ph.D. candidate"
+  team: true
+  bio: "“It is foolish to answer a question that you do not understand. It is sad to work for an end that you do not desire.” How to solve it: A New Aspect of the Mathematical Method, G. Polya
+
+  <br><br> 
+  
+  As a person and scientist, I am passionate about understanding and identifying solutions for problems of engineering, mathematics, neuroscience and philosophy.
+  In my present work, I am applying control theory onto the brain activity network for tackling epilepsy. My background is in Mechatronics Engineering and Control Theory, having graduated at the University of Manchester, UK. I have worked with deep learning networks on neuroscience and nonlinear control challenges."
+  thumbnailUrl: 'IrisSoare.png'
+  rockstar: true
+  social: 
+    - {name: "LinkedIn", link: "https://www.linkedin.com/in/iris-lucia-soare-engineering/"}
+
