@@ -283,7 +283,8 @@
   subtype: presentation
   speakers: [127]
   language: en
-  complexity: 
+  complexity:
+  video: https://www.youtube.com/embed/cO0cyn-TNnk 
 -
   id: 025
   title: "TBA"
