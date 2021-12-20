@@ -630,10 +630,10 @@
   id: 134
   name: "Benjamin"
   surname: "Risk"
-  company: ""
-  title: ""
+  company: "Emory University"
+  title: "Assistant Professor, Dept. of Biostatistics & Bioinformatics"
   team: false
-  bio: ""
+  bio: "Benjamin Risk is an Assistant Professor in the Department of Biostatistics & Bioinformatics, Rollins School of Public Health, Emory University. He completed his PhD in Statistics at Cornell University (2015) and was a postdoctoral associate with the Statistical and Applied Mathematical Sciences Institute and the University of North Carolina, Chapel Hill (2017). Benjamin Risk’s research focuses on neuroimaging and aims to further scientific understanding and medical research by developing, improving, and disseminating statistical methodology. His research includes dimension reduction methods, multimodal data integration, and the statistical impacts of MRI acquisition methods."
   thumbnailUrl: ''
   rockstar: true
   social: 
