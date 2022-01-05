@@ -330,8 +330,8 @@
     	sessionIds: [025]
     }
 - 
-  date: "2022-02-25"
-  dateReadable: "February 25, 2022"
+  date: "2022-07-29"
+  dateReadable: "July 29, 2022"
   past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
