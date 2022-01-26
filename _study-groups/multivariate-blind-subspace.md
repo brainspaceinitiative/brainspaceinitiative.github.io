@@ -19,6 +19,9 @@ A (sub)space to discuss and learn about the relationships among classical & nove
 ##### 2021
 [![]({{ site.baseurl }}/img/subspace-updates/Virtual_Talks_Info.png)](https://www.youtube.com/playlist?list=PLADTemYh-7P3ih6KDbhvLEzsGnYcoez_x)
 
+### SocialNet()
+![]({{ site.baseurl }}/img/subspace-updates/SocialNet_poster.jpg)
+
 #### Group Leader
 <div class="text-left people-modal">
     <div class="modal-body">
