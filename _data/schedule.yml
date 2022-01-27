@@ -330,18 +330,6 @@
     	sessionIds: [025]
     }
 - 
-  date: "2022-07-29"
-  dateReadable: "July 29, 2022"
-  past: false
-  tracks: 
-    - {title: "BSI Talk Series", color: "#428bca"}
-  timeslots:
-    - {
-    	startTime: "11:00",
-    	endTime: "12:00",
-    	sessionIds: [026]
-    }
-- 
   date: "2022-03-25"
   dateReadable: "March 25, 2022"
   past: false
@@ -376,4 +364,16 @@
     	startTime: "11:00",
     	endTime: "12:00",
     	sessionIds: [029]
+    }
+- 
+  date: "2022-07-29"
+  dateReadable: "July 29, 2022"
+  past: false
+  tracks: 
+    - {title: "BSI Talk Series", color: "#428bca"}
+  timeslots:
+    - {
+    	startTime: "11:00",
+    	endTime: "12:00",
+    	sessionIds: [026]
     }
