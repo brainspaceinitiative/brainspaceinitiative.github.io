@@ -296,7 +296,7 @@
 - 
   date: "2021-12-03"
   dateReadable: "December 03, 2021"
-  past: false
+  past: true
   tracks: 
     - {title: "Cognitive Neuroscience Journal Club", color: "#5cb85c"}
   timeslots:
@@ -308,7 +308,7 @@
 - 
   date: "2021-12-17"
   dateReadable: "December 17, 2021"
-  past: false
+  past: true
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -330,8 +330,8 @@
     	sessionIds: [025]
     }
 - 
-  date: "2022-02-25"
-  dateReadable: "February 25, 2022"
+  date: "2022-07-29"
+  dateReadable: "July 29, 2022"
   past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
