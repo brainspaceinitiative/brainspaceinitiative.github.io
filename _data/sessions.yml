@@ -297,6 +297,7 @@
   speakers: [107]
   language: en
   complexity: 
+  video: https://www.youtube.com/embed/xHtj_3ZuGik
 -
   id: 026
   title: "Understanding and manipulating the brain using encoding models"
