@@ -15,4 +15,4 @@ ehthumbs.db
 ## Config file to test locally ##
 # Run as:
 # bundle exec jekyll serve --livereload --config _config_local.yml
-_config_local.yml
+#_config_local.yml
