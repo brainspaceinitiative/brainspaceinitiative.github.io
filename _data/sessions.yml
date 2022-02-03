@@ -287,12 +287,17 @@
   video: https://www.youtube.com/embed/cO0cyn-TNnk 
 -
   id: 025
-  title: "TBA"
-  description: ""
+  title: "Toward an open ecosystem for neuroimaging data analysis and sharing"
+  description: "<p>Significant concerns have been raised regarding the reproducibility of current scientific practices.  I will provide an overview of the problems with reproducibility (focusing in particular on neuroimaging research) and outline a set of tools that provide the ability to build fully reproducible analysis workflows.  I will also discuss the need for transparency through data sharing, and the importance of community standards for data organization to make data sharing effective.</p>
+<b>Recommended Articles:</b>
+  <ul>
+<li>Botvinik-Nezer, Rotem, et al. Variability in the analysis of a single neuroimaging dataset by many teams. Nature 582.7810 (2020): 84-88. <a href='https://www.nature.com/articles/s41586-020-2314-9'>https://www.nature.com/articles/s41586-020-2314-9</a></li>
+</ul>"
   subtype: presentation
-  speakers: [128]
+  speakers: [107]
   language: en
   complexity: 
+  video: https://www.youtube.com/embed/xHtj_3ZuGik
 -
   id: 026
   title: "Understanding and manipulating the brain using encoding models"
