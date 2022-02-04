@@ -24,6 +24,10 @@ A (sub)space to discuss and learn about the relationships among classical & nove
 ##### 2021
 ![]({{ site.baseurl }}/img/subspace-updates/Paper_discussions.jpg)
 
+#### SocialNet()
+##### 2021
+![]({{ site.baseurl }}/img/subspace-updates/SocialNetFeedback.png)
+
 #### Group Leader
 <div class="text-left people-modal">
     <div class="modal-body">
