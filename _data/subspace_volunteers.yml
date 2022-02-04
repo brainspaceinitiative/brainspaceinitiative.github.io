@@ -39,7 +39,7 @@
   thumbnailUrl: 'IrisSoare.png'
   rockstar: true
   social: 
-    - {name: "LinkedIn", link: "https://www.linkedin.com/in/iris-lucia-soare-engineering/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/iris-lucia-soare-engineering/"}
 
 -
   id: 2
