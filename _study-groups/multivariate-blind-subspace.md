@@ -58,6 +58,15 @@ A (sub)space to discuss and learn about the relationships among classical & nove
 
 #### Student Volunteer Core Members
 <!-- Volunteer section begins -->
+
+## Syed Hussain Ather
+
+![Syed Hussain Ather](/img/people/sha.png)
+
+I'm a Ph.D. student in Medical Science at the University of Toronto where I perform research on the connectivity structures underlying schizophrenia. By applying dynamic causal modelling (DCM) to patient data, I search for insights into spatiotemporal measures of connectivity across models of connectivity. My work, based on the free energy principle, has applications in neuroethics, epistemology, and AI.
+
+After completing my undergraduate in physics and philosophy at Indiana University-Bloomington, I performed research in bioinformatics and computational neuroscience at the National Institutes of Health (NIH) before joining the Krembil Centre for Neuroinformatics (KCNI) in January, 2021. I also have interests in science communication and philosophy.
+
 {% for speaker in site.data.subspace_volunteers %}
 <div class="text-left people-modal">
     <div class="modal-body">
