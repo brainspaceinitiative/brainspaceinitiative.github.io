@@ -18,7 +18,7 @@ shortTitle: "BSI"
 email: "brain.space.initiative@gmail.com"
 description: "A venue promoting equal opportunity for brain research"
 baseurl: ""
-url: ""
+url: "http://127.0.0.1:4000/zeppelin"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: 
 googleAnalyticsSiteUrl: 

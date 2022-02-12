@@ -48,7 +48,8 @@
   company: "Karolinska Institutet"
   title: "Postdoctoral researcher"
   team: true
-  bio: "I am a postdoctoral researcher working with Dr. Joana Pereira at the Department of Neurobiology, Care Sciences and Society, Karolinska Institute in Sweden. I obtained my Ph.D. in Materials Science and Nanotechnology from Bilkent University, Turkey, studying the emergent collective behaviors from the interaction of autonomous mobile individuals. 
+  bio: "I am a postdoctoral researcher working with Dr. Joana Pereira at the Department of Neurobiology, Care Sciences and Society, Karolinska Institute in Sweden. I obtained my Ph.D. in Materials Science and Nanotechnology from Bilkent University, Turkey, studying the emergent collective behaviors from the interaction of autonomous mobile individuals.
+
 
   <br><br> 
   
@@ -58,3 +59,23 @@
   social: 
     - {name: "google-scholar", link: "https://scholar.google.com/citations?user=x7MacIwAAAAJ&hl=en&oi=ao"}
     - {name: "site", link: "https://staff.ki.se/people/mite-mijalkov"}
+
+-
+  id: 4
+  name: "Syed"
+  surname: "Ather"
+  company: "University of Toronto"
+  title: "Ph.D. student" 
+  team: true
+
+bio: "I'm a Ph.D. student in Medical Science at the University of Toronto where I perform research on the connectivity structures underlying schizophrenia. By applying dynamic causal modelling (DCM) to patient data, I search for insights into spatiotemporal measures of connectivity across models of connectivity. My work, based on the free energy principle, has applications in neuroethics, epistemology, and AI.
+
+  <br><br> 
+
+After completing my undergraduate in physics and philosophy at Indiana University-Bloomington, I performed research in bioinformatics and computational neuroscience at the National Institutes of Health (NIH) before joining the Krembil Centre for Neuroinformatics (KCNI) in January, 2021. I also have interests in science communication and philosophy.
+
+  thumbnailUrl: 'sha.jpg'
+  rockstar: true
+  social: 
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=jPL2-dEAAAAJ&hl=en"}
+    - {name: "site", link: "http://hussainather.com/"}
