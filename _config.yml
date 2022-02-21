@@ -17,8 +17,8 @@ title: "Brain Space Initiative"
 shortTitle: "BSI"
 email: "brain.space.initiative@gmail.com"
 description: "A venue promoting equal opportunity for brain research"
-baseurl: "/"
-url: "https://brainspaceinitiative.github.io/"
+baseurl: ""
+url: "https://121.0.0.1:4000/"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: 
 googleAnalyticsSiteUrl: 
