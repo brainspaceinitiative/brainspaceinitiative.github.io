@@ -79,3 +79,23 @@ After completing my undergraduate in physics and philosophy at Indiana Universit
   social: 
     - {name: "google-scholar", link: "https://scholar.google.com/citations?user=jPL2-dEAAAAJ&hl=en"}
     - {name: "site", link: "http://hussainather.com/"}
+
+-
+  id: 5
+  name: "Anjali"
+  surname: "Agarwal"
+  company: "Tata Research Development and Design Center"
+  title: "Researcher" 
+  team: true
+
+  bio: "I am currently working as a Researcher in TRDDC India in the area of Behavioral, Business and Social Science domain.
+
+  <br><br> 
+
+I completed my bachelor's in Electrical Engineering from Indian Institute of Technology, Palakkad. During my undergraduate, I developed an interest in Computational Neuroscience, specifically Brain-Computer Interface. I aspire to apply for graduate school to work on the interface of BCI and assistive technologies."
+
+  thumbnailUrl: 'anjali.jpg'
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://anjaliagarwal8.github.io/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/anjaliagarwal8/"}
