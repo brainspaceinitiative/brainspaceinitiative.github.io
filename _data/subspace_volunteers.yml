@@ -99,3 +99,23 @@ I completed my bachelor's in Electrical Engineering from Indian Institute of Tec
   social: 
     - {name: "site", link: "https://anjaliagarwal8.github.io/"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/anjaliagarwal8/"}
+
+-
+  id: 7
+  name: "Jordan"
+  surname: "Hanania"
+  company: "University of British Columbia"
+  title: "Ph.D. student"
+  team: true 
+
+  bio: "I am a Ph.D. student in Medical Physics at UBC in Vancouver, Canada, studying under Dr. Vesna Sossi. I completed my Master's degree working with the APXS instrument on-board the Curiosity rover, but decided to switch fields to studying the human brain due to its level of mystery and complexity. Beyond the science, I'm interested in philosophical questions regarding the nature of consciousness and intelligence.
+
+  <br><br>
+ 
+  My research makes use of simultaneous imaging of the brain using positron emission tomography (PET) and magnetic resonance imaging (MRI). Our group primarily focuses on Parkinson's disease, for which I am exploring measures of connectivity in the healthy and diseased brain."
+
+  thumbnailUrl: 'hanania.jpg'
+  rockstar: true 
+  social:
+    - {name: "site", link: "http://pet.ubc.ca/person/jordan-hanania/"}
+    - {name: "linkedin", link: "http://linkedin.com/in/jordan-hanania-446a8b88/"}
