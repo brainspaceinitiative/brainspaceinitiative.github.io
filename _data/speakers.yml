@@ -575,11 +575,11 @@
   id: 130
   name: "Luiz"
   surname: "Pessoa"
-  company: ""
-  title: ""
+  company: "University of Maryland"
+  title: "Director, Maryland Neuroimaging Center; Professor, Department of Psychology"
   team: false
-  bio: ""
-  thumbnailUrl: ''
+  bio: "Luiz Pessoa obtained a PhD in computational neuroscience at Boston University. After his PhD he returned to his home country, Brazil, and joined the faculty of Computer Systems Engineering at the Federal University of Rio de Janeiro. After a few years, he returned to the US as a Visiting Fellow at the National Institute of Mental Health. He then joined the Department of Psychology at Brown University as an Assistant Professor, the Department of Psychological and Brain Sciences at Indiana University, Bloomington, as an Associate Professor, and since 2011 has been at the Department of Psychology, University of Maryland, College Park, where he is full Professor and Director of the Maryland Neuroimaging Center. His research interests center around the interactions between emotion/motivation and perception/cognition. He published in 2013 the book 'The cognitive-emotional brain: from interactions to integration' and his book 'The Entangled Brain: How Perception, Cognition, and Emotion Are Woven Together', also by MIT Press, is scheduled for to be published later this year."
+  thumbnailUrl: 'Pessoa_photo_2017.jpg'
   rockstar: true
   social: 
 - 

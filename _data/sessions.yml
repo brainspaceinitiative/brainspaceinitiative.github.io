@@ -308,8 +308,8 @@
   complexity: 
 -
   id: 027
-  title: "TBA"
-  description: ""
+  title: "Dynamics of threat and reward processing in the human brain"
+  description: "Research on the emotional and motivational brain often employs relatively static paradigms, such as the presentation of emotion-laden faces. Because natural behaviors evolve temporally, advancing understanding of dynamic processes holds promise in opening new research avenues. In this presentation, I will discuss recent attempts to develop paradigms to study the dynamics of threat- and reward-related processes, as well as their interactions. I will also describe work exploring how recurrent neural networks can be used to characterize spatio-temporal dynamics as measured by functional MRI data, and how recurrent neural networks can be used to study more naturalistic/dynamic paradigms."
   subtype: presentation
   speakers: [130]
   language: en
