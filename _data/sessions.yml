@@ -317,8 +317,14 @@
   video: https://www.youtube.com/embed/i4AToFVqoYI
 -
   id: 028
-  title: "TBA"
-  description: ""
+  title: "Exploring the brain basis of population mental health in the UK Biobank"
+  description: "<p>The UK Biobank is a longitudinal population neuroimaging dataset with extensive neuroimaging, genomic, and phenotypic measures for up to N=100,000 older-age participants. The statistical power, deep phenotyping, and lack of exclusion criteria in this cohort provide an important opportunity to investigate ‘real-world’ mental health. I will present several studies performed in our lab over the past three years to validate UK Biobank mental health measures, identify reproducible multivariate neural correlates of mental health, parse clinical and biological heterogeneity in mental health, and identify lifestyle factors that promote resilience to mental health.</p>
+  <b>Recommended Articles:</b>
+  <ul>
+  <li>Dutt, R. K., Hannon, K., Easley, T. O., Griffis, J. C., Zhang, W., & Bijsterbosch, J. D. (2021). “Mental health in the UK Biobank: A roadmap to self‐report measures and neuroimaging correlates.” Human Brain Mapping. <a href='https://doi.org/10.1002/hbm.25690'>https://doi.org/10.1002/hbm.25690</a></li>
+  <li>Zhang, W., Paul, S. E., Winkler, A., Bogdan, R., & Bijsterbosch, J. D. (2022). “Shared brain and genetic architectures between mental health and physical activity.” In bioRxiv. <a href='https://doi.org/10.1101/2021.12.28.21268486'>https://doi.org/10.1101/2021.12.28.21268486</a></li>
+  <li>Easley, T. O., Chen, R., Hannon, K., Dutt, R. K., & Bijsterbosch, J. D. (2022). “Population modeling with machine learning can enhance measures of mental health - Open-Data Replication.” In bioRxiv (p. 2022.04.04.487069). <a href='https://doi.org/10.1101/2022.04.04.487069'>https://doi.org/10.1101/2022.04.04.487069</a></li>
+  </ul>"
   subtype: presentation
   speakers: [131]
   language: en

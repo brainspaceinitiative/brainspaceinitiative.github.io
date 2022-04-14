@@ -332,7 +332,7 @@
 - 
   date: "2022-03-18"
   dateReadable: "March 18, 2022"
-  past: false
+  past: true
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:

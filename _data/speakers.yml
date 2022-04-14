@@ -586,11 +586,11 @@
   id: 131
   name: "Janine"
   surname: "Bijsterbosch"
-  company: ""
-  title: ""
+  company: "Washington University in St. Louis"
+  title: "Assistant Professor, Computational Imaging Research Center, Department of Radiology"
   team: false
-  bio: ""
-  thumbnailUrl: ''
+  bio: "Dr. Bijsterbosch is an Assistant Professor in the Computational Imaging Research Center of the Department of Radiology at Washington University in St Louis. The Personomics Lab headed by Dr. Bijsterbosch aims to understand how brain connectivity patterns differ from one person to the next, by studying the “personalized connectome”. Using population datasets such as the UK Biobank, the Personomics Lab adopts cutting edge analysis techniques to study multivariate imaging measures associated with mental health symptomatology, heterogeneity, and resilience. In addition, Dr. Bijsterbosch is an advocate for Open Science serving as Editor of Open Data Replication Reports for the NeuroImage family of journals, and as Chair of the Open Science Special Interest Group within the Organization for Human Brain Mapping. Dr. Bijsterbosch is also engaged with international teaching efforts as Co-Chair of the FSL Course Organizing Committee and lead author of a textbook on functional connectivity analyses, which was published by Oxford University Press in 2017."
+  thumbnailUrl: 'Bijsterbosch.jpg'
   rockstar: true
   social: 
 - 
