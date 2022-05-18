@@ -637,3 +637,27 @@
   thumbnailUrl: ''
   rockstar: true
   social: 
+- 
+  id: 136
+  name: "Richard"
+  surname: "Betzel"
+  company: "Indiana University Bloomington"
+  title: "Assistant Professor, Psychological and Brain Sciences"
+  team: false
+  bio: "Undergraduate in Physics at Oberlin College, Ohio. PhD at Indiana University in psychological and brain sciences/cognitive science with Olaf Sporns. Postdoc at University Pennsylvania in Bioengineering with Danielle Bassett. Started the “brain networks and behavior lab” at Indiana University in 2018. Our aim is to characterize the architecture of macro-scale brain networks and understand its roles in cognition/disease/development."
+  thumbnailUrl: 'RichardBetzel.jpg'
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://www.brainnetworkslab.com/"}
+    - {name: "twitter", link: "https://twitter.com/richardfbetzel"}
+- 
+  id: 137
+  name: "Tianming"
+  surname: "Liu"
+  company: "University of Georgia"
+  title: "Professor, Computer Science"
+  team: false
+  bio: "Dr. Tianming Liu is a Distinguished Research Professor (since 2017) and a Full Professor of Computer Science (since 2015) at University of Georgia (UGA). Dr. Liu is also an affiliated faculty (by courtesy) with UGA Bioimaging Research Center (BIRC), UGA Institute of Bioinformatics (IOB), UGA Neuroscience PhD Program, and UGA Institute of Artificial Intelligence (IAI). Dr. Liu’s primary research interests are brain imaging, computational neuroscience, and brain-inspired artificial intelligence, and he has published over 380 papers in this area. Dr. Liu is the recipient of the NIH Career Award (2007-2012) and the NSF CAREER Award (2012-2017). Dr. Liu is a Fellow of AIMBE (inducted in 2018) and was the General Chair of MICCAI 2019."
+  thumbnailUrl: 'Liu_Tianming.jpg'
+  rockstar: true
+  social: 
