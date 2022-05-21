@@ -1,0 +1,36 @@
+<div class="accordion" id="accordionExample">
+  {% for section in site.data.accordion[page.subfolder] %}
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h2 class="mb-0">
+        <button class="btn btn-link btn-block text-left" type="button"
+							 data-toggle="collapse"
+	data-target="#{{ section.id }}"
+		aria-expanded="false" aria-controls="collapseOne">
+	{{ section.title}}
+
+        </button>
+      </h2>
+    </div>
+   <div id="{{ section.id }}" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+      <div class="card-body">
+      <li>
+      <a href="{{ section.url }}">{{ section.title }}</a>
+        {% capture full_id %}
+	  /{{ page.collection }}/{{ page.subfolder }}/{{ section.id }}
+        {% endcapture %}
+
+	{% assign target_collection = site.collections | where: "label",
+	page.collection | first %}
+	{% for node in target_collection.docs %}
+	  {% if full_id contains node.id %}
+	    {{ node.excerpt }}
+	  {% endif %}
+	{% endfor %}
+
+      </li>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>

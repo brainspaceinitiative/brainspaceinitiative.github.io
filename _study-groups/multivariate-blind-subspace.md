@@ -4,10 +4,12 @@ title: "#BSIsubspace Section"
 # leader ID = speaker ID - 1
 leader: 7
 image: banner_BSI_groups.jpg
+subfolder: subspace
 ---
 
 A (sub)space to discuss and learn about the relationships among classical & novel multivariate and subspace analysis methods 🤓
 
+{% include accordion.html %}
 
 #### List of Resources
 ![]({{ site.baseurl }}/img/subspace-updates/UsefulResources_part1.png)
