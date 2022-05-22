@@ -4,6 +4,7 @@ gems:
 safe: false
 
 # Build Settings
+excerpt_separator: <!--more-->
 markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
