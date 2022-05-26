@@ -3,20 +3,6 @@ description: "In our paper discussions, we use a role-playing format adapted fro
 playlist-url: "https://www.youtube.com/playlist?list=PLADTemYh-7P3ih6KDbhvLEzsGnYcoez_x"
 
 papers:
-  - title: "Modeling Shared Responses in NeuroImaging Studies through MultiView ICA"
-    author: "H. Richard et al."
-    date: 2021-06-28
-    paper-url: "https://arxiv.org/abs/2006.06635"
-    recording-url: "https://www.youtube.com/watch?v=Jlagh7-jFd4"
-    duration: "54m"
-    id: 1
-  - title: "Data Visualization in the Neurosciences: Overcoming the Curse of Dimensionality"
-    author: "E. Allen et al."
-    date: 2021-07-28
-    paper-url: "https://linkinghub.elsevier.com/retrieve/pii/S089662731200428X"
-    recording-url: "https://www.youtube.com/watch?v=iBt1WNVzpJY"
-    duration: "1h 2m"
-    id: 2
   - title: "Graph Signal Processing: Overview, Challenges, and Applications"
     author: "A. Ortega et al."
     date: 2021-10-25
@@ -24,6 +10,20 @@ papers:
     recording-url: "https://www.youtube.com/watch?v=WCZn9WUYJLA"
     duration: "1h 17m"
     id: 3
+  - title: "Data Visualization in the Neurosciences: Overcoming the Curse of Dimensionality"
+    author: "E. Allen et al."
+    date: 2021-07-28
+    paper-url: "https://linkinghub.elsevier.com/retrieve/pii/S089662731200428X"
+    recording-url: "https://www.youtube.com/watch?v=iBt1WNVzpJY"
+    duration: "1h 2m"
+    id: 2
+  - title: "Modeling Shared Responses in NeuroImaging Studies through MultiView ICA"
+    author: "H. Richard et al."
+    date: 2021-06-28
+    paper-url: "https://arxiv.org/abs/2006.06635"
+    recording-url: "https://www.youtube.com/watch?v=Jlagh7-jFd4"
+    duration: "54m"
+    id: 1
 
 roles:
   - title: "Scientific Peer Reviewer"

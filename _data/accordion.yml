@@ -5,3 +5,6 @@ subspace:
   - title: Virtual Talks
     url: subspace/talks.html
     id: talks
+  - title: Paper discussions
+    url: subspace/papers.html
+    id: papers

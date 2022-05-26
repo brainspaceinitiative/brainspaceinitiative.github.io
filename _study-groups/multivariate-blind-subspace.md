@@ -54,19 +54,6 @@ A (sub)space to discuss and learn about the relationships among classical & nove
 {% endfor %}
 
 
-#### Paper discussions
-
-***
-{% for discussion in site.data.subspace.paper_discussions.papers %}
-###### {{ discussion.title }} -- *{{ discussion.author }}*
-
-* [**Link to paper**]({{ discussion.paper-url }})
-* [**Click here to watch on YouTube!**]({{ discussion.recording-url }}) (Duration: {{ discussion.duration }})
-
-***
-
-{% endfor %}
-
 #### SocialNet()
 ##### 2021
 ![]({{ site.baseurl }}/img/subspace-updates/SocialNetFeedback.png)
