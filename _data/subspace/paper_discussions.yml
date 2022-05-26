@@ -1,0 +1,78 @@
+title: "The #BSIsubspace Paper Discussion"
+description: "In our paper discussions, we use a role-playing format adapted from Alec Jacobson’s and Colin Raffel’s role-playing seminar. #BSIsubspace members are encouraged to volunteer for roles (first-come, first serve). Details about roles are posted in the #bsi_subspace slack channel."
+playlist-url: "https://www.youtube.com/playlist?list=PLADTemYh-7P3ih6KDbhvLEzsGnYcoez_x"
+
+papers:
+  - title: "Modeling Shared Responses in NeuroImaging Studies through MultiView ICA"
+    author: "H. Richard et al."
+    date: 2021-06-28
+    paper-url: "https://arxiv.org/abs/2006.06635"
+    recording-url: "https://www.youtube.com/watch?v=Jlagh7-jFd4"
+    duration: "54m"
+    id: 1
+  - title: "Data Visualization in the Neurosciences: Overcoming the Curse of Dimensionality"
+    author: "E. Allen et al."
+    date: 2021-07-28
+    paper-url: "https://linkinghub.elsevier.com/retrieve/pii/S089662731200428X"
+    recording-url: "https://www.youtube.com/watch?v=iBt1WNVzpJY"
+    duration: "1h 2m"
+    id: 2
+  - title: "Graph Signal Processing: Overview, Challenges, and Applications"
+    author: "A. Ortega et al."
+    date: 2021-10-25
+    paper-url: "https://ieeexplore.ieee.org/document/8347162"
+    recording-url: "https://www.youtube.com/watch?v=WCZn9WUYJLA"
+    duration: "1h 17m"
+    id: 3
+
+roles:
+  - title: "Scientific Peer Reviewer"
+    id: 1
+    tasks: 
+      - details: "Consider the paper has not been published yet and is currently submitted to a top conference where you’ve been assigned as a peer reviewer."
+        id: 1
+      - details: "Complete a full review of the paper answering all prompts of the official review form of the top venue in this research area (e.g., NeurIPS, NeuroImage, IEEE, etc). This includes recommending whether to accept or reject the paper."
+        id: 2
+  - title: "Archaeologist"
+    id: 2
+    tasks:
+      - details: "Consider this paper was found buried in the desert."
+        id: 1
+      - details: "You’re an archeologist who must determine where this paper sits in the context of previous and subsequent work."
+        id: 2
+      - details: "Find and report on one older paper cited within the current paper that substantially influenced the current paper, and one newer paper that cites this current paper."
+        id: 3
+  - title: " Academic Researcher"
+    id: 3
+    tasks:
+      - details: "Consider you are a researcher who is working on a new project in this area."
+        id: 1
+      - details: "Propose an imaginary follow-up project not just based on the current, but only possible due to the existence and success of the current paper."
+        id: 2
+  - title: "Private Investigator"
+    id: 4
+    tasks:
+      - details: "Consider you are a detective who needs to run a background check on one of the paper’s authors."
+        id: 1
+      - details: "Where have they worked? What did they study? What previous projects might have led to working on this one? What motivated them to work on this project? Feel free to contact the authors, but remember to be courteous, polite, and on-topic."
+        id: 2
+  - title: "Social Impact Assessor"
+    id: 5
+    tasks:
+      - details: "Identify how this paper self-assesses its (likely positive) impact on the world."
+        id: 1
+      - details: "Have any additional positive social impacts been left out?"
+        id: 2
+      - details: "What are possible negative social impacts that were overlooked or omitted?"
+        id: 3
+  - title: "Hacker"
+    id: 6
+    tasks:
+      - details: "Consider you’re a hacker who needs a demo of this paper ASAP."
+        id: 1
+      - details: "Implement a small part or simplified version of the paper on a small dataset or toy problem."
+        id: 2
+      - details: "Prepare to share the core code of the algorithm to the class and demo your implementation."
+        id: 3
+      - details: "Do not simply download and run an existing implementation – though you are welcome to use (and give credit to) an existing implementation for 'backbone' code."
+        id: 4
