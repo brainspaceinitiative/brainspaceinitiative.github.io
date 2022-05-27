@@ -36,6 +36,7 @@ title: site.data.subspace.talks <> "Talks in the subspace group"
         </div>
     </div>
     {% set id0 += 1 %}
+    <p>{{ id0 }}</p>
     {% if id0 == 3 %}
         <!--more-->
     {% endif %}
