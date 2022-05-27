@@ -6,7 +6,6 @@ title: site.data.subspace.talks <> "Talks in the subspace group"
 ### Virtual talks
 ##### 2021
 ***
-{% set id0 = 0 %}
 {% for discussion in site.data.subspace.talks.talks %}
     <div class="text-left people-modal">
         <div class="modal-body">
@@ -35,9 +34,8 @@ title: site.data.subspace.talks <> "Talks in the subspace group"
             </div>
         </div>
     </div>
-    {% set id0 += 1 %}
-    <p>{{ id0 }}</p>
-    {% if id0 == 3 %}
+    <p>{{ forloop.counter }}</p>
+    {% if forloop.counter == 3 %}
         <!--more-->
     {% endif %}
 {% endfor %}
