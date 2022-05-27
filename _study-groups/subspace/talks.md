@@ -34,8 +34,7 @@ title: "The #BSIsubspace Virtual Talks"
             </div>
         </div>
     </div>
-    <p>{{ forloop.counter }}</p>
-    {% if forloop.counter == 3 %}
+    {% if forloop.index == 3 %}
         <!--more-->
     {% endif %}
 {% endfor %}
