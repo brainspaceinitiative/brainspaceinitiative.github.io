@@ -1,6 +1,6 @@
 ---
 layout: post
-title: site.data.subspace.talks <> "Talks in the subspace group"
+title: "The #BSIsubspace Virtual Talks"
 ---
 
 ### Virtual talks
