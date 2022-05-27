@@ -1,0 +1,84 @@
+title: "The #BSIsubspace Virtual Talks"
+description: "In this talk series, we invite speakers to place emphasis on methodology and insights rather than on specific application findings. Our goal is to explore the vast landscape of multivariate and subspace analysis methods, with a special focus on understanding how methods relate to each other and keeping track of the latest innovations. All talks are sponsored and promoted by the IEEE Signal Processing Society and the TReNDS Center."
+playlist-url: "https://www.youtube.com/playlist?list=PLADTemYh-7P3ih6KDbhvLEzsGnYcoez_x"
+talks:
+  - title: "Data Integration in Neuroimaging Studies"
+    speaker: "Benjamin B. Risk"
+    date: 2021-11-10
+    abstract: "As advances in technology allow the acquisition of complementary information, it is common for scientific studies to collect multiple datasets. In this talk, we will examine two approaches to data integration. In the first part, we will analyze the joint and individual structure in cognitive assessments and brain morphometry from the Alzheimer’s Disease Neuroimaging Initiative. We introduce probabilistic joint and individual variation (ProJIVE), which extends probabilistic PCA to multiple datasets. ProJIVE reveals links between brain regions and cognitive performance. In the second part of this talk, we introduce Simultaneous Non-Gaussian component analysis (SING) in which dimension reduction and feature extraction are achieved simultaneously. Instead of maximizing variance using PCA, SING maximizes non-Gaussianity to extract a lower-dimensional subspace and reveal new insights. We apply our method to a working memory task and resting-state correlations from the Human Connectome Project. We find joint structure as evident from learned spatial correspondence. Moreover, some of the subject scores are related to fluid intelligence."
+    speaker-bio: "Benjamin Risk is an Assistant Professor in the Department of Biostatistics & Bioinformatics, Rollins School of Public Health, Emory University. He completed his PhD in Statistics at Cornell University (2015) and was a postdoctoral associate with the Statistical and Applied Mathematical Sciences Institute and the University of North Carolina, Chapel Hill (2017). Benjamin Risk’s research focuses on neuroimaging and aims to further scientific understanding and medical research by developing, improving, and disseminating statistical methodology. His research includes dimension reduction methods, multimodal data integration, and the statistical impacts of MRI acquisition methods."
+    speaker-img: benrisk.png
+    paper-url: "https://doi.org/10.1214/21-AOAS1466"
+    recommended-reading:
+      - title: "Simultaneous non-Gaussian component analysis (SING) for data integration in neuroimaging"
+        paper-url: "https://doi.org/10.1214/21-AOAS1466"
+        id: 1
+    recording-url: "https://www.youtube.com/watch?v=invjfQSycmE"
+    id: 5
+  - title: "Template independent component analysis (ICA): Using empirical population priors to extract more accurate subject-level IC maps from fMRI data"
+    speaker: "Mandy Mejia"
+    date: 2021-09-01
+    abstract: "Independent component analysis (ICA) is a commonly used tool to estimate functional areas of the brain and the functional connectivity (FC) between them.  Due to low signal-to-noise and typically short scan durations in fMRI, subject-level ICA results tend to be highly noisy, and it is difficult to match or compare ICs across subjects.  Thus, group-average functional areas estimated via group ICA (GICA) are often used in lieu of subject-specific ones, partly or completely ignoring inter-subject variability in functional topology.  An alternative to these two extremes (noisy subject-level ICA and group-average ICA) is Bayesian hierarchical ICA, wherein information that is shared across subjects is leveraged to improve subject-level estimation of spatial maps and FC. However, fitting traditional hierarchical ICA models across many subjects is computationally intensive. Template ICA is a computationally convenient hierarchical ICA framework that uses empirical population priors based on an existing set of group ICs.  The estimated subject-level ICs are matched to the group ICs, facilitating quantitative comparisons across subjects and studies. The template ICA model optimally balances the prior and likelihood through spatially varying shrinkage that respects the data more in areas of engagement and performs more shrinkage in less engaged areas.  Furthermore, inference can be performed on the subject-level ICs to produce principled thresholded maps and to quantify spatial engagement for downstream analysis. A flexible Bayesian modeling framework allows for incorporating additional sources of prior information, such as spatial priors or priors on the FC between functional areas, and for estimating group effects and covariate effects.  Template ICA is implemented in the templateICAr R package, which is compatible with NIFTI, CIFTI and GIFTI data formats."
+    speaker-bio: "Mandy Mejia is an assistant professor in the Department of Statistics at Indiana University. Her research focuses on the development of statistical techniques for the analysis of functional magnetic resonance imaging (fMRI) data.  The overarching goal of her research program is to extract accurate insights into brain function and organization at the individual level from fMRI data. Her group pursues this goal in three primary ways: (1) developing computationally efficient Bayesian techniques, which leverage information shared across space and across individuals to produce more accurate estimates at the individual level; (2) developing statistically principled noise-reduction techniques, and (3) analyzing data on the cortical surface and subcortical gray matter, which facilitates spatial modeling and inter-subject alignment.  Her group has produced open-source software to facilitate cortical surface and Bayesian analysis of fMRI data, including the ciftiTools R package for handling and visualizing cortical surface data in R.  The methods her group has developed are currently being used to study functional neurodegeneration in ALS (amyotrophic lateral sclerosis), the effect of psilocybin on thalamic organization and connectivity, altered functional motor organization in autism spectrum disorder (ASD), and biomarker development in Alzheimer's disease (AD)."
+    speaker-img: mandymejia.png
+    paper-url: "https://arxiv.org/abs/1906.07294"
+    recommended-reading:
+      - title: "Template independent component analysis: Targeted and reliable estimation of subject-level brain networks using big data population priors."
+        paper-url: "https://arxiv.org/abs/1906.07294"
+        id: 1
+      - title: "ciftiTools: A package for reading, writing, visualizing and manipulating CIFTI files in R."
+        paper-url: "https://arxiv.org/abs/2106.11338"
+      - title: "A spatial template independent component analysis model for subject-level brain network estimation and inference."
+        paper-url: "https://arxiv.org/abs/2005.13388"
+    recording-url: "https://www.youtube.com/watch?v=R0yRIDLrNNc"
+    id: 4
+  - title: "Beyond independent component analysis: Subspace, coupled, and block decompositions"
+    speaker: "Dana Lahat"
+    date: 2021-06-30
+    abstract: "Independent component analysis (ICA) is one of the most popular frameworks for data analysis in general, and signal separation in particular. In its basic form, ICA separates one-dimensional sources from a linear mixture, based on the assumption that the sources are statistically independent. In this talk, I will present three more recent extensions of ICA: the first is independent subspace analysis (ISA), in which the independent components can be multi-dimensional sources. The second is independent vector analysis (IVA), in which several ICA problems are linked by statistical dependencies among the sources.  The third is joint independent subspace analysis (JISA), a flexible framework combining the advantages of ISA and IVA. I will focus on motivating these models from the uniqueness and data fusion points of view, and explain their link to tensors and to coupled matrix and tensor decompositions."
+    speaker-bio: "Dana Lahat received her Ph.D. in Electrical Engineering from Tel Aviv University, Israel, in 2013. Dr. Lahat is currently adjunct assistant professor in the Department of Computer Science and Electrical Engineering, University of Maryland Baltimore Country, USA, and researcher in the School of Electrical Engineering, Tel Aviv University, Israel. She held a post-doctoral research position with the Grenoble Images Speech Signal and Control laboratory (GIPSA-lab) in Grenoble, France (2013-2018), and with the CNRS and Institut de Recherche en Informatique de Toulouse (IRIT) in Toulouse, France (2018-2020). Her research interests include tensor methods for machine learning, data fusion, and data analysis, as well as statistical signal processing."
+    speaker-img: danalahat.jpg
+    paper-url: "https://doi.org/10.1109/TSP.2018.2880714"
+    recommended-reading:
+      - title: "Joint Independent Subspace Analysis: Uniqueness and Identifiability"
+        paper-url: "https://doi.org/10.1109/TSP.2018.2880714"
+        id: 1
+      - title: "Multidataset independent subspace analysis extends independent vector analysis"
+        paper-url: "https://doi.org/10.1109/ICIP.2014.7025579"
+      - title: "Joint BSS as a natural analysis framework for EEG-hyperscanning"
+        paper-url: "https://doi.org/10.1109/ICASSP.2013.6637843"
+      - title: "Independent Vector Analysis: An Extension of ICA to Multivariate Components"
+        paper-url: "https://doi.org/10.1007/11679363_21"
+      - title: "Multimodal Data Fusion: An Overview of Methods, Challenges, and Prospects"
+        paper-url: "https://doi.org/10.1109/JPROC.2015.2460697"
+    recording-url: "https://www.youtube.com/watch?v=WOh2zvj4aWU "
+    id: 3
+  - title: "Noisy Independent Component Analysis for brain signal processing: challenges and opportunities"
+    speaker: "Pierre Ablin"
+    date: 2021-06-02
+    abstract: "Independent Component Analysis (ICA) is a widely used source separation method to process brain data (EEG, MEG, and fMRI). In its standard form, it models the observed signals as a linear mixture of independent sources, without noise. The simplicity of this model allows for fast inference, which explains in part the success of ICA. However, there is much to be gained by adding a noise model to ICA, especially in a neuroimaging context, where data have a notoriously low signal to noise ratio. Unfortunately, the classical and naive approach for noise modelling in ICA leads to a computationally intractable problem. The goal of this talk is to demonstrate that this curse can sometimes be avoided, and to show the merits of noisy approaches to ICA. In particular, I will focus on spectral methods that leverage spectral diversity of the brain sources, and on multi-view problems, where the goal is to extract shared sources from several datasets. 
+    The beginning of this talk will be an introduction to ICA and its applications to brain signal processing."
+    speaker-bio: "Dr. Pierre Ablin received the Engineering degree from Ecole Polytechnique in 2015 and the Master of Science in Communications and Signal processing from Imperial College London in 2016. He then received the Ph.D. from Inria in 2019 on the subject of independent component analysis for brain processing, under the advisement of Jean-François Cardoso and Alexandre Gramfort. He is now a postdoctoral researcher at Ecole Normale Supérieure de Paris, in the team of Gabriel Peyré. His research interests include brain signal processing, numerical optimization, and theoretical foundations of deep learning."
+    speaker-img: pierreablin.jpg
+    paper-url: "https://arxiv.org/abs/2008.09693"
+    recommended-reading: 
+      - title: "Spectral independent component analysis with noise modeling for M/EEG source separation"
+        paper-url: "https://arxiv.org/abs/2008.09693"
+        id: 1
+      - title: "Modeling shared responses in neuroimaging studies through multiview ica"
+        paper-url: "https://arxiv.org/abs/2006.06635"
+    recording-url: "https://www.youtube.com/watch?v=l7JziiQB2D0&list=PLADTemYh-7P3ih6KDbhvLEzsGnYcoez_x&index=2&t=1s"
+    id: 2
+  - title: "The Landscape of Subspace Estimation: A Unifying view and the #BSIsubspace section"
+    speaker: "Rogers F. Silva"
+    date: 2021-05-31
+    abstract: 
+    speaker-bio: 
+    speaker-img: rogers.png
+    paper-url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5409135/
+    recommended-reading: 
+      - title: Blind Source Separation for Unimodal and Multimodal Brain Networks - A Unifying Framework for Subspace Modeling
+        paper-url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5409135/
+        id: 1
+    recording-url: https://www.youtube.com/watch?v=nTs4akCZqsw&list=PLADTemYh-7P3ih6KDbhvLEzsGnYcoez_x&index=1&ab_channel=BrainSpaceInitiative
+    id: 1

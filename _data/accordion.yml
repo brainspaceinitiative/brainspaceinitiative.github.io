@@ -1,0 +1,10 @@
+subspace:
+  - title: Resources
+    url: subspace/resources.html         
+    id: resources
+  - title: Virtual Talks
+    url: subspace/talks.html
+    id: talks
+  - title: Paper discussions
+    url: subspace/papers.html
+    id: papers

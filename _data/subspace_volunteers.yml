@@ -48,7 +48,8 @@
   company: "Karolinska Institutet"
   title: "Postdoctoral researcher"
   team: true
-  bio: "I am a postdoctoral researcher working with Dr. Joana Pereira at the Department of Neurobiology, Care Sciences and Society, Karolinska Institute in Sweden. I obtained my Ph.D. in Materials Science and Nanotechnology from Bilkent University, Turkey, studying the emergent collective behaviors from the interaction of autonomous mobile individuals. 
+  bio: "I am a postdoctoral researcher working with Dr. Joana Pereira at the Department of Neurobiology, Care Sciences and Society, Karolinska Institute in Sweden. I obtained my Ph.D. in Materials Science and Nanotechnology from Bilkent University, Turkey, studying the emergent collective behaviors from the interaction of autonomous mobile individuals.
+
 
   <br><br> 
   
@@ -58,3 +59,63 @@
   social: 
     - {name: "google-scholar", link: "https://scholar.google.com/citations?user=x7MacIwAAAAJ&hl=en&oi=ao"}
     - {name: "site", link: "https://staff.ki.se/people/mite-mijalkov"}
+
+-
+  id: 4
+  name: "Syed"
+  surname: "Ather"
+  company: "University of Toronto"
+  title: "Ph.D. student" 
+  team: true
+
+  bio: "I'm a Ph.D. student in Medical Science at the University of Toronto where I perform research on the connectivity structures underlying schizophrenia. By applying dynamic causal modelling (DCM) to patient data, I search for insights into spatiotemporal measures of connectivity across models of connectivity. My work, based on the free energy principle, has applications in neuroethics, epistemology, and AI.
+
+  <br><br> 
+
+After completing my undergraduate in physics and philosophy at Indiana University-Bloomington, I performed research in bioinformatics and computational neuroscience at the National Institutes of Health (NIH) before joining the Krembil Centre for Neuroinformatics (KCNI) in January, 2021. I also have interests in science communication and philosophy."
+
+  thumbnailUrl: 'sha.jpg'
+  rockstar: true
+  social: 
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=jPL2-dEAAAAJ&hl=en"}
+    - {name: "site", link: "http://hussainather.com/"}
+
+-
+  id: 5
+  name: "Anjali"
+  surname: "Agarwal"
+  company: "Tata Research Development and Design Center"
+  title: "Researcher" 
+  team: true
+
+  bio: "I am currently working as a Researcher in TRDDC India in the area of Behavioral, Business and Social Science domain.
+
+  <br><br> 
+
+I completed my bachelor's in Electrical Engineering from Indian Institute of Technology, Palakkad. During my undergraduate, I developed an interest in Computational Neuroscience, specifically Brain-Computer Interface. I aspire to apply for graduate school to work on the interface of BCI and assistive technologies."
+
+  thumbnailUrl: 'anjali.jpg'
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://anjaliagarwal8.github.io/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/anjaliagarwal8/"}
+
+-
+  id: 7
+  name: "Jordan"
+  surname: "Hanania"
+  company: "University of British Columbia"
+  title: "Ph.D. student"
+  team: true 
+
+  bio: "I am a Ph.D. student in Medical Physics at UBC in Vancouver, Canada, studying under Dr. Vesna Sossi. I completed my Master's degree working with the APXS instrument on-board the Curiosity rover, but decided to switch fields to studying the human brain due to its level of mystery and complexity. Beyond the science, I'm interested in philosophical questions regarding the nature of consciousness and intelligence.
+
+  <br><br>
+ 
+  My research makes use of simultaneous imaging of the brain using positron emission tomography (PET) and magnetic resonance imaging (MRI). Our group primarily focuses on Parkinson's disease, for which I am exploring measures of connectivity in the healthy and diseased brain."
+
+  thumbnailUrl: 'hanania.jpg'
+  rockstar: true 
+  social:
+    - {name: "site", link: "http://pet.ubc.ca/person/jordan-hanania/"}
+    - {name: "linkedin", link: "http://linkedin.com/in/jordan-hanania-446a8b88/"}

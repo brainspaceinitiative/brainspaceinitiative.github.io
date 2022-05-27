@@ -7,4 +7,3 @@ title: "Resources section in the subspace group"
 ![]({{ site.baseurl }}/img/subspace-updates/UsefulResources_part1.png)
 
 <!--more-->
-

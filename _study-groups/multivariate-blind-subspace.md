@@ -4,10 +4,12 @@ title: "#BSIsubspace Section"
 # leader ID = speaker ID - 1
 leader: 7
 image: banner_BSI_groups.jpg
+subfolder: subspace
 ---
 
 A (sub)space to discuss and learn about the relationships among classical & novel multivariate and subspace analysis methods 🤓
 
+{% include accordion.html %}
 
 #### List of Resources
 ![]({{ site.baseurl }}/img/subspace-updates/UsefulResources_part1.png)
@@ -17,12 +19,40 @@ A (sub)space to discuss and learn about the relationships among classical & nove
 
 #### Virtual talks
 ##### 2021
-[![]({{ site.baseurl }}/img/subspace-updates/Virtual_Talks_Info.png)](https://www.youtube.com/playlist?list=PLADTemYh-7P3ih6KDbhvLEzsGnYcoez_x)
+***
+{% for discussion in site.data.subspace.talks.talks %}
+<div class="text-left people-modal">
+    <div class="modal-body">
+        <div class="people-details">
+            <div class="row">
+                <div class="col-md-2 col-sm-2">
+                    {% assign speaker = site.data.speakers[ page.leader ] %}
+                    <div class="flow-img img-circle people-img" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: discussion.speaker-img }})"></div>
+                </div>
+                <div class="col-lg-10 col-sm-10 details">
+                    <p class="name" style="font-size: 18px"> {{ discussion.title }} 
+                        <span class="position">- {{ discussion.speaker }}</span>
+                    </p>
+                    <p>
+                        <a href="{{ discussion.paper-url }}" target="_blank">
+                            <strong>Link to paper</strong>
+                        </a>
+                    </p>
+                    <p>
+                        <a href="{{ discussion.recording-url }}" target="_blank">
+                            <strong>Click here to watch on YouTube!</strong>
+                        </a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
+***
 
-#### Paper discussions
-##### 2021
-![]({{ site.baseurl }}/img/subspace-updates/Paper_discussions.jpg)
+{% endfor %}
+
 
 #### SocialNet()
 ##### 2021
@@ -53,7 +83,6 @@ A (sub)space to discuss and learn about the relationships among classical & nove
             </div>
         </div>
     </div>
-
 </div>
 
 #### Student Volunteer Core Members

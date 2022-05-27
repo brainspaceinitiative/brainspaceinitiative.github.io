@@ -160,9 +160,9 @@
   title: "Emotion Representation in the Human Brain"
   description: "<p>Emotion is central to human experience; it influences cognition, behavior, mental health, and well-being. Despite their importance and self-evidence, emotions are notoriously difficult to define scientifically. In this talk, I will present research combining approaches from cognitive neuroscience and machine learning to build models of human brain activity that track the engagement of distinct affective processes. I will discuss evidence suggesting that brain representations of emotional states are high-dimensional, distributed, and are inconsistent with intuitive psychological models that organize emotions along a small number of dimensions, such as valence and arousal. Building and validating quantitative models of human brain activity promises to provide insight into the nature of emotion provide novels targets for cognitive and therapeutic interventions.</p>
 <b>Recommended Articles:</b>
-<ul><li>Kragel, P. A., Reddan, M. C., LaBar, K. S., & Wager, T. D. (2019). Emotion schemas are embedded in the human visual system. Science advances, 5(7), eaaw4358. <a href='https://advances.sciencemag.org/content/5/7/eaaw4358'>Link to Paper</a></li>
-<li>Kragel, P. A., Koban, L., Barrett, L. F., & Wager, T. D. (2018). Representation, pattern information, and brain signatures: from neurons to neuroimaging. Neuron, 99(2), 257-273. <a href='https://www.cell.com/neuron/fulltext/S0896-6273(18)30477-X'>Link to Paper</a></li>
-<li>Kragel, P. A., & LaBar, K. S. (2016). Decoding the nature of emotion in the brain. Trends in cognitive sciences, 20(6), 444-455. <a href='https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(16)30004-3'>Link to Paper</a></li></ul>"
+<ul><li>Kragel, P. A., Reddan, M. C., LaBar, K. S., & Wager, T. D. (2019). Emotion schemas are embedded in the human visual system. Science advances, 5(7), eaaw4358. <a href='https://advances.sciencemag.org/content/5/7/eaaw4358'></li></a></li>
+<li>Kragel, P. A., Koban, L., Barrett, L. F., & Wager, T. D. (2018). Representation, pattern information, and brain signatures: from neurons to neuroimaging. Neuron, 99(2), 257-273. <a href='https://www.cell.com/neuron/fulltext/S0896-6273(18)30477-X'></li></a></li>
+<li>Kragel, P. A., & LaBar, K. S. (2016). Decoding the nature of emotion in the brain. Trends in cognitive sciences, 20(6), 444-455. <a href='https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(16)30004-3'></li></a></li></ul>"
   subtype: presentation
   speakers: [118]
   language: en
@@ -173,9 +173,9 @@
   title: "Nonlinear Independent Component Analysis, with Applications to EEG/MEG"
   description: "<p>Unsupervised learning, in particular learning general nonlinear representations, is one of the deepest problems in machine learning. Estimating latent quantities in a generative model provides a principled framework, and has been successfully used in the linear case, e.g., with independent component analysis (ICA) and sparse coding. ICA is well established in analysis of brain imaging data. However, extending ICA to the nonlinear case has proven to be extremely difficult: A straight-forward extension is unidentifiable, i.e., it is not possible to recover those latent components that actually generated the data. Here, we show that this problem can be solved by using additional information, in particular in the form of temporal structure.  Our methods are related to 'self-supervised' learning increasingly used in deep learning. Application of such methods to EEG/MEG analysis is a promising avenue for research.</p>
 <b>Recommended Articles:</b>
-<ul><li>Hyvarinen, Aapo, and Hiroshi Morioka. 'Unsupervised Feature Extraction by Time-Contrastive Learning and Nonlinear ICA.' <a href='https://www.cs.helsinki.fi/u/ahyvarin/papers/NIPS16.pdf'>Link to Paper</a></li>
-<li>Morioka, Hiroshi, Hermanni Hälvä, and Aapo Hyvarinen. 'Independent Innovation Analysis for Nonlinear Vector Autoregressive Process.' <a href='https://arxiv.org/pdf/2006.10944.pdf'>Link to Paper</a></li>
-<li>Banville, Hubert, et al. 'Uncovering the structure of clinical EEG signals with self-supervised learning.' <a href='https://arxiv.org/pdf/2007.16104.pdf'>Link to Paper</a></li></ul>"
+<ul><li>Hyvarinen, Aapo, and Hiroshi Morioka. 'Unsupervised Feature Extraction by Time-Contrastive Learning and Nonlinear ICA.' <a href='https://www.cs.helsinki.fi/u/ahyvarin/papers/NIPS16.pdf'></li></a></li>
+<li>Morioka, Hiroshi, Hermanni Hälvä, and Aapo Hyvarinen. 'Independent Innovation Analysis for Nonlinear Vector Autoregressive Process.' <a href='https://arxiv.org/pdf/2006.10944.pdf'></li></a></li>
+<li>Banville, Hubert, et al. 'Uncovering the structure of clinical EEG signals with self-supervised learning.' <a href='https://arxiv.org/pdf/2007.16104.pdf'></li></a></li></ul>"
   subtype: presentation
   speakers: [119]
   language: en
@@ -186,8 +186,8 @@
   title: "The Bilingual Brain: Uncovering Neural Architecture for Learning to Read across Languages"
   description: "<p>Learning to read change's mind and brain. How might bilingual experience influence children’s neural architecture for learning to read?  Words have sounds and meanings. The neural architecture for learning to read includes the formation of sound-to-print and meaning-to-print neurocognitive pathways.  Importantly, there is also significant cross-linguistic variation in how children form these associations. In phonologically transparent such as Italian, children develop stronger sound-to-print networks, whereas learners of Chinese form stronger meaning-to-print associations. To understand how bilingual experiences influence children’s developing neural architecture for learning to read we use fNIRS with Spanish-English and Chinese-English bilingual children in the US. Several key findings emerge from these data that we will discuss during the presentation. First, the findings reveal principled bilingual transfer effects of children’s phonological, morphological, and lexical processes for learning to read.  Second, the findings reveal the Universal aspects of literacy development across these typologically-distinct languages. The findings are discussed in light of theoretical perspectives on learning to read, bilingual development, as well as the universal and language-specific aspects of language, literacy, and dyslexia.</p>
 <b>Recommended Articles:</b>
-<ul><li>Arredondo MM, Hu XS, Seifert E, Satterfield T, Kovelman I. “Bilingual exposure enhances left IFG specialization for language in children.” Bilingualism: Language and Cognition. 2019. <a href='https://doi.org/10.1017/S1366728918000512'>Link to Paper</a></li>
-<li>Ip KI, Hsu LS, Arredondo MM, Tardif T, Kovelman I. “Brain bases of morphological processing in Chinese-English bilingual children.” Developmental Science. 2016. <a href='https://doi.org/10.1111/desc.12449'>Link to Paper</a></li></ul>"
+<ul><li>Arredondo MM, Hu XS, Seifert E, Satterfield T, Kovelman I. “Bilingual exposure enhances left IFG specialization for language in children.” Bilingualism: Language and Cognition. 2019. <a href='https://doi.org/10.1017/S1366728918000512'></li></a></li>
+<li>Ip KI, Hsu LS, Arredondo MM, Tardif T, Kovelman I. “Brain bases of morphological processing in Chinese-English bilingual children.” Developmental Science. 2016. <a href='https://doi.org/10.1111/desc.12449'></li></a></li></ul>"
   subtype: presentation
   speakers: [120]
   language: en
@@ -239,7 +239,8 @@
   description: "<p>Even in the absence of external stimuli, neural activity is both highly dynamic and organized across multiple spatiotemporal scales. The continuous evolution of brain activity patterns during rest is believed to help maintain a rich repertoire of possible functional configurations that relate to typical and atypical cognitive phenomena. Whether these transitions or “explorations” follow some underlying arrangement or instead lack a predictable ordered plan remains to be determined. Here, using a precision dynamics approach, we aimed at revealing the rules that govern transitions in brain activity at rest at the single participant level. We hypothesized that by revealing and characterizing the overall landscape of whole brain configurations (or states) we could interpret the rules (if any) that govern transitions in brain activity at rest. To generate the landscape of whole-brain configurations we used Topological Data Analysis based Mapper approach. Across all participants, we consistently observed a rich topographic landscape in which the transition of activity from one state to the next involved a central hub-like “transition state.” The hub topography was characterized as a shared attractor-like basin where all canonical resting-state networks were represented equally. The surrounding periphery of the landscape had distinct network configurations. The intermediate transition state and traversal through it via a topographic gradient seemed to provide the underlying structure for the continuous evolution of brain activity patterns at rest. In addition, differences in the landscape architecture were more consistent within than between subjects, providing evidence of idiosyncratic dynamics and potential utility in precision medicine.<p>
 <b>Recommended Articles:</b>
 <ul><li>“Precision dynamical mapping using topological data analysis reveals a unique hub-like transition state at rest.” Manish Saggar, James M. Shine, Raphaël Liégeois, Nico U. F. Dosenbach, and Damien Fair, bioRxiv, 2021. <a href='https://www.biorxiv.org/content/10.1101/2021.08.05.455149v2'>https://www.biorxiv.org/content/10.1101/2021.08.05.455149v2</a></li>
-<li>•	“Towards a New Approach to Reveal Dynamical Organization of the Brain Using Topological Data Analysis.” Manish Saggar, Olaf Sporns, Javier Gonzalez-Castillo, Peter A. Bandettini, Gunnar Carlsson, Gary Glover, and Allan L. Reiss, Nature Communications, 2018. <a href='https://www.nature.com/articles/s41467-018-03664-4'>https://www.nature.com/articles/s41467-018-03664-4</a></li></ul>"
+<li></li>
+<li>“Towards a New Approach to Reveal Dynamical Organization of the Brain Using Topological Data Analysis.” Manish Saggar, Olaf Sporns, Javier Gonzalez-Castillo, Peter A. Bandettini, Gunnar Carlsson, Gary Glover, and Allan L. Reiss, Nature Communications, 2018. <a href='https://www.nature.com/articles/s41467-018-03664-4'>https://www.nature.com/articles/s41467-018-03664-4</a></li></ul>"
   subtype: presentation
   speakers: [124]
   language: en
@@ -308,23 +309,31 @@
   complexity: 
 -
   id: 027
-  title: "TBA"
-  description: ""
+  title: "Dynamics of threat and reward processing in the human brain"
+  description: "Research on the emotional and motivational brain often employs relatively static paradigms, such as the presentation of emotion-laden faces. Because natural behaviors evolve temporally, advancing understanding of dynamic processes holds promise in opening new research avenues. In this presentation, I will discuss recent attempts to develop paradigms to study the dynamics of threat- and reward-related processes, as well as their interactions. I will also describe work exploring how recurrent neural networks can be used to characterize spatio-temporal dynamics as measured by functional MRI data, and how recurrent neural networks can be used to study more naturalistic/dynamic paradigms."
   subtype: presentation
   speakers: [130]
   language: en
   complexity: 
+  video: https://www.youtube.com/embed/i4AToFVqoYI
 -
   id: 028
-  title: "TBA"
-  description: ""
+  title: "Exploring the brain basis of population mental health in the UK Biobank"
+  description: "<p>The UK Biobank is a longitudinal population neuroimaging dataset with extensive neuroimaging, genomic, and phenotypic measures for up to N=100,000 older-age participants. The statistical power, deep phenotyping, and lack of exclusion criteria in this cohort provide an important opportunity to investigate ‘real-world’ mental health. I will present several studies performed in our lab over the past three years to validate UK Biobank mental health measures, identify reproducible multivariate neural correlates of mental health, parse clinical and biological heterogeneity in mental health, and identify lifestyle factors that promote resilience to mental health.</p>
+  <b>Recommended Articles:</b>
+  <ul>
+  <li>Dutt, R. K., Hannon, K., Easley, T. O., Griffis, J. C., Zhang, W., & Bijsterbosch, J. D. (2021). “Mental health in the UK Biobank: A roadmap to self‐report measures and neuroimaging correlates.” Human Brain Mapping. <a href='https://doi.org/10.1002/hbm.25690'>https://doi.org/10.1002/hbm.25690</a></li>
+  <li>Zhang, W., Paul, S. E., Winkler, A., Bogdan, R., & Bijsterbosch, J. D. (2022). “Shared brain and genetic architectures between mental health and physical activity.” In bioRxiv. <a href='https://doi.org/10.1101/2021.12.28.21268486'>https://doi.org/10.1101/2021.12.28.21268486</a></li>
+  <li>Easley, T. O., Chen, R., Hannon, K., Dutt, R. K., & Bijsterbosch, J. D. (2022). “Population modeling with machine learning can enhance measures of mental health - Open-Data Replication.” In bioRxiv (p. 2022.04.04.487069). <a href='https://doi.org/10.1101/2022.04.04.487069'>https://doi.org/10.1101/2022.04.04.487069</a></li>
+  </ul>"
   subtype: presentation
   speakers: [131]
   language: en
   complexity: 
+  video: https://www.youtube.com/embed/zXMxk3KIpkU
 -
   id: 029
-  title: "TBA"
+  title: "Postponed"
   description: ""
   subtype: presentation
   speakers: [132]
@@ -359,6 +368,32 @@
   description: ""
   subtype: presentation
   speakers: [135]
+  language: en
+  complexity: 
+-
+  id: 033
+  title: "Edge-centric Connectomics"
+  description: "<p>Comparison and integration of neuroimaging data from different brains and populations is fundamental in neuroscience in that it underlies countless statistically meaningful conclusions about the human brain. However, the uniqueness of each human brain imposes fundamental challenges to existing approaches that aim to compare and integrate brain science data across individuals and populations. This longstanding challenge has escalated and become more urgent with the recent dramatic growth of publicly available brain science data, particularly neuroimaging data. Despite numerous efforts in the brain science field over the past few decades, there is still a fundamental lack of basic understanding and concrete representation of the regularity and variability of the human brain. In this talk, I will share the research experience on representation of human brain commonality and individuality using neuroimaging data in the Cortical Architecture Imaging and Discovery Lab at the University of Georgia in the past decade. I will introduce the opportunities and challenges in creating a universal and individualized brain reference system that encodes functional localizations of brain structures by fiber connection patterns and topographic folding patterns, which possess finer granularity, better functional homogeneity, more accurate functional localization, and intrinsically established correspondence across different brains."
+  subtype: presentation
+  speakers: [136]
+  language: en
+  complexity: 
+-
+  id: 034
+  title: "Disentangle Human Brain Commonality and Individuality"
+  description: "<p>Comparison and integration of neuroimaging data from different brains and populations is fundamental in neuroscience in that it underlies countless statistically meaningful conclusions about the human brain. However, the uniqueness of each human brain imposes fundamental challenges to existing approaches that aim to compare and integrate brain science data across individuals and populations. This longstanding challenge has escalated and become more urgent with the recent dramatic growth of publicly available brain science data, particularly neuroimaging data. Despite numerous efforts in the brain science field over the past few decades, there is still a fundamental lack of basic understanding and concrete representation of the regularity and variability of the human brain. In this talk, I will share the research experience on representation of human brain commonality and individuality using neuroimaging data in the Cortical Architecture Imaging and Discovery Lab at the University of Georgia in the past decade. I will introduce the opportunities and challenges in creating a universal and individualized brain reference system that encodes functional localizations of brain structures by fiber connection patterns and topographic folding patterns, which possess finer granularity, better functional homogeneity, more accurate functional localization, and intrinsically established correspondence across different brains.</p>
+  <b>Recommended Article:</b>
+<ul>
+<li>Xiao Li, Tao Liu, Yujie Li, Qing Li, Xianqiao Wang, Xintao Hu, Lei Guo, Tuo Zhang, Tianming Liu, Marmoset Brain ISH Data Revealed Molecular Difference Between Cortical Folding Patterns, Cerebral Cortex, 2020. <a href='https://doi.org/10.1093/cercor/bhaa317'>https://doi.org/10.1093/cercor/bhaa317</a></li>
+<li>Huan Liu, Shu Zhang, Xi Jiang, Tuo Zhang, Heng Huang, Fangfei Ge, Lin Zhao, Xiao Li, Xintao Hu, Junwei Han, Lei Guo, Tianming Liu, The Cerebral Cortex is Bisectionally Segregated into Two Fundamentally Different Functional Units of Gyri and Sulci, Cerebral Cortex, 2018. <a href='https://doi.org/10.1093/cercor/bhy305'>https://doi.org/10.1093/cercor/bhy305</a></li>
+<li>Fangfei Ge, Xiao Li, Mir Jalil Razavi, Hanbo Chen, Tuo Zhang, Shu Zhang, Lei Guo, Xiaoping Hu, Xianqiao Wang, Tianming Liu, Denser Growing Fiber Connections Induce 3-hinge Gyral Folding, Cerebral Cortex, 2017. <a href='https://doi.org/10.1093/cercor/bhx227'>https://doi.org/10.1093/cercor/bhx227</a></li>
+<li>Hanbo Chen, Yujie Li, Fangfei Ge, Gang Li, Dinggang Shen, Tianming Liu, Gyral Net: A New Representation of Cortical Folding Organization, Medical Image Analysis, 2017. <a href='https://doi.org/10.1016/j.media.2017.07.001'>https://doi.org/10.1016/j.media.2017.07.001</a></li>
+<li>Xiao Li, Hanbo Chen, Tuo Zhang, Xiang Yu, Xi Jiang, Kaiming Li, Longchuan Li, Mir Jalil Razavi, Xianqiao Wang, Xintao Hu, Junwei Han, Lei Guo, Xiaoping Hu, Tianming Liu, Commonly-Preserved and Species-Specific Gyral Folding Patterns across Primate Brains, Brain Structure and Function, 2016. <a href='https://doi.org/10.1007/s00429-016-1329-3'>https://doi.org/10.1007/s00429-016-1329-3</a></li>
+<li>Fan Deng, Xi Jiang, Dajiang Zhu, Tuo Zhang, Kaiming Li, Lei Guo, Tianming Liu, A functional model of cortical gyri and sulci, Brain Structure and Function, 2013. <a href='https://dx.doi.org/10.1007%2Fs00429-013-0581-z'>https://dx.doi.org/10.1007%2Fs00429-013-0581-z</a></li>
+<li>Hanbo Chen, Tuo Zhang, Lei Guo, Kaiming Li, Xiang Yu, Longchuan Li, Xintao Hu, Junwei Han, Xiaoping Hu, Tianming Liu, Coevolution of Gyral Folding and Structural Connection Patterns in Primate Brains, Cerebral Cortex, 2012. <a href='https://doi.org/10.1093/cercor/bhs113'>https://doi.org/10.1093/cercor/bhs113</a></li>
+<li>Jingxin Nie, Lei Guo, Kaiming Li, Yonghua Wang, Guojun Chen, Longchuan Li, Hanbo Chen, Fan Deng, Xi Jiang, Tuo Zhang, Ling Huang, Carlos Faraco, Degang Zhang, Cong Guo, Pew-Thian Yap, Xintao Hu, Gang Li, Jinglei Lv, Yixuan Yuan, Dajiang Zhu, Junwei Han, Dean Sabatinelli, Qun Zhao, L Stephen Miller, Bingqian Xu, Ping Shen, Simon Platt, Dinggang Shen, Xiaoping Hu, Tianming Liu, Axonal Fiber Terminations Concentrate on Gyri, Cerebral Cortex, 2011.<a href='https://doi.org/10.1093/cercor/bhaa317'>https://doi.org/10.1093/cercor/bhaa317</a></li></ul>"
+  subtype: presentation
+  speakers: [137]
   language: en
   complexity: 
 
