@@ -11,49 +11,6 @@ A (sub)space to discuss and learn about the relationships among classical & nove
 
 {% include accordion.html %}
 
-#### List of Resources
-![]({{ site.baseurl }}/img/subspace-updates/UsefulResources_part1.png)
-
-<!-- #### Journal Club Info 
-[Coming soon] -->
-
-#### Virtual talks
-##### 2021
-***
-{% for discussion in site.data.subspace.talks.talks %}
-<div class="text-left people-modal">
-    <div class="modal-body">
-        <div class="people-details">
-            <div class="row">
-                <div class="col-md-2 col-sm-2">
-                    {% assign speaker = site.data.speakers[ page.leader ] %}
-                    <div class="flow-img img-circle people-img" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: discussion.speaker-img }})"></div>
-                </div>
-                <div class="col-lg-10 col-sm-10 details">
-                    <p class="name" style="font-size: 18px"> {{ discussion.title }} 
-                        <span class="position">- {{ discussion.speaker }}</span>
-                    </p>
-                    <p>
-                        <a href="{{ discussion.paper-url }}" target="_blank">
-                            <strong>Link to paper</strong>
-                        </a>
-                    </p>
-                    <p>
-                        <a href="{{ discussion.recording-url }}" target="_blank">
-                            <strong>Click here to watch on YouTube!</strong>
-                        </a>
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-***
-
-{% endfor %}
-
-
 #### SocialNet()
 ##### 2021
 ![]({{ site.baseurl }}/img/subspace-updates/SocialNetFeedback.png)
