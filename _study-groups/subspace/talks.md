@@ -35,9 +35,13 @@ title: "The #BSIsubspace Virtual Talks"
     </div>
 </div>
 {% if forloop.index == 3 %}
+
 <!--more-->
+
 {% endif %}
 {% endfor %}
+
+<!--more-->
 
 ### Virtual talks
 ##### 2021
