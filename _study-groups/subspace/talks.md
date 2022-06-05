@@ -34,10 +34,9 @@ title: "The #BSIsubspace Virtual Talks"
         </div>
     </div>
 </div>
-{% if forloop.index == 3 %}
-
-<!--more-->
-
+{% if forloop.index == 3 and page.path == '_study-groups/subspace/talks.md/#excerpt' %}
+{% break %}
+<!-- more -->
 {% endif %}
 {% endfor %}
 
