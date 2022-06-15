@@ -3,3 +3,4 @@
   elements: 
     - {name: "IEEE SPS", description: "IEEE Signal Processing Society Data Science Initiative", link: "https://signalprocessingsociety.org/community-involvement/data-science-initiative/", imageUrl: "SPS_Logo_Color_RGB.png"}
     - {name: "TReNDS", description: "The Tri-institutional Center for Translational Research in Neuroimaging & Data Science", link: "http://trendscenter.org", imageUrl: "TReNDS_logo.png"}
+    - {name: "CREST D-MAP", description: "Dynamic Multiscale & Multimodal Brain Mapping Across Lifespan", link: "https://trendscenter.org/d-map/http://trendscenter.org", imageUrl: "crest.png"}
