@@ -301,8 +301,18 @@
   video: https://www.youtube.com/embed/xHtj_3ZuGik
 -
   id: 026
-  title: "Understanding and manipulating the brain using encoding models"
-  description: ""
+  title: "Toward causality in the brain: from lesions to psychedelics"
+  description: "<p>The recent explosion of neuroimaging studies in large-scale populations of humans has begin to reveal complex mappings between brain and behavior. Cross-sectional studies do not allow, however, for exploring causality in the brain. Lesion studies have historically allowed direct linking between an area of damage and a specific behavioral change, and more recent virtual lesion (TMS), ECoG and pharmacological experiments have allowed exploration of the effect of manipulating brain function on behavior. These type of studies take steps in the direction of understanding causality in brain-behavior relationships. In her talk, Amy will discuss recent work in this area and present some of her own work studying the effect of damage on both brain structure/function and behavior, how the brain recovers from damage and how psychedelics may impact whole-brain function.</p>
+  <b>Recommended Articles:</b>
+  <ul>
+    <li>Kuceyeski, A., Maruta, J., Relkin, N., Raj, A., 2013. The Network Modification (NeMo) Tool: elucidating the effect of white matter integrity changes on cortical and subcortical structural connectivity. Brain Connect 3, 451-463. <a href='https://doi.org/10.1089/brain.2013.0147'>https://doi.org/10.1089/brain.2013.0147</a></li>
+    <li>Kuceyeski, A. , Jamison, K.W., Owen, J.P., Raj, A., Mukherjee, P., 2019. Longitudinal increases in structural connectome segregation and functional connectome integration are associated with better recovery after mild TBI. Hum Brain Mapp 40, 4441-4456. <a href='https://doi.org/10.1002%2Fhbm.24713'>https://doi.org/10.1002%2Fhbm.24713</a></li>
+    <li>Tozlu, C., Jamison, K., Gu, Z., Gauthier, S.A., Kuceyeski, A., 2021. Estimated connectivity networks outperform observed connectivity networks when classifying people with multiple sclerosis into disability groups. Neuroimage Clin 32, 102827. <a href='https://doi.org/10.1016%2Fj.nicl.2021.102827'>https://doi.org/10.1016%2Fj.nicl.2021.102827</a></li>
+    <li>Olafson, E.R., Jamison, K.W., Sweeney, E.M., Liu, H., Wang, D., Bruss, J.E., Boes, A.D., Kuceyeski, A., 2021. Functional connectome reorganization relates to post-stroke motor recovery and structural and functional disconnection. Neuroimage 245, 118642. <a href='https://doi.org/10.1016/j.neuroimage.2021.118642'>https://doi.org/10.1016/j.neuroimage.2021.118642</a></li>
+    <li>Singleton P, Luppi A, Carhart-Harris RL, Cruzat J, Roseman L, Deco G, Kringelbach M, Stamatakis EA, Kuceyeski A. Psychedelics flatten the brain’s energy landscape: evidence from receptor-informed network control theory. Nature Communications (in press). </li>
+    <li>Olafson E, Russello G, Jamison K, Liu H, Wang D, Bruss J, Boes A, Kuceyeski A. Increased prevalence of a frontoparietal brain state is associated with better motor recovery after stroke affecting dominant-hand cortico-spinal tract. Communications Biology (in press). </li>
+  </ul>
+  "
   subtype: presentation
   speakers: [129]
   language: en

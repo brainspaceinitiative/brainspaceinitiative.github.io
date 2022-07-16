@@ -564,11 +564,11 @@
   id: 129
   name: "Amy"
   surname: "Kuceyeski"
-  company: ""
-  title: ""
+  company: "Cornell University"
+  title: "Associate Professor of Mathematics; Adjunct Associate Professor of Computational Biology"
   team: false
-  bio: ""
-  thumbnailUrl: ''
+  bio: "Amy Kuceyeski is an Associate Professor of Mathematics in the Radiology Department at Weill Cornell Medicine and an Adjunct Associate Professor in the Computational Biology Department at Cornell University. She was awarded her PhD in 2009 from Case Western Reserve University and spent her postdoctoral fellowship and early faculty years at Weill Cornell Medicine. For over a decade, Amy has been interested in understanding how the human brain works in order to better diagnose, prognose and treat neurological disease and injury. Quantitative approaches, including mathematical modeling and machine learning, applied to data from rapidly evolving neuroimaging techniques, have the potential to enable ground-breaking discoveries about how the brain works. Amy has particular interest in lesion-symptom mapping, non-invasive brain stimulation and pharmacological interventions, like psychedelics, that may be used to modulate brain activity and promote recovery from disease or injury."
+  thumbnailUrl: 'Amy_Kuceyeski.jpeg'
   rockstar: true
   social: 
 - 
