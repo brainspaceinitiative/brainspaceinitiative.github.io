@@ -661,3 +661,36 @@
   thumbnailUrl: 'Liu_Tianming.jpg'
   rockstar: true
   social: 
+- 
+  id: 138
+  name: "Catie"
+  surname: "Chang"
+  company: ""
+  title: ""
+  team: false
+  bio: ""
+  thumbnailUrl: ''
+  rockstar: true
+  social: 
+- 
+  id: 139
+  name: "Leonardo"
+  surname: "Bonilha"
+  company: ""
+  title: ""
+  team: false
+  bio: ""
+  thumbnailUrl: ''
+  rockstar: true
+  social: 
+- 
+  id: 140
+  name: "Pierre"
+  surname: "Bellec"
+  company: ""
+  title: ""
+  team: false
+  bio: ""
+  thumbnailUrl: ''
+  rockstar: true
+  social: 

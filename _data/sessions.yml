@@ -407,6 +407,30 @@
   language: en
   complexity: 
   video: https://www.youtube.com/embed/iw3Zgpjx1KE
+-
+  id: 035
+  title: "TBA"
+  description: ""
+  subtype: presentation
+  speakers: [138]
+  language: en
+  complexity: 
+-
+  id: 036
+  title: "Deep learning radiological evaluation of epilepsy"
+  description: ""
+  subtype: presentation
+  speakers: [139]
+  language: en
+  complexity: 
+-
+  id: 037
+  title: "Courtois NeuroMod databank"
+  description: ""
+  subtype: presentation
+  speakers: [140]
+  language: en
+  complexity: 
 
 
 
