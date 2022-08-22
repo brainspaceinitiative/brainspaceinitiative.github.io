@@ -665,11 +665,11 @@
   id: 138
   name: "Catie"
   surname: "Chang"
-  company: ""
-  title: ""
+  company: "Vanderbilt University"
+  title: "Assistant Professor of Electrical and Computer Engineering, Computer Science, and Biomedical Engineering"
   team: false
-  bio: ""
-  thumbnailUrl: ''
+  bio: "Catie Chang is an Assistant Professor of Electrical and Computer Engineering, Computer Science, and Biomedical Engineering at Vanderbilt University. She received her Ph.D. from Stanford University, and was a postdoctoral fellow in the NIH Intramural Research Program. Her lab, the Neuroimaging and Brain Dynamics Lab, seeks to advance understanding of human brain function through techniques for analyzing and interpreting neuroimaging data."
+  thumbnailUrl: 'catie_lab.jpeg'
   rockstar: true
   social: 
 - 

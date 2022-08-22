@@ -409,8 +409,14 @@
   video: https://www.youtube.com/embed/iw3Zgpjx1KE
 -
   id: 035
-  title: "TBA"
-  description: ""
+  title: "Functional MRI of dynamic neural and physiological states"
+  description: "<p>Spontaneous fMRI signals provide a valuable window into human brain functional organization. Recent work has also demonstrated the potential for extracting information about dynamic internal states from fMRI. In this talk, I will discuss studies in which we use multimodal functional imaging to investigate the dynamics of spontaneous brain activity and to track ongoing changes in alertness and autonomic physiology.</p>
+<b>Recommended Article:</b>
+<ul>
+<li>Goodale, S.E., Ahmed, N., Zhao, C., de Zwart, J.A., Özbay, P.S., Picchioni, D., Duyn, J., Englot, D.J., Morgan, V.L., Chang, C., 2021. fMRI-based detection of alertness predicts behavioral response variability. Elife 10. <a href='https://doi.org/10.7554%2FeLife.62376'>https://doi.org/10.7554%2FeLife.62376</a></li>
+<li>Bayrak, R.G., Hansen, C.B., Salas, J.A., Ahmed, N., Lyu, I., Huo, Y., Chang, C., 2021. From Brain to Body: Learning Low-Frequency Respiration and Cardiac Signals from fMRI Dynamics. Medical Image Computing and Computer Assisted Intervention – MICCAI 2021. <a href='https://doi.org/10.1007/978-3-030-87234-2_52'>https://doi.org/10.1007/978-3-030-87234-2_52</a></li>
+<li>Martin, C.G., He, B.J., Chang, C., 2021. State-related neural influences on fMRI connectivity estimation. Neuroimage 244, 118590. <a href='https://doi.org/10.1016/j.neuroimage.2021.118590'>https://doi.org/10.1016/j.neuroimage.2021.118590</a></li>
+</ul>"
   subtype: presentation
   speakers: [138]
   language: en
