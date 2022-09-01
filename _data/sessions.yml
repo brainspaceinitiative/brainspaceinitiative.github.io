@@ -420,7 +420,8 @@
   subtype: presentation
   speakers: [138]
   language: en
-  complexity: https://www.youtube.com/embed/qYjLkRr4ims
+  complexity: 
+  video: https://www.youtube.com/embed/qYjLkRr4ims
 -
   id: 036
   title: "Deep learning radiological evaluation of epilepsy"
