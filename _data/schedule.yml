@@ -404,7 +404,7 @@
 - 
   date: "2022-09-30"
   dateReadable: "September 30, 2022"
-  past: false
+  past: true
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
