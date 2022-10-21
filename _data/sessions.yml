@@ -426,7 +426,14 @@
 -
   id: 036
   title: "Deep learning radiological evaluation of epilepsy"
-  description: ""
+  description: "<p>Conventional neuroradiological diagnosis of epilepsy still relies on qualitative inspection of clinical MRI. Epilepsy is associated with subtle quantitative abnormalities that have not been leveraged to improve diagnostic accuracy. In this talk, we will discuss applications of deep learning to address this scientific and clinical gap.</p>
+<b>Recommended Article:</b>
+<ul>
+<li>Bonilha, L., Rorden, C., Castellano, G., Pereira, F., Rio, P. A., Cendes, F., & Li, L. M. (2004). Voxel-based morphometry reveals gray matter network atrophy in refractory medial temporal lobe epilepsy. Archives of neurology, 61(9), 1379-1384. <a href='https://doi.org/10.1001/archneur.61.9.1379'>https://doi.org/10.1001/archneur.61.9.1379</a></li>
+<li>Gleichgerrcht, E., Munsell, B., Bhatia, S., Vandergrift III, W. A., Rorden, C., McDonald, C., ... & Bonilha, L. (2018). Deep learning applied to whole‐brain connectome to determine seizure control after epilepsy surgery. Epilepsia, 59(9), 1643-1654. <a href='https://doi.org/10.1111/epi.14528'>https://doi.org/10.1111/epi.14528</a></li>
+<li>Gleichgerrcht, E., Munsell, B., Keller, S. S., Drane, D. L., Jensen, J. H., Spampinato, M. V., ... & Bonilha, L. (2022). Radiological identification of temporal lobe epilepsy using artificial intelligence: a feasibility study. Brain communications, 4(2), fcab284. <a href='https://doi.org/10.1093/braincomms/fcab284'>https://doi.org/10.1093/braincomms/fcab284</a></li>
+<li>Gleichgerrcht, E., Munsell, B. C., Alhusaini, S., Alvim, M. K., Bargalló, N., Bender, B., ... & Wiest, R. (2021). Artificial intelligence for classification of temporal lobe epilepsy with ROI-level MRI data: A worldwide ENIGMA-Epilepsy study. NeuroImage: Clinical, 31, 102765. <a href='https://doi.org/10.1016/j.nicl.2021.102765'>https://doi.org/10.1016/j.nicl.2021.102765</a></li>
+</ul>"
   subtype: presentation
   speakers: [139]
   language: en
