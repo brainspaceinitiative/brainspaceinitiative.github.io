@@ -184,3 +184,7 @@ $ git push origin master
 $ git checkout develop
 ```
 
+### Troubleshooting
+
+* If the CSS file is not building, you can copy the content of ./css/main.bak to ./css/main.css.
+* If there is a ruby/bundle/jekyll site building issue, it can usually be solved by running `bundle update`.
