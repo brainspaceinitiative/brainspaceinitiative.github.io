@@ -441,8 +441,8 @@
   video: https://www.youtube.com/embed/m70NCcnt6X8
 -
   id: 037
-  title: "Courtois NeuroMod databank"
-  description: ""
+  title: "Gamer in the scanner: imitation of human video gameplay and fMRI brain activity using artificial neural networks"
+  description: "Artificial neural networks can successfully play video games, yet these AI agents have difficulty adapting to changes in the game environment, or transfer knowledge across different games. As human players can efficiently transfer skills across environments, the Courtois NeuroMod team is working to align the representations of artificial neural networks with human players [1]. We first designed and validated a fully MRI-compatible video game controller [2]. The data collected for this project are part of an extremely deep individual fMRI sample currently featuring up to 140 hours of fMRI per subject (N=6), made available for the community as part of the Courtois NeuroMod data bank (https://cneuromod.ca). We successfully trained artificial agents to imitate the actions of humans playing the game “Shinobi III: revenge of the ninja master” and found that the internal representations of the agents could be used to effectively predict individual brain activity measured with functional magnetic resonance imaging [3]. This work could open new avenues to train robust AI video game characters, and gain new insights in brain representations for active and complex stimuli."
   subtype: presentation
   speakers: [140]
   language: en

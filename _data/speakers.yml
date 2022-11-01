@@ -689,10 +689,10 @@ In epilepsy research, I am the corresponding MPI on an R01 project to assess con
   id: 140
   name: "Pierre"
   surname: "Bellec"
-  company: ""
-  title: ""
+  company: "University of Montreal"
+  title: "Associate Professor, Department of Psychology"
   team: false
-  bio: ""
-  thumbnailUrl: ''
+  bio: "Pierre Bellec is an associate professor at the department of Psychology of University of Montreal. His main research interest is to train artificial neural networks to mimic human brain activity and behavior, at the level of individuals."
+  thumbnailUrl: 'bellec-pierre.png'
   rockstar: true
   social: 
