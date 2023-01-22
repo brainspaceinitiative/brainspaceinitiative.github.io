@@ -446,7 +446,8 @@
   subtype: presentation
   speakers: [140]
   language: en
-  complexity: 
+  complexity:
+  video: https://www.youtube.com/watch?v=jF8L4xP4R08
 -
   id: 038
   title: "Quantitative, Multidimensional MR Spectroscopic Imaging by Integrating Spin Physics and Machine Learning"
