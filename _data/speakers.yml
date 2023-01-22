@@ -696,3 +696,30 @@ In epilepsy research, I am the corresponding MPI on an R01 project to assess con
   thumbnailUrl: 'bellec-pierre.png'
   rockstar: true
   social: 
+- 
+  id: 141
+  name: "Fan"
+  surname: "Lam"
+  company: "University of Illinois Urbana-Champaign"
+  title: "Assistant professor, Department of Bioengineering"
+  team: false
+  bio: "Dr. Fan Lam graduated from Tsinghua University with his BS in 
+Biomedical Engineering. He received his PhD in Electrical and Computer Engineering
+from the University of Illinois Urbana-Champaign (UIUC, 2015). Currently, he is an 
+assistant professor in the Department of Bioengineering at UIUC, a full-time faculty 
+member with the Beckman Institute for Advanced Science and Technology and a co-
+director of the Master of Science in Biomedical Image Computing program at UIUC. 
+Lam's research focuses on developing advanced magnetic resonance-based 
+molecular imaging and multimodal brain mapping methods, and their applications 
+to the study of brain function at normal and diseased states. Dr. Lam is a Junior 
+Fellow of ISMRM (International Society of Magnetic Resonance in Medicine), and a 
+recipient of an NSF CAREER Award (2020). Other awards include a Best Student 
+Paper Award from IEEE-ISBI (International Symposium of Biomedical Imaging, 2015),
+Robert T. Chien Memorial Award from ECE-UIUC (2015), an NIH-NIBIB Trailblazer 
+Award (2020), and an NIH-NIGMS MIRA R35 Award (2021). Dr. Lam is a senior 
+member of IEEE, serves as an Associate Editor for IEEE Transactions on Medical 
+Imaging and a co-chair of the Young Scholar Committee at the World Association for
+Chinese Biomedical Engineers (WACBE)."
+  thumbnailUrl: 'lam-fan.png'
+  rockstar: true
+  social: 

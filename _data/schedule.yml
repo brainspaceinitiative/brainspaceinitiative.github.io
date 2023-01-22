@@ -428,7 +428,7 @@
 - 
   date: "2022-12-16"
   dateReadable: "November 25, 2022"
-  past: false
+  past: true
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -436,4 +436,16 @@
     	startTime: "11:00",
     	endTime: "12:00",
     	sessionIds: [037]
+    }
+- 
+  date: "2023-01-27"
+  dateReadable: "January 27, 2023"
+  past: false
+  tracks: 
+    - {title: "BSI Talk Series", color: "#428bca"}
+  timeslots:
+    - {
+    	startTime: "01:00",
+    	endTime: "02:00",
+    	sessionIds: [038]
     }
