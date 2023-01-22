@@ -447,6 +447,34 @@
   speakers: [140]
   language: en
   complexity: 
-
-
-
+-
+  id: 038
+  title: "Quantitative, Multidimensional MR Spectroscopic Imaging by Integrating Spin Physics and Machine Learning"
+  description: "<p> While neuroimaging has transformed neuroscience by allowing us to map detailed 
+in vivo structural and functional organizations of human brain, technologies to 
+probe the rich molecular complexity and underpinnings of brain functions in vivo 
+are lacking. Magnetic resonance spectroscopic imaging (MRSI) allows for 
+multiplexed molecular imaging and metabolic profiling of the brain in vivo, but its 
+applications have been limited by low sensitivity, poor spatial resolution, slow 
+imaging speed and challenges in separating molecular signals of interest. In this 
+talk, I will discuss our efforts in addressing these challenges. Specifically, I will 
+present our progresses on achieving simultaneous, high-resolution mapping of 
+metabolites, neurotransmitters, and their biophysical parameters using a 
+quantitative multidimensional MRSI approach that builds on and expanding a 
+subspace imaging framework. I will also discuss how we integrate physics-based 
+modeling and machine learning to address the limitations of subspace modeling. 
+Finally, I will discuss our collaborative efforts on clinical translations of the new 
+imaging technology. We expect these developments to create new tools to help 
+better understand the molecular basis of brain function and diseases, improve 
+diagnosis and treatment assessment.</p>
+<b>Recommended Article:</b>
+<ul>
+<li>F. Lam, C. Ma, B. Clifford, C. L. Johnson, Z.-P. Liang. High-resolution 1H-MRSI of the brain using SPICE: Data Acquisition and Image Reconstruction, Magn. Reson. Med., 76:1059-1070, 2017.  <a href='https://onlinelibrary.wiley.com/doi/10.1002/mrm.26019'>Link to Paper</a></li>
+<li>F. Lam, Y. Li, R. Guo, Y. Zhao, B. Clifford, Z.-P. Liang. Ultrafast magnetic resonance spectroscopic imaging using SPICE with learned subspaces, Magn. Reson. Med., 83:377-390, 2020.   <a href='https://onlinelibrary.wiley.com/doi/10.1002/mrm.27980'>Link to Paper</a></li>
+<li>F. Lam, Y. Li, X. Peng. Constrained magnetic resonance spectroscopic imaging by learning nonlinear low-dimensional models, IEEE Trans. Med. Imaging, 39:545-555, 2020. <a href='https://ieeexplore.ieee.org/document/8770102'>Link to Paper</a></li>
+<li>4.	Z. Wang, Y. Li, F. Lam, High-resolution, 3D multi-TE 1H-MRSI using fast spatiospectral encoding and subspace imaging, Magn. Reson. Med., 87:1103-1118, 2022<a href='https://onlinelibrary.wiley.com/doi/10.1002/mrm.29015'>Link to Paper</a></li>
+</ul>"
+  subtype: presentation
+  speakers: [141]
+  language: en
+  complexity: 
