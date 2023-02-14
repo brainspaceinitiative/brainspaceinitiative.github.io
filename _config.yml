@@ -258,18 +258,80 @@ directionDetailsWideCards:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
 # Hackathon
-hackathonTitle: "Singnal Procession CUP 2023"
+hackathonTitle: "IEEE Signal Processing Cup 2023"
 enableHackathon: true
 
 # Hackathon About Block
-aboutHackathonTitle: "Challenge Overview"
+aboutHackathonTitle: "Psychosis Classification Challenge"
 hackathonRows:
- - {title: "SP CUP 2023", image: "hackathon-0.png", details: "Schizophrenia and bipolar disorder are among the top 20 leading causes of disability, demanding timely, accurate diagnosis to select the optimal treatment and reduce the overall burden of the disease. However, the misdiagnosis rate of current diagnostic procedures is high. The misdiagnosis rate for bipolar and schizophrenia was reported to be over 50%, and the misdiagnosis between these two disorders is between 15~30%. This high misdiagnosis rate is rooted in the descriptive, symptom-based nature of current diagnostics, which do not use objective biomarkers. For example, the current state of the disease and the patient's subjective insight into their symptoms are major determinants of the diagnosis, which can be misleading. Individuals' subjective opinions of their symptoms can be convoluted and influenced by the subject current and past disorder status. Symptoms are also not always uniform for the same disorder, and there is heuristic biases toward specific symptoms, which can result in misdiagnosis. In addition, substantial heterogeneity and symptom overlap across diagnostic categories have encumbered the accurate, timely classification and led to a considerable debate about the degree to which current clinical assessments can differentiate between diagnostic groups.
-It is increasingly recognized that biomarkers that reflect underlying neurobiological mechanisms can improve early, accurate diagnosis. Psychosis-related aberrations mainly appear during the neurodevelopmental phase or at the early psychosis stage, with little or subtle brain changes during the rest of the lifespan. This can facilitate the optimal treatment to reduce suicide risk, significant side effects of medication, and the overall burden of the disease. Such biomarkers can be achieved by leveraging resting-state functional magnetic resonance imaging (rsfMRI), which provides noninvasive and indirect measurements of neuronal activities. This competition aims to evaluate the ability rsfMRI to develop valid neuroimaging diagnostic tools to differentiate schizophrenia (SZ) and bipolar psychosis (BPP) using a large dataset of individuals with fully developed symptoms that allowed near to perfect classification using DSM criteria.
-Assessment criteria
-The problem proposed is a multiclass classification task of SZ versus BPP. The dataset is split into 60% public train set, 20% public test set, and 20% private test set. The entire dataset with the label of the public train set will be available to the teams. Each team allows up to 10 submissions. For each submission, the team has to submit soft classification scores for all three datasets and receive feedback about AUC on the public test set only. The last submission will be considered the team selected submission, and the winner will be chosen based on the AUC of the private test set. The technical support and real-time communication between participants and the organizing team will be provided via the Brain Space Initiative (BSI) Slack workspace (https://brainspaceinitiative.github.io/).
-Description of the required data to process
-The full dataset for this competition consists of 507 individuals with BPP and 323 subjects with SZ. We use one hundred fifteen intrinsic connectivity network (ICN) timecourses derived from a multi-spatial-scale spatially constrained ICA approach and their functional network connectivity (FNC) for the competition. The analysis steps to extract these features are as follows. (1) Quality control will be applied to identify high-quality data. (2) Each subject's rsfMRI data are preprocessed using a common procedure, including rigid body motion correction, slice timing correction, and distortion correction. (3) Preprocessed subject data are registered into a common space, resampled to 3 mm3 isotropic voxels, and spatially smoothed using a Gaussian kernel with a 6 mm full width at half-maximum (FWHM). (4) We use a multi-spatial-scale template of 115 ICNs and a constraint ICA approach to obtain subject-specific ICNs time course. (5) ICN time courses are detrended by removing linear, quadratic, and cubic trends. The six motion realignment parameters and their derivatives are regressed out. Outliers are detected based on the median absolute deviation and replaced with the best estimate using a third-order spline fit to the clean portions of the time courses. Bandpass filtering is applied using a fifth-order Butterworth filter with a cutoff frequency of 0.01–0.15 Hz. (6) FNC is estimated by calculating the Pearson correlation between each pair of ICN time courses resulting in one FNC matrix for each individual."}
+ - {title: "SP CUP 2023", image: "hackathon-0.png", details: "    <section>
+<h3> Goal </h3>
+<p align="justify">Schizophrenia and bipolar disorder are among the top 20 leading causes of disability, demanding timely, accurate diagnosis to select the optimal treatment and reduce the overall burden of the disease. However, the misdiagnosis rate of current diagnostic procedures is high, which is rooted in the descriptive, symptom-based nature of current diagnostics, which do not use objective biomarkers. 
+It is increasingly recognized that biomarkers that reflect underlying neurobiological mechanisms can improve early, accurate diagnosis. This can facilitate the optimal treatment to reduce suicide risk, significant side effects of medication, and the overall burden of the disease. Such biomarkers can be achieved by leveraging resting-state functional magnetic resonance imaging (rsfMRI), which provides noninvasive and indirect measurements of neuronal activities. This competition aims to evaluate the ability rsfMRI to develop valid neuroimaging diagnostic tools to differentiate schizophrenia (SZ) and bipolar psychosis (BPP) using a large dataset of individuals with fully developed symptoms that allowed near to perfect classification using DSM criteria.
+</p>
+    </section>
+
+    <section>
+        <h3>
+            Eligibility
+        </h3>
+<p align="justify">
+    Any team composed of one faculty member, at most one graduate student, and 3 to 10 undergraduate students is welcomed to join the open competition. At least 3 students must be IEEE Student Members.
+</p>
+    </section>
+
+
+  <section>
+    <h3>
+        Dataset
+    </h3>
+
+    <p align="justify">
+        The dataset for this competition consists of rsfMRI from individuals with schizophrenia and bipolar psychosis. Each individual, one hundred fifteen intrinsic connectivity network (ICN) timecourses and their functional network connectivity (FNC) will be distributed to the participants. Additional Information about data can be found on Kaggle page (link)
+    </p>
+  </section>
+
+  <section>
+    <h3>
+        Assessment criteria
+    </h3>
+
+    <p align="justify">
+        The problem proposed is a classification task of SZ versus BPP. The dataset is split into 60% public train set, 20% public test set, and 20% private test set. The entire dataset with the label of the public train set will be available to the teams. Each team allows up to 10 submissions. For each submission, the team has to submit soft classification scores for all three datasets and receive feedback about AUC on the public test set only. The last submission  will be considered the team-selected submission, and the winner will be chosen based on the AUC of the private test set.
+    </p>
+  </section>
+
+
+  <section>
+    <h3>
+        Prize
+    </h3>
+
+    <p align="justify">
+        Kaggle will not pay any prizes. See IEEE Signal Processing Cup webpage for additional details.
+    </p>
+  </section>
+
+  <section>
+    <h2>Important Dates</h2>
+    <p> Register: Registration Link </p>
+    <p> Submission deadline: March 17, 2023</p>
+        <p>Finalists Announcement: March 31, 2023</p>
+            <p>Final @ICASSP: June 4-10, 2023</p>
+
+  </section>
+
+
+
+  <section>
+<h3> 
+    Additional information about the data
+</h3>
+
+    <p align="justify">
+        The full dataset for this competition consists of 323 individuals with BPP and  506 subjects with SZ. We use one hundred fifteen intrinsic connectivity network (ICN) timecourses derived from a multi-spatial-scale spatially constrained ICA approach and their functional network connectivity (FNC) for the competition. The analysis steps to extract these features are as follows. (1) Quality control will be applied to identify high-quality data. (2) Each subject's rsfMRI data are preprocessed using a common procedure, including rigid body motion correction, slice timing correction, and distortion correction. (3) Preprocessed subject data are registered into a common space, resampled to 3 mm3 isotropic voxels, and spatially smoothed using a Gaussian kernel with a 6 mm full width at half-maximum (FWHM). (4) We use a multi-spatial-scale template of 115 ICNs obtain from 100k+ subject and a constraint ICA approach to obtain subject-specific ICNs time course. (5) ICN time courses are detrended by removing linear, quadratic, and cubic trends. The six motion realignment parameters and their derivatives are regressed out. Outliers are detected based on the median absolute deviation and replaced with the best estimate using a third-order spline fit to the clean portions of the time courses. Bandpass filtering is applied using a fifth-order Butterworth filter with a cutoff frequency of 0.01–0.15 Hz. (6) FNC is estimated by calculating the Pearson correlation between each pair of ICN time courses resulting in one FNC matrix for each individual. 
+    </p>
+  </section>"}
 # - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
 # - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
 
