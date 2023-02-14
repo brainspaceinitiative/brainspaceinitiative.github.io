@@ -55,7 +55,7 @@ navigationLinks:
  - {permalink: "/about/", text: "About"}
  - {permalink: "/team/", text: "Team"}
 #  - {permalink: "/logistics/", text: "Logistics"}
-#  - {permalink: "/hackathon/", text: "Hackathon"}
+#  - {permalink: "/competition/", text: "Hackathon"}
 bottomNavigationLinks:
  - {permalink: "https://forms.gle/XtfPXW8vfoDPhFjW6", text: "Join now"}
 rightNavigationButtons:
@@ -262,7 +262,7 @@ hackathonTitle: "IEEE Signal Processing Cup 2023"
 enableHackathon: true
 
 # Hackathon About Block
-aboutHackathonTitle: "Psychosis Classification Challenge"
+aboutHackathonTitle: "SP CUP Challenge 2023 : Psychosis Classification"
 hackathonRows:
  - {title: "SP CUP 2023", image: "hackathon-0.png", details: ""}
 # - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
@@ -270,14 +270,14 @@ hackathonRows:
 
 # Hackathon Judges Block
 judgesImage: "judges.jpg"
-judgesTitle: "Judges"
+judgesTitle: "Organizers"
 
 # Hackathon Prizes Block
 prizesTitle: "Prizes"
 prizes:
- - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
- - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
- - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
+ - {title: "2nd Place", image: "", info: "Comming Soon"}
+ - {title: "1nd Place", image: "", info: "Comming Soon"}
+ - {title: "3nd Place", image: "", info: "Comming Soon"}
 
 # Hackathon Location Block
 hackathonLocationBlockTitle: "Location"

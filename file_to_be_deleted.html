@@ -1,77 +1,109 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
 <body>
-    
+
     <section>
-<h3> Goal </h3>
-<p align="justify">Schizophrenia and bipolar disorder are among the top 20 leading causes of disability, demanding timely, accurate diagnosis to select the optimal treatment and reduce the overall burden of the disease. However, the misdiagnosis rate of current diagnostic procedures is high, which is rooted in the descriptive, symptom-based nature of current diagnostics, which do not use objective biomarkers. 
-It is increasingly recognized that biomarkers that reflect underlying neurobiological mechanisms can improve early, accurate diagnosis. This can facilitate the optimal treatment to reduce suicide risk, significant side effects of medication, and the overall burden of the disease. Such biomarkers can be achieved by leveraging resting-state functional magnetic resonance imaging (rsfMRI), which provides noninvasive and indirect measurements of neuronal activities. This competition aims to evaluate the ability rsfMRI to develop valid neuroimaging diagnostic tools to differentiate schizophrenia (SZ) and bipolar psychosis (BPP) using a large dataset of individuals with fully developed symptoms that allowed near to perfect classification using DSM criteria.
-</p>
+        <h4> Goal </h4>
+        <p align="justify">Schizophrenia and bipolar disorder are among the top 20 leading causes of disability,
+            demanding timely, accurate diagnosis to select the optimal treatment and reduce the overall burden of the
+            disease. However, the misdiagnosis rate of current diagnostic procedures is high, which is rooted in the
+            descriptive, symptom-based nature of current diagnostics, which do not use objective biomarkers.
+            It is increasingly recognized that biomarkers that reflect underlying neurobiological mechanisms can improve
+            early, accurate diagnosis. This can facilitate the optimal treatment to reduce suicide risk, significant
+            side effects of medication, and the overall burden of the disease. Such biomarkers can be achieved by
+            leveraging resting-state functional magnetic resonance imaging (rsfMRI), which provides noninvasive and
+            indirect measurements of neuronal activities. This competition aims to evaluate the ability rsfMRI to
+            develop valid neuroimaging diagnostic tools to differentiate schizophrenia (SZ) and bipolar psychosis (BPP)
+            using a large dataset of individuals with fully developed symptoms that allowed near to perfect
+            classification using DSM criteria.
+        </p>
     </section>
 
     <section>
-        <h3>
+        <h4>
             Eligibility
-        </h3>
-<p align="justify">
-    Any team composed of one faculty member, at most one graduate student, and 3 to 10 undergraduate students is welcomed to join the open competition. At least 3 students must be IEEE Student Members.
-</p>
+        </h4>
+        <p align="justify">
+            Any team composed of one faculty member, at most one graduate student, and 3 to 10 undergraduate students is
+            welcomed to join the open competition. At least 3 students must be IEEE Student Members.
+        </p>
     </section>
 
 
-  <section>
-    <h3>
-        Dataset
-    </h3>
+    <section>
+        <h4>
+            Dataset
+        </h4>
 
-    <p align="justify">
-        The dataset for this competition consists of rsfMRI from individuals with schizophrenia and bipolar psychosis. Each individual, one hundred fifteen intrinsic connectivity network (ICN) timecourses and their functional network connectivity (FNC) will be distributed to the participants. Additional Information about data can be found on Kaggle page (link)
-    </p>
-  </section>
+        <p align="justify">
+            The dataset for this competition consists of rsfMRI from individuals with schizophrenia and bipolar
+            psychosis. Each individual, one hundred fifteen intrinsic connectivity network (ICN) timecourses and their
+            functional network connectivity (FNC) will be distributed to the participants. Additional Information about
+            data can be found on Kaggle page (link)
+        </p>
+    </section>
 
-  <section>
-    <h3>
-        Assessment criteria
-    </h3>
+    <section>
+        <h4>
+            Assessment criteria
+        </h4>
 
-    <p align="justify">
-        The problem proposed is a classification task of SZ versus BPP. The dataset is split into 60% public train set, 20% public test set, and 20% private test set. The entire dataset with the label of the public train set will be available to the teams. Each team allows up to 10 submissions. For each submission, the team has to submit soft classification scores for all three datasets and receive feedback about AUC on the public test set only. The last submission  will be considered the team-selected submission, and the winner will be chosen based on the AUC of the private test set.
-    </p>
-  </section>
+        <p align="justify">
+            The problem proposed is a classification task of SZ versus BPP. The dataset is split into 60% public train
+            set, 20% public test set, and 20% private test set. The entire dataset with the label of the public train
+            set will be available to the teams. Each team allows up to 10 submissions. For each submission, the team has
+            to submit soft classification scores for all three datasets and receive feedback about AUC on the public
+            test set only. The last submission will be considered the team-selected submission, and the winner will be
+            chosen based on the AUC of the private test set.
+        </p>
+    </section>
 
 
-  <section>
-    <h3>
-        Prize
-    </h3>
+    <section>
+        <h4>
+            Prize
+        </h4>
 
-    <p align="justify">
-        Kaggle will not pay any prizes. See IEEE Signal Processing Cup webpage for additional details.
-    </p>
-  </section>
+        <p align="justify">
+            Kaggle will not pay any prizes. See IEEE Signal Processing Cup webpage for additional details.
+        </p>
+    </section>
 
-  <section>
-    <h2>Important Dates</h2>
-    <p> Register: Registration Link </p>
-    <p> Submission deadline: March 17, 2023</p>
+    <section>
+        <h4>Important Dates</h4>
+        <p> Register: Registration Link </p>
+        <p> Submission deadline: March 17, 2023</p>
         <p>Finalists Announcement: March 31, 2023</p>
-            <p>Final @ICASSP: June 4-10, 2023</p>
+        <p>Final @ICASSP: June 4-10, 2023</p>
 
-  </section>
+    </section>
 
 
 
-  <section>
-<h3> 
-    Additional information about the data
-</h3>
+    <section>
+        <h4>
+            Additional information about the data
+        </h4>
 
-    <p align="justify">
-        The full dataset for this competition consists of 323 individuals with BPP and  506 subjects with SZ. We use one hundred fifteen intrinsic connectivity network (ICN) timecourses derived from a multi-spatial-scale spatially constrained ICA approach and their functional network connectivity (FNC) for the competition. The analysis steps to extract these features are as follows. (1) Quality control will be applied to identify high-quality data. (2) Each subject's rsfMRI data are preprocessed using a common procedure, including rigid body motion correction, slice timing correction, and distortion correction. (3) Preprocessed subject data are registered into a common space, resampled to 3 mm3 isotropic voxels, and spatially smoothed using a Gaussian kernel with a 6 mm full width at half-maximum (FWHM). (4) We use a multi-spatial-scale template of 115 ICNs obtain from 100k+ subject and a constraint ICA approach to obtain subject-specific ICNs time course. (5) ICN time courses are detrended by removing linear, quadratic, and cubic trends. The six motion realignment parameters and their derivatives are regressed out. Outliers are detected based on the median absolute deviation and replaced with the best estimate using a third-order spline fit to the clean portions of the time courses. Bandpass filtering is applied using a fifth-order Butterworth filter with a cutoff frequency of 0.01–0.15 Hz. (6) FNC is estimated by calculating the Pearson correlation between each pair of ICN time courses resulting in one FNC matrix for each individual. 
-    </p>
-  </section>
+        <p align="justify">
+            The full dataset for this competition consists of 323 individuals with BPP and 506 subjects with SZ. We use
+            one hundred fifteen intrinsic connectivity network (ICN) timecourses derived from a multi-spatial-scale
+            spatially constrained ICA approach and their functional network connectivity (FNC) for the competition. The
+            analysis steps to extract these features are as follows. (1) Quality control will be applied to identify
+            high-quality data. (2) Each subject's rsfMRI data are preprocessed using a common procedure, including rigid
+            body motion correction, slice timing correction, and distortion correction. (3) Preprocessed subject data
+            are registered into a common space, resampled to 3 mm3 isotropic voxels, and spatially smoothed using a
+            Gaussian kernel with a 6 mm full width at half-maximum (FWHM). (4) We use a multi-spatial-scale template of
+            115 ICNs obtain from 100k+ subject and a constraint ICA approach to obtain subject-specific ICNs time
+            course. (5) ICN time courses are detrended by removing linear, quadratic, and cubic trends. The six motion
+            realignment parameters and their derivatives are regressed out. Outliers are detected based on the median
+            absolute deviation and replaced with the best estimate using a third-order spline fit to the clean portions
+            of the time courses. Bandpass filtering is applied using a fifth-order Butterworth filter with a cutoff
+            frequency of 0.01–0.15 Hz. (6) FNC is estimated by calculating the Pearson correlation between each pair of
+            ICN time courses resulting in one FNC matrix for each individual.
+        </p>
+    </section>
 
 </body>
 

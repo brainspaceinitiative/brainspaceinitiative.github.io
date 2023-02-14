@@ -1,21 +1,21 @@
 - 
   id: 0
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "Vince"
+  surname: "Calhoun"
+  company: "TReNDs Center, Brain Space Initiative"
+  title: ""
+  thumbnailUrl: vince.jpg
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 1
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  company: "Nravo, GDG Lviv"
-  title: "Team Lead, Unity 3D Developer"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Armin"
+  surname: "Iraji"
+  company: "TReNDs Center, Brain Space Initiative"
+  title: ""
+  thumbnailUrl: armin.jpg
   social: 
     - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
     - {name: "twitter", link: "https://twitter.com/zasadnyy"}
@@ -23,22 +23,55 @@
     - {name: "site", link: "http://zasadnyy.com/"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  company: "ELEKS, GDG Lviv"
-  title: "R&D Engineer"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Biozid"
+  surname: "Bostami"
+  company: "TReNDs Center, Brain Space Initiative"
+  title: ""
+  thumbnailUrl: biozid.jpg
   social: 
     - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
     - {name: "twitter", link: "https://twitter.com/p1f"}
     - {name: "site", link: "http://andrusiv.com/"}
 - 
   id: 3
-  name: "Oleh"
-  surname: "Zasadnyy"
-  company: "EPAM Systems, GDG Lviv"
-  title: "Junior Software Engineer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Noah"
+  surname: "Lewis"
+  company: "TReNDs Center"
+  title: ""
+  thumbnailUrl: noah.jpg
+  social: 
+    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
+    - {name: "github", link: "https://github.com/ozasadnyy"}
+
+- 
+  id: 4
+  name: "Mahshid"
+  surname: "Fouladivanda"
+  company: "TReNDs Center"
+  title: ""
+  thumbnailUrl: mashid.jpg
+  social: 
+    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
+    - {name: "github", link: "https://github.com/ozasadnyy"}
+
+- 
+  id: 5
+  name: "Sumanth"
+  surname: "Meenan"
+  company: "TReNDs Center"
+  title: ""
+  thumbnailUrl: summanth.jpg
+  social: 
+    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
+    - {name: "github", link: "https://github.com/ozasadnyy"}
+
+- 
+  id: 6
+  name: "Adithya Ram"
+  surname: "Ballem"
+  company: "TReNDs Center"
+  title: ""
+  thumbnailUrl: ram.jpg
   social: 
     - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
     - {name: "github", link: "https://github.com/ozasadnyy"}
