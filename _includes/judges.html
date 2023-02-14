@@ -11,7 +11,7 @@
                     <div class="flow-img img-circle judge-img" style="background-image: url({{ site.baseurl }}/img/people/{{ judge.thumbnailUrl }})"></div>
                     <p class="name">{{ judge.name }} {{ judge.surname }}</p>
                     <span class="company">{{ judge.company }}</span>
-                    <span class="title">{{ judge.title }}</span>
+                    <!-- <span class="title">{{ judge.title }}</span> -->
                 </div>
                 {% assign animationDelay = animationDelay | plus:500 %} 
                 {% assign check = forloop.index | modulo:2 %} 
