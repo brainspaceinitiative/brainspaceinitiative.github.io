@@ -56,22 +56,22 @@
 
 - 
   id: 5
-  name: "Sumanth"
-  surname: "Meenan"
+  name: "Adithya Ram"
+  surname: "Ballem"
   company: "TReNDs Center"
   title: ""
-  thumbnailUrl: summanth.jpg
+  thumbnailUrl: ram.jpg
   social: 
     - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
     - {name: "github", link: "https://github.com/ozasadnyy"}
 
 - 
   id: 6
-  name: "Adithya Ram"
-  surname: "Ballem"
+  name: "Sumanth"
+  surname: "Meenan"
   company: "TReNDs Center"
   title: ""
-  thumbnailUrl: ram.jpg
+  thumbnailUrl: summanth.jpg
   social: 
     - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
     - {name: "github", link: "https://github.com/ozasadnyy"}
