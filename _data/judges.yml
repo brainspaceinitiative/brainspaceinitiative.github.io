@@ -1,28 +1,15 @@
-- 
+-
   id: 0
-  name: "Vince"
-  surname: "Calhoun"
-  company: "TReNDs Center, Brain Space Initiative"
+  name: "Noah"
+  surname: "Lewis"
+  company: "TReNDs Center"
   title: ""
-  thumbnailUrl: vince.jpg
+  thumbnailUrl: noah.png
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
+    - {name: "github", link: "https://github.com/ozasadnyy"}
 - 
   id: 1
-  name: "Armin"
-  surname: "Iraji"
-  company: "TReNDs Center, Brain Space Initiative"
-  title: ""
-  thumbnailUrl: armin.jpg
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
-- 
-  id: 2
   name: "Biozid"
   surname: "Bostami"
   company: "TReNDs Center, Brain Space Initiative"
@@ -34,11 +21,11 @@
     - {name: "site", link: "http://andrusiv.com/"}
 - 
   id: 3
-  name: "Noah"
-  surname: "Lewis"
+  name: "Adithya Ram"
+  surname: "Ballem"
   company: "TReNDs Center"
   title: ""
-  thumbnailUrl: noah.png
+  thumbnailUrl: ram.jpg
   social: 
     - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
     - {name: "github", link: "https://github.com/ozasadnyy"}
@@ -53,20 +40,8 @@
   social: 
     - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
     - {name: "github", link: "https://github.com/ozasadnyy"}
-
 - 
   id: 5
-  name: "Adithya Ram"
-  surname: "Ballem"
-  company: "TReNDs Center"
-  title: ""
-  thumbnailUrl: ram.jpg
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
-
-- 
-  id: 6
   name: "Sumanth"
   surname: "Meenan"
   company: "TReNDs Center"
@@ -75,3 +50,31 @@
   social: 
     - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
     - {name: "github", link: "https://github.com/ozasadnyy"}
+- 
+  id: 6
+  name: "Vince"
+  surname: "Calhoun"
+  company: "TReNDs Center, Brain Space Initiative"
+  title: ""
+  thumbnailUrl: vince.jpg
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+- 
+  id: 7
+  name: "Armin"
+  surname: "Iraji"
+  company: "TReNDs Center, Brain Space Initiative"
+  title: ""
+  thumbnailUrl: armin.jpg
+  social: 
+    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+    - {name: "github", link: "https://github.com/zasadnyy"}
+    - {name: "site", link: "http://zasadnyy.com/"}
+
+
+
+
+
