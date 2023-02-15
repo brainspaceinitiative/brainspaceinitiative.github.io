@@ -55,7 +55,7 @@ navigationLinks:
  - {permalink: "/about/", text: "About"}
  - {permalink: "/team/", text: "Team"}
 #  - {permalink: "/logistics/", text: "Logistics"}
-#  - {permalink: "/competition/", text: "Hackathon"}
+ - {permalink: "/competition/", text: "SU CUP 2023"}
 bottomNavigationLinks:
  - {permalink: "https://forms.gle/XtfPXW8vfoDPhFjW6", text: "Join now"}
 rightNavigationButtons:
