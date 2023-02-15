@@ -5,9 +5,10 @@
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             <h3>{{ site.judgesTitle }}</h3>
-            <div class="row justify-content-center">
+            <!-- <div class="row"> -->
                 {% assign animationDelay = 0 %} {% for judge in site.data.judges %}
                 {% assign colWidth = 14 | divided_by: forloop.length %}
+                <div class="row">
                 <div class="judge col-md-{{ colWidth }} col-xs-6 animated hiding" data-animation="fadeInDown"
                     data-delay="{{ animationDelay }}">
                     <div class="flow-img img-circle judge-img"
