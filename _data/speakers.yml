@@ -723,3 +723,23 @@ Chinese Biomedical Engineers (WACBE)."
   thumbnailUrl: 'lam-fan.png'
   rockstar: true
   social: 
+- 
+  id: 142
+  name: "Moo K."
+  surname: "Chung"
+  company: "University of Wisconsin-Madison"
+  title: "Associate Professor, Department of Biostatistics and Medical Informatics"
+  team: false
+  bio:  "Moo K. Chung, Ph.D. is an Associate Professor in the Department of Biostatistics and Medical Informatics at the
+        University of Wisconsin-Madison (http://www.stat.wisc.edu/~mchung). Chung is affiliated with the Waisman
+        Laboratory for Brain Imaging and Behavior and the Department of Statistics. Chung received PhD from McGill
+        University under Keith Wolseley and trained at the Montreal Neurological Institute. Chung’s research focuses on
+        computational neuroanatomy, spectral geometry, and topological data analysis. Chung mainly concentrates on the
+        methodological development required for quantifying and contrasting brain functional, anatomical shape and
+        network variations in both normal and clinical populations using various mathematical, statistical, and
+        computational techniques. He has published three books on neuroimage computation including Brain Network
+        Analysis published through Cambridge University Press in 2019. Currently started writing a new book on
+        Topological Data Analysis for Brain Imaging."
+  thumbnailUrl: 'chung.JPG'
+  rockstar: true
+  social: http://www.stat.wisc.edu/~mchung
