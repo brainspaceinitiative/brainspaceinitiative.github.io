@@ -478,8 +478,7 @@ diagnosis and treatment assessment.</p>
   subtype: presentation
   speakers: [141]
   language: en
-  complexity: 
-  video:
+  complexity:
 -
   id: 039
   title: "Topological inference for brain networks in temporal lobe epilepsy using the Wasserstein distance"
@@ -500,5 +499,4 @@ diagnosis and treatment assessment.</p>
   subtype: presentation
   speakers: [142]
   language: en
-  complexity: 
-  video:
+  complexity:
