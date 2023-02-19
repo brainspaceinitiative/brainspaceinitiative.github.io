@@ -484,7 +484,7 @@ diagnosis and treatment assessment.</p>
   complexity: 
 -
   id: 039
-  title: "0"
+  title: "Topological inference for brain networks in temporal lobe epilepsy using the Wasserstein distance"
   description: " <p> Persistent homology summarizes the changes of topological structures in data through over 
   multiple scales called filtrations. Doing so detect hidden topological signals that persist over different scales.
    However, a key obstacle of applying persistent homology to brain networks has been the lack of robust statistical 
