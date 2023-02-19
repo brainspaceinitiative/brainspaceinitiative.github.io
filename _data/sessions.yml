@@ -447,6 +447,9 @@
   speakers: [140]
   language: en
   complexity:
+  complexity:
+  video: https://www.youtube.com/watch?v=jF8L4xP4R08
+  complexity: 
   video: https://www.youtube.com/watch?v=jF8L4xP4R08
 -
   id: 038
@@ -473,30 +476,33 @@ diagnosis and treatment assessment.</p>
 <li>F. Lam, C. Ma, B. Clifford, C. L. Johnson, Z.-P. Liang. High-resolution 1H-MRSI of the brain using SPICE: Data Acquisition and Image Reconstruction, Magn. Reson. Med., 76:1059-1070, 2017.  <a href='https://onlinelibrary.wiley.com/doi/10.1002/mrm.26019'>Link to Paper</a></li>
 <li>F. Lam, Y. Li, R. Guo, Y. Zhao, B. Clifford, Z.-P. Liang. Ultrafast magnetic resonance spectroscopic imaging using SPICE with learned subspaces, Magn. Reson. Med., 83:377-390, 2020.   <a href='https://onlinelibrary.wiley.com/doi/10.1002/mrm.27980'>Link to Paper</a></li>
 <li>F. Lam, Y. Li, X. Peng. Constrained magnetic resonance spectroscopic imaging by learning nonlinear low-dimensional models, IEEE Trans. Med. Imaging, 39:545-555, 2020. <a href='https://ieeexplore.ieee.org/document/8770102'>Link to Paper</a></li>
-<li>4.	Z. Wang, Y. Li, F. Lam, High-resolution, 3D multi-TE 1H-MRSI using fast spatiospectral encoding and subspace imaging, Magn. Reson. Med., 87:1103-1118, 2022<a href='https://onlinelibrary.wiley.com/doi/10.1002/mrm.29015'>Link to Paper</a></li>
+<li>Z. Wang, Y. Li, F. Lam, High-resolution, 3D multi-TE 1H-MRSI using fast spatiospectral encoding and subspace imaging, Magn. Reson. Med., 87:1103-1118, 2022<a href='https://onlinelibrary.wiley.com/doi/10.1002/mrm.29015'>Link to Paper</a></li>
 </ul>"
   subtype: presentation
   speakers: [141]
   language: en
-  complexity:
+  complexity: 
 -
   id: 039
-  title: "Topological inference for brain networks in temporal lobe epilepsy using the Wasserstein distance"
-  description: "<p>
-        Persistent homology summarizes the changes of topological structures in data through over multiple scales called
-        filtrations. Doing so detect hidden topological signals that persist over different scales. However, a key
-        obstacle of applying persistent homology to brain networks has been the lack of robust statistical inference
-        framework. To address this problem, we present a new topological inference procedure based on the Wasserstein
-        distance. Our approach has no explicit models and statistical distributional assumptions. The inference is
-        performed in a completely data driven fashion. Our metric-based inference significantly differs from traditional
-        feature-based topological data analysis (TDA). The method is applied to the resting-state functional magnetic
-        resonance images (rs-fMRI) of the temporal lobe epilepsy patients and able to localize brain regions that
-        contribute the most to topological differences. We made computer code available at
-        <a href="https://github.com/laplcebeltrami/dynamicTDA"> Github </a>. The talk is based on Anand and Chung 2023, IEEE Transactions on
-        Medical Imaging (arXiv:2110.14599) and Songdechakraiwut and Chung 2023 Annals of Applied Statistics
-        (arXiv:2012.00675).
-    </p>"
+  title: "0"
+  description: " <p> Persistent homology summarizes the changes of topological structures in data through over 
+  multiple scales called filtrations. Doing so detect hidden topological signals that persist over different scales.
+   However, a key obstacle of applying persistent homology to brain networks has been the lack of robust statistical 
+   inference framework. To address this problem, we present a new topological inference procedure based on the 
+   Wasserstein distance. Our approach has no explicit models and statistical distributional 
+   assumptions. The inference is performed in a completely data driven fashion. Our metric-based 
+   inference significantly differs from traditional feature-based topological data analysis (TDA). 
+   The method is applied to the resting-state functional magnetic resonance images (rs-fMRI) of the 
+   temporal lobe epilepsy patients and able to localize brain regions that contribute the most to topological 
+   differences. We made computer code available at <a href = 'https://github.com/laplcebeltrami/dynamicTDA'> Github </a>.
+    The talk is based on Anand and Chung 2023, IEEE Transactions on Medical Imaging (arXiv:2110.14599) 
+    and Songdechakraiwut and Chung 2023 Annals of Applied Statistics (arXiv:2012.00675).</p>
+<b>Recommended Article:</b>
+<ul>
+<li> D. V. Anand and M. K. Chung, Hodge Laplacian of Brain Networks, IEEE Transactions on Medical Imaging, 2023  <a href='https://arxiv.org/abs/2110.14599'>Link to Paper</a></li>
+<li> T. Songdechakraiwut and M. K. Chung, Topological learning for brain networks, The Annals of Applied Statistics, vol. 17, no. 1, pp. 403-433, 2023.  <a href='https://arxiv.org/ftp/arxiv/papers/2012/2012.00675.pdf'>Link to Paper</a></li>
+</ul> "
   subtype: presentation
   speakers: [142]
   language: en
-  complexity:
+  complexity: 
