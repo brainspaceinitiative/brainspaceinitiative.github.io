@@ -743,3 +743,15 @@ Chinese Biomedical Engineers (WACBE)."
   thumbnailUrl: 'chung.JPG'
   rockstar: true
   social: http://www.stat.wisc.edu/~mchung
+
+- 
+  id: 143
+  name: "Dean"
+  surname: "Salisbury"
+  company: "University of Pittsburgh School of Medicine"
+  title: "Associate Professor, Department of Biostatistics and Medical Informatics"
+  team: false
+  bio:  "After graduating from the Scholar's Program at Whittier College in 1985, Dr Salisbury began studying Biological Psychology and human auditory neurophysiology with Prof. Nancy K Squires at Stony Brook. He began a post-doctoral fellowship in 1990 in Biological Psychiatry with Prof. Robert W McCarley at Harvard Medical School to examine auditory neurophysiology in schizophrenia. The 2 year post-doc turned into a 22 year career at Harvard, where Dr Salisbury worked with Dr McCarley, Prof. Martha E Shenton, and many others examining neurophysiological and MRI structural and functional measures of impaired sensation, perception, and basic memory function in first episode psychosis. The work conducted in his laboratory at McLean Hospital helped to change the conceptualization of schizophrenia as a static, perinatal encephalopathy. It pioneered the combined use of structural brain imaging and electroencephalographic (EEG) measurement of auditory cortex responses to demonstrate that progressive gray matter loss during the early disease course of schizophrenia was linked to progressive auditory impairment. In 2012, he left Harvard to join the faculty at Western Psychiatric Hospital at the University of Pittsburgh School of Medicine. The continuing multimodal imaging work in first episode psychosis individuals aims to identify local and distributed circuit abnormalities in early disease course and to develop biomarkers to facilitate early identification of the disorder."
+  thumbnailUrl: 'SALISBURY.jpg'
+  rockstar: true
+  social:
