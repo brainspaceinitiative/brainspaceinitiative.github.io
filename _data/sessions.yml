@@ -450,7 +450,7 @@
   complexity:
   video: https://www.youtube.com/watch?v=jF8L4xP4R08
   complexity: 
-  video: https://www.youtube.com/watch?v=jF8L4xP4R08
+
 -
   id: 038
   title: "Quantitative, Multidimensional MR Spectroscopic Imaging by Integrating Spin Physics and Machine Learning"
@@ -504,5 +504,25 @@ diagnosis and treatment assessment.</p>
 </ul> "
   subtype: presentation
   speakers: [142]
+  language: en
+  complexity: 
+  video: https://youtu.be/vV9Mni-lwgc
+
+
+-
+  id: 040
+  title: "From searching for lesions to exploring distributed circuitopathy in psychosis."
+  description: " <p> Researchers have sought for more than 100 years for a lesion (or lesions) that might lead to schizophrenia, the major psychotic disorder. Early imaging modalities revealed enlarged ventricles, which imply reduced brain volumes, but no characteristic cortical pathology was identified. High-resolution structural magnetic resonance imaging (MRI), finally provided a tool to identify cortical volume loss in vivo. Volumetric studies revealed not only initial gray matter loss in temporal and frontal cortices, but progressive loss after the emergence of psychosis. Advances in 3D microscopy in post-mortem studies indicated increased packing density of cortical pyramidal cells and reduced dendritic arborization in schizophrenia, leading to the idea that the disease reflected dendrotoxicity. Although specific areas (such as frontal and temporal cortex) showed more robust volume loss, the idea that schizophrenia reflected a dysconnectivity among brain regions emerged. Volumetric studies suggested that the areas with greatest loss were areas with the most extensive connectivity – heteromodal cortices or areas that served as hubs. Recently, thought has focused on structural and functional dysconnectivity in schizophrenia, with the emerging concept of the disorder being one of circuitopathy. Decomposing source-activity from high-temporal resolution methods such as EEG and MEG into spectral components allows for functional and effective connectivity measures between areas. Methods for spectral effective connectivity still need development and validation. Issues include reliable and valid source localization, methods for data reduction (particularly parcellation), identification of critical frequency bands underlying inter-areal communication, and derivation of networks from whole brain data. Data and approaches from my laboratory will be used to illustrate our approaches, and how spectral connectivity indicates alpha-band and theta-band dysconnectivity between cortical areas are central deficits in psychosis, even early in disease course at the emergence of psychosis.</p> 
+  <b>Recommended Article:</b>
+  <ul>
+<li> Sklar AL, Coffman BA, Longenecker JM, Curtis M, Salisbury DF. Load-dependent functional connectivity deficits during visual working memory in first-episode psychosis. J Psychiatr Res. 2022.  <a href='https://doi.org/10.1016/j.jpsychires.2022.06.042'>Link to Paper</a></li>
+<li> Coffman BA, Haas G, Olson C, Cho R, Ghuman AS, Salisbury DF. Reduced Dorsal Visual Oscillatory Activity During Working Memory Maintenance in the First-Episode Schizophrenia Spectrum. Front Psychiatry. 2020.   <a href='https://doi.org/10.3389/fpsyt.2020.00743'>Link to Paper</a></li>
+<li> Curtis MT, Sklar AL, Coffman BA, Salisbury DF. Functional connectivity and gray matter deficits within the auditory attention circuit in first-episode psychosis. Front Psychiatry. 2023.  <a href='https://doi.org/10.3389/fpsyt.2023.1114703'>Link to Paper</a></li>
+<li> Curtis MT, Ren X, Coffman BA, Salisbury DF. Attentional M100 gain modulation localizes to auditory sensory cortex and is deficient in first-episode psychosis. Hum Brain Mapp. 2023.  <a href='https://doi.org/10.1002/hbm.26067'>Link to Paper</a></li>
+<li>Phalen H, Coffman BA, Ghuman A, Sejdić E, Salisbury DF. Non-negative Matrix Factorization Reveals Resting-State Cortical Alpha Network Abnormalities in the First-Episode Schizophrenia Spectrum. Biol Psychiatry Cogn Neurosci Neuroimaging. 2020. <a href='https://doi.org/10.1016/j.bpsc.2019.06.010'>Link to Paper</a> </li>
+</ul>
+  "
+  subtype: presentation
+  speakers: [143]
   language: en
   complexity: 
