@@ -10,6 +10,20 @@
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/gaia-zin-44b6621a4/"}
+-
+id: 8
+  name: "Heba"
+  surname: "Ali"
+  company: "Nile University"
+  title: "Master student"
+  team: true
+  bio: "I'm from Cairo-Egypt. Working as a Research Assistant at Nile University, Master's degree student specializing in Brain Connectivity- Nile University, have a bachelor's degree in Systems and Biomedical Engineering - Cairo University and studied a Short-Term in the Biomedical Engineering department at Hiroshima University, Japan. I am interested Brain Computer Interface, Neurorobotics,Brain Signal Processing and Biomedical Engineering."
+  
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/heba-ali-739456151/"}
+    - {name: "site", link: "https://scholar.google.com/citations?user=xnMMUXgAAAAJ&hl=en"}
+    
 - 
   id: 6
   name: "Carlos H."
