@@ -42,9 +42,11 @@ A (sub)space to discuss and learn about the relationships among classical & nove
     </div>
 </div>
 
-#### Student Volunteer Core Members
+#### Student Volunteer Core
 <!-- Volunteer section begins -->
+##### Members
 {% for speaker in site.data.subspace_volunteers %}
+{% if speaker.currentVolunteer %}
 <div class="text-left people-modal">
     <div class="modal-body">
         <div class="people-details">
@@ -76,4 +78,7 @@ A (sub)space to discuss and learn about the relationships among classical & nove
         </div>
     </div>
 </div>
+{% endif %}
 {% endfor %}
+
+##### Past Members
