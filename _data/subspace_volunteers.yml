@@ -1,5 +1,6 @@
 -
   id: 8
+  currentVolunteer: true
   name: "Heba"
   surname: "Ali"
   company: "Nile University"
@@ -14,6 +15,7 @@
 
 -
   id: 7
+  currentVolunteer: true
   name: "Jordan"
   surname: "Hanania"
   company: "University of British Columbia"
@@ -34,6 +36,7 @@
 
 - 
   id: 1
+  currentVolunteer: false
   name: "Gaia"
   surname: "Zin"
   company: "Delft University of Technology"
@@ -47,6 +50,7 @@
 
 - 
   id: 6
+  currentVolunteer: false
   name: "Carlos H."
   surname: "Mendoza-Cardenas"
   company: "University of Delaware"
@@ -61,6 +65,7 @@
 
 -
   id: 3
+  currentVolunteer: false
   name: "Iris-Lucia"
   surname: "Soare"
   company: "University of Edinburgh"
@@ -79,6 +84,7 @@
 
 -
   id: 2
+  currentVolunteer: false
   name: "Mite"
   surname: "Mijalkov"
   company: "Karolinska Institutet"
@@ -98,6 +104,7 @@
 
 -
   id: 4
+  currentVolunteer: false
   name: "Syed"
   surname: "Ather"
   company: "University of Toronto"
@@ -118,6 +125,7 @@ After completing my undergraduate in physics and philosophy at Indiana Universit
 
 -
   id: 5
+  currentVolunteer: false
   name: "Anjali"
   surname: "Agarwal"
   company: "Tata Research Development and Design Center"
