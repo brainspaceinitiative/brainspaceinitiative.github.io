@@ -83,7 +83,7 @@ A (sub)space to discuss and learn about the relationships among classical & nove
 
 ##### Past Members
 {% for speaker in site.data.subspace_volunteers %}
-{% if !speaker.currentVolunteer %}
+{% if speaker.currentVolunteer == false %}
 <div class="text-left people-modal">
     <div class="modal-body">
         <div class="people-details">
