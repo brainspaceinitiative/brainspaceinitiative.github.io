@@ -755,3 +755,16 @@ Chinese Biomedical Engineers (WACBE)."
   thumbnailUrl: 'SALISBURY.jpg'
   rockstar: true
   social:
+- 
+  id: 144
+  name: "Tor"
+  surname: "Wager"
+  company: "Dartmouth College"
+  title: "Distinguished Professor, Department of Psychological and Brain Sciences, Dartmouth College"
+  team: false
+  bio:  "He received his Ph.D. from the University of Michigan in Cognitive Psychology in 2003, and served as an Assistant (2004-2008) and Associate Professor (2009) at Columbia University, and as Associate (2010-2014) and Full Professor (2014-2019) at the University of Colorado, Boulder. Since 2004, he has directed the Cognitive and Affective Neuroscience laboratory, a research lab devoted to work on the neurophysiology of affective processes—pain, emotion, stress, and empathy—and how they are shaped by cognitive and social influences. Dr. Wager and his lab are also dedicated to developing analysis methods for functional neuroimaging and sharing ideas, tools, and scientific data with the scientific community and public."
+  thumbnailUrl: 'tor.jpg'
+  rockstar: true
+  social:
+    - {name: "site", link: "http://sites.dartmouth.edu/canlab"}
+    - {name: "github", link: "http://canlab.github.io"}

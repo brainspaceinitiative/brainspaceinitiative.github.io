@@ -526,3 +526,12 @@ diagnosis and treatment assessment.</p>
   speakers: [143]
   language: en
   complexity: 
+
+-
+  id: 041
+  title: "Neuroimaging of affect and motivation: Pathways, models, and interventions."
+  description: "Affect and motivation — pleasure and pain, desire and threat — are central to human life. Their experience defines our wellbeing, and the brain processes that underlie them drive behavior and learning. Developing models of the brain circuits that underlie them, and how they interact, could transform how we understand and measure them, and provide biological targets for interventions ranging from drugs to psychotherapy. Neuroimaging, including Functional Magnetic Resonance Imaging, is playing a transformative role in our ability to model the brain bases of affective and motivational processes. However, developing such models will require computational advances, particularly in our ability to model how emergent properties like pain arise from complex interactions among brain systems. In this talk, I describe a series of studies that combine fMRI imaging with statistical and machine learning to develop measures that are sensitive and specific for particular types of pain and affect and generalizable across diverse populations. These studies provide a brain-based picture of the organization of pain and affect, revealing both distinctions and similarities that are not predicted by folk psychological theories. We find that on one hand, pain and other affective states are distributed, relying on interactions across multiple brain systems. At the same time, however, new techniques provide ways of decomposing these systems into particular pathways that can be referenced to animal models and targeted by interventions."
+  subtype: presentation
+  speakers: [144]
+  language: en
+  complexity:  
