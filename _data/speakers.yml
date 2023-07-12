@@ -768,3 +768,15 @@ Chinese Biomedical Engineers (WACBE)."
   social:
     - {name: "site", link: "http://sites.dartmouth.edu/canlab"}
     - {name: "github", link: "http://canlab.github.io"}
+
+- 
+  id: 145
+  name: "Stefano"
+  surname: "Panzeri"
+  company: "Medical School in Hamburg (UKE)"
+  title: "Full professor and director, Department of Excellence for Information Processing"
+  team: false
+  bio:  "Stefano Panzeri is full professor and director at the Department of Excellence for Information Processing at the Medical School in Hamburg (UKE). Stefano was trained and researched originally in theoretical physics (string theory) and has worked in computational neuroscience for more than 20 years. His research lies at the interface between theory and experiments and investigates how the functions of the brain originate from the interactions between its elements, the neurons."
+  thumbnailUrl: 'panzeri.JPG'
+  rockstar: true
+  social:
