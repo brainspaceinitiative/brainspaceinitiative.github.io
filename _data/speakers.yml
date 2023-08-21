@@ -780,3 +780,15 @@ Chinese Biomedical Engineers (WACBE)."
   thumbnailUrl: 'panzeri.JPG'
   rockstar: true
   social:
+
+- 
+  id: 146
+  name: "Anqi"
+  surname: "Wu"
+  company: "Georgia Institute of Technology"
+  title: "Assistant Professor, School of Computational Science and Engineering (CSE)"
+  team: false
+  bio:  "Anqi Wu is an Assistant Professor at the School of Computational Science and Engineering (CSE), Georgia Institute of Technology. She was a Postdoctoral Research Fellow at the Center for Theoretical Neuroscience, the Zuckerman Mind Brain Behavior Institute, Columbia University. She received her Ph.D. degree in Computational and Quantitative Neuroscience and a graduate certificate in Statistics and Machine Learning from Princeton University. Anqi was selected for the 2018 MIT Rising Star in EECS, 2022 DARPA Riser, and 2023 Alfred P. Sloan Fellow. Her research interest is to develop scientifically-motivated Bayesian statistical models to characterize structure in neural data and behavior data in the interdisciplinary field of machine learning and computational neuroscience. She has a general interest in building data-driven models to promote both animal and human studies in the system and cognitive neuroscience."
+  thumbnailUrl: 'anqi.jpg'
+  rockstar: true
+  social:
