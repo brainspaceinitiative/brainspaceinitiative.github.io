@@ -551,3 +551,24 @@ diagnosis and treatment assessment.</p>
   speakers: [145]
   language: en
   complexity: 
+
+-
+  id: 043
+  title: "Understand the Brain Using Interpretable Machine Learning Models"
+  description: " <p> Computational neuroscience is a burgeoning field embracing exciting scientific questions, a deluge of data, an imperative demand for quantitative models, and a close affinity with artificial intelligence. These opportunities promote the advancement of data-driven machine learning methods to help neuroscientists deeply understand our brains. In particular, my work lies in such an interdisciplinary field and spans the development of scientifically-motivated probabilistic modeling approaches for neural and behavior analyses. In this talk, I will first present my work on developing Bayesian methods to identify latent manifold structures with applications to neural recordings in multiple cortical areas. The models are able to reveal the underlying signals of neural populations as well as uncover interesting topography of neurons where there is a lack of knowledge and understanding about the brain. Discovering such low-dimensional signals or structures can help shed light on how information is encoded at the population level, and provide significant scientific insight into the brain. Next, I will talk about probabilistic priors that encourage region-sparse activation for brain decoding. The proposed model provides spatial decoding weights for brain imaging data that are both more interpretable and achieve higher decoding performance. Finally, I will introduce a series of works on semi-supervised learning for animal behavior analysis and understanding. I will show that when we have a very limited amount of human-labeled data, the semi-supervised learning frameworks can well resolve the scarce data issue by leveraging both labeled and unlabeled data in the context of pose tracking, video understanding, and behavioral segmentation. By actively working on both neural and behavioral studies, I hope to develop interpretable machine learning and Bayesian statistical approaches to understanding neural systems integrating extensive and complex behaviors, thus providing a systematic understanding of neural mechanisms and biological functions. </p>
+    <b>Recommended Article:</b>
+  <ul>
+      <li> Wu, Anqi, et al. "Gaussian process based nonlinear latent structure discovery in multivariate spike train data." Advances in neural information processing systems 30 (2017).   <a href='https://proceedings.neurips.cc/paper_files/paper/2017/file/b3b4d2dbedc99fe843fd3dedb02f086f-Paper.pdf'> Link to Paper </a> </li>
+      <li> Wu, Anqi, et al. "Learning a latent manifold of odor representations from neural responses in piriform cortex." Advances in Neural Information Processing Systems 31 (2018).  <a href='https://proceedings.neurips.cc/paper/2018/file/17b3c7061788dbe82de5abe9f6fe22b3-Paper.pdf'> Link to Paper </a> </li>
+      <li> Wu, Anqi, Oluwasanmi Koyejo, and Jonathan W. Pillow. "Dependent relevance determination for smooth and structured sparse regression." J. Mach. Learn. Res. 20.89 (2019).     <a href='https://www.jmlr.org/papers/volume20/17-757/17-757.pdf'> Link to Paper </a> </li>
+      <li> Wu, Anqi, et al. "Sparse Bayesian structure learning with “dependent relevance determination” priors." Advances in Neural Information Processing Systems 27 (2014).   <a href='https://proceedings.neurips.cc/paper/2014/file/f9a40a4780f5e1306c46f1c8daecee3b-Paper.pdf'> Link to Paper </a> </li>
+      <li> Wu, Anqi, et al. "Deep Graph Pose : a semi-supervised deep graphical model for improved animal pose tracking." Advances in Neural Information Processing Systems 33 (2020) <a href='https://proceedings.neurips.cc/paper/2020/file/4379cf00e1a95a97a33dac10ce454ca4-Paper.pdf'> Link to Paper </a> </li>
+      <li> Blau, Ari, et al. "SemiMultiPose: A Semi-supervised Multi-animal Pose Estimation Framework." arXiv preprint arXiv:2204.07072 (2022).  <a href='https://arxiv.org/abs/2204.07072'> Link to Paper </a> </li>
+      <li> Whiteway, Matthew R., et al. "Partitioning variability in animal behavioral videos using semi-supervised variational autoencoders." PLoS computational biology 17.9 (2021) <a href='https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009439'> Link to Paper </a> </li>
+      <li> Whiteway, Matthew R., et al. "Semi-supervised sequence modeling for improved behavioral segmentation." bioRxiv (2021) <a href='https://www.biorxiv.org/content/biorxiv/early/2021/06/17/2021.06.16.448685.full.pdf'> Link to Paper </a> </li>
+  
+  </ul>"
+  subtype: presentation
+  speakers: [146]
+  language: en
+  complexity: 
