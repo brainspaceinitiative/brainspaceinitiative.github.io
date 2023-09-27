@@ -11,7 +11,7 @@
                     <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-site"></use>
                 </svg> Past Talks</a>  
         </div>
-        {% for day in site.data.schedule %}
+        {% for day in site.data.schedule | reverse %}
         {% if day.past == false %}
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
