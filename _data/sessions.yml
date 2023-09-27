@@ -576,10 +576,18 @@ diagnosis and treatment assessment.</p>
 -
   id: 044
   title: "Quantifying the idiosyncrasy of brain activations"
-  description: " <p> Research in neuroscience often assumes universal neural mechanisms, but increasing evidence points towards sizeable individual differences in brain activations. What remains unclear is the extent of the idiosyncrasy and whether different types of analyses are associated with different levels of idiosyncrasy. Here we develop a new method for addressing these questions. The method consists of computing the within-subject reliability and subject-to-group similarity of brain activations and submitting these values to a computational model that quantifies the relative strength of group- and subject-level factors. We apply this method to a perceptual decision-making task and find that activations related to trial-level task, reaction time (RT), and confidence are influenced equally strongly by group- and subject-level factors. However, for activations related to average RT or confidence in a block of trials, the subject-level factors can be up to 6 times more important than group-level factors. In all cases, group- and subject-level factors are dwarfed by a noise factor. Overall, our method allows for the quantification of group- and subject-level factors of brain activations and thus provides a more detailed understanding of the idiosyncrasy levels in brain activations. </p>
+  description: " <p> Research in neuroscience often assumes universal neural mechanisms, but increasing evidence points towards sizeable individual differences in brain activations.
+   What remains unclear is the extent of the idiosyncrasy and whether different types of analyses are associated with different levels of idiosyncrasy. 
+   Here we develop a new method for addressing these questions. The method consists of computing the within-subject reliability and subject-to-group similarity 
+   of brain activations and submitting these values to a computational model that quantifies the relative strength of group- and subject-level factors.
+    We apply this method to a perceptual decision-making task and find that activations related to trial-level task, 
+    reaction time (RT), and confidence are influenced equally strongly by group- and subject-level factors. However, for activations related to average RT or confidence in a block of trials,
+     the subject-level factors can be up to 6 times more important than group-level factors. In all cases, group- and subject-level factors are dwarfed by a noise factor.
+      Overall, our method allows for the quantification of group- and subject-level factors of brain activations and thus provides a more detailed understanding
+       of the idiosyncrasy levels in brain activations. </p>
     <b>Recommended Article:</b>
   <ul>
-      <li> J. Nakuci, J. Yeon, K. Xue, J.H. Kim, S.P. Kim, and D. Rahnev, "Quantifying the contribution of subject and group factors in brain activation," bioRxiv, p. 2022.08.01.502338, 2023.    <a href='https://www.biorxiv.org/content/10.1101/2022.08.01.502338v3'> Link to Paper </a> </li>
+      <li> J. Nakuci, J. Yeon, K. Xue, J.H. Kim, S.P. Kim, and D. Rahnev, Quantifying the contribution of subject and group factors in brain activation, bioRxiv, p. 2022.08.01.502338, 2023.    <a href='https://www.biorxiv.org/content/10.1101/2022.08.01.502338v3'> Link to Paper </a> </li>
       
   </ul>"
   subtype: presentation
