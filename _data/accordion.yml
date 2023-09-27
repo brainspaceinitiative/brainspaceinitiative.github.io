@@ -8,3 +8,6 @@ subspace:
   - title: Paper discussions
     url: subspace/papers.html
     id: papers
+  - title:  Tutorials 
+    url: subspace/tutorials.html
+    id: tutorials
