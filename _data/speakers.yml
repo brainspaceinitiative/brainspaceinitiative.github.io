@@ -792,3 +792,15 @@ Chinese Biomedical Engineers (WACBE)."
   thumbnailUrl: 'anqi.jpg'
   rockstar: true
   social:
+
+  - 
+  id: 147
+  name: "Dobromir"
+  surname: "Rahnev"
+  company: "Georgia Institute of Technology"
+  title: "Associate Professor, School of Psychology"
+  team: false
+  bio:  "Dr. Rahnev received his Ph.D. in Psychology from Columbia University in 2012. After completing a 3-year post-doctoral fellowship at UC Berkeley, he joined Georgia Tech in 2015 where he is currently Blanchard Early Career professor. His research focuses on perceptual decision making – the process of internally representing the available sensory information and making decisions on it. Dr. Rahnev uses a wide variety of methods such as functional magnetic resonance imaging (fMRI), transcranial magnetic stimulation (TMS), psychophysics, and computational modeling. Dr. Rahnev’s work appears in high-impact journals such as Behavioral and Brain Sciences, PNAS, Nature Communications, and Nature Human Behavior. He has received over $3.5M in funding, including PI grants from NIH, NSF, and the Office of Naval Research."
+  thumbnailUrl: 'Rahnev.jpg'
+  rockstar: true
+  social:
