@@ -509,3 +509,15 @@
     	endTime: "02:00",
     	sessionIds: [043]
     }
+- 
+  date: "2023-09-29"
+  dateReadable: "September 29, 2023"
+  past: false
+  tracks: 
+    - {title: "BSI Talk Series", color: "#428bca"}
+  timeslots:
+    - {
+    	startTime: "01:00",
+    	endTime: "02:00",
+    	sessionIds: [044]
+    }
