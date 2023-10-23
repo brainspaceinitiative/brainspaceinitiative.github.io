@@ -804,3 +804,27 @@ Chinese Biomedical Engineers (WACBE)."
   thumbnailUrl: 'Rahnev.jpg'
   rockstar: true
   social:
+
+- 
+  id: 148
+  name: "Ying"
+  surname: "Guo"
+  company: "Emory University"
+  title: "Professor, Department of Biostatistics and Bioinformatics"
+  team: false
+  bio:  "Dr. Ying Guo is Professor in the Department of Biostatistics and 
+Bioinformatics at Emory University, an appointed Graduate Faculty of the Emory 
+Neuroscience Program and an Associate Faculty in Emory Department of Computer 
+Science. She is a Founding Member and current Director of the Center for 
+Biomedical Imaging Statistics (CBIS) at Emory University.  Dr. Guo’s research focus 
+on developing analytical methods for neuroimaging and mental health studies. Her 
+main research areas include statistical methods for agreement and reproducibility 
+studies, brain network analysis, multimodal neuroimaging and imaging-based 
+prediction methods. Dr. Guo is a Fellow of American Statistical Association (ASA) 
+and 2023 Chair for the ASA Statistics in Imaging Section. She is a Standing Member 
+of NIH Emerging Imaging Technologies in Neuroscience (EITN) Study Section and 
+has served on the editorial boards of several scientific journals in statistics and 
+psychiatry."
+  thumbnailUrl: 'ying.jpg'
+  rockstar: true
+  social:

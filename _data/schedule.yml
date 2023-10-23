@@ -8,7 +8,7 @@
 - 
   date: "2020-08-14"
   dateReadable: "August 14, 2020"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -20,7 +20,7 @@
 - 
   date: "2020-08-28"
   dateReadable: "August 28, 2020"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -32,7 +32,7 @@
 - 
   date: "2020-09-11"
   dateReadable: "September 11, 2020"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -44,7 +44,7 @@
 - 
   date: "2020-09-25"
   dateReadable: "September 25, 2020"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -56,7 +56,7 @@
 - 
   date: "2020-10-09"
   dateReadable: "October 9, 2020"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -68,7 +68,7 @@
 - 
   date: "2020-10-23"
   dateReadable: "October 23, 2020"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -80,7 +80,7 @@
 - 
   date: "2020-11-06"
   dateReadable: "November 6, 2020"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -92,7 +92,7 @@
 - 
   date: "2020-11-20"
   dateReadable: "November 20, 2020"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -104,7 +104,7 @@
 - 
   date: "2020-12-04"
   dateReadable: "December 4, 2020"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -116,7 +116,7 @@
 - 
   date: "2020-12-18"
   dateReadable: "December 18, 2020"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -128,7 +128,7 @@
 - 
   date: "2021-01-15"
   dateReadable: "January 15, 2021"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -140,7 +140,7 @@
 - 
   date: "2021-01-29"
   dateReadable: "January 29, 2021"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -152,7 +152,7 @@
 - 
   date: "2021-02-26"
   dateReadable: "February 26, 2021"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -164,7 +164,7 @@
 - 
   date: "2021-03-26"
   dateReadable: "March 26, 2021"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -176,7 +176,7 @@
 - 
   date: "2021-04-30"
   dateReadable: "April 30, 2021"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -188,7 +188,7 @@
 - 
   date: "2021-05-28"
   dateReadable: "May 28, 2021"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -200,7 +200,7 @@
 - 
   date: "2021-06-25"
   dateReadable: "June 25, 2021"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -212,7 +212,7 @@
 - 
   date: "2021-07-30"
   dateReadable: "July 30, 2021"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -224,7 +224,7 @@
 - 
   date: "2021-08-27"
   dateReadable: "August 27, 2021"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -236,7 +236,7 @@
 - 
   date: "2021-09-24"
   dateReadable: "September 24, 2021"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -248,7 +248,7 @@
 - 
   date: "2021-10-29"
   dateReadable: "October 29, 2021"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -260,7 +260,7 @@
 - 
   date: "2021-11-05"
   dateReadable: "November 05, 2021"
-  past: true
+  past: false
   tracks: 
     - {title: "Cognitive Neuroscience Journal Club", color: "#5cb85c"}
   timeslots:
@@ -272,7 +272,7 @@
 - 
   date: "2021-11-10"
   dateReadable: "November 10, 2021"
-  past: true
+  past: false
   tracks: 
     - {title: "#BSIsubspace Virtual Talks", color: "#5bc0de"}
   timeslots:
@@ -284,7 +284,7 @@
 - 
   date: "2021-11-19"
   dateReadable: "November 19, 2021"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -296,7 +296,7 @@
 - 
   date: "2021-12-03"
   dateReadable: "December 03, 2021"
-  past: true
+  past: false
   tracks: 
     - {title: "Cognitive Neuroscience Journal Club", color: "#5cb85c"}
   timeslots:
@@ -308,7 +308,7 @@
 - 
   date: "2021-12-17"
   dateReadable: "December 17, 2021"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -320,7 +320,7 @@
 - 
   date: "2022-01-28"
   dateReadable: "January 28, 2022"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -332,7 +332,7 @@
 - 
   date: "2022-03-18"
   dateReadable: "March 18, 2022"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -344,7 +344,7 @@
 - 
   date: "2022-04-29"
   dateReadable: "April 29, 2022"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -356,7 +356,7 @@
 - 
   date: "2022-05-27"
   dateReadable: "May 27, 2022"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -368,7 +368,7 @@
 - 
   date: "2022-06-24                                                                                                                                                     "
   dateReadable: "JUNE 24, 2022"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -380,7 +380,7 @@
 - 
   date: "2022-07-29"
   dateReadable: "July 29, 2022"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -392,7 +392,7 @@
 - 
   date: "2022-08-26"
   dateReadable: "August 26, 2022"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -404,7 +404,7 @@
 - 
   date: "2022-09-30"
   dateReadable: "September 30, 2022"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -416,7 +416,7 @@
 - 
   date: "2022-10-28"
   dateReadable: "October 28, 2022"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -428,7 +428,7 @@
 - 
   date: "2022-12-16"
   dateReadable: "December 16, 2022"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -440,7 +440,7 @@
 - 
   date: "2023-01-27"
   dateReadable: "January 27, 2023"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -452,7 +452,7 @@
 - 
   date: "2023-02-24"
   dateReadable: "February 24, 2023"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -464,7 +464,7 @@
 - 
   date: "2023-03-31"
   dateReadable: "March 31, 2023"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -476,7 +476,7 @@
 - 
   date: "2023-05-26"
   dateReadable: "May 26, 2023"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -488,7 +488,7 @@
 - 
   date: "2023-07-28"
   dateReadable: "July 28, 2023"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -500,7 +500,7 @@
 - 
   date: "2023-08-25"
   dateReadable: "August 25, 2023"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -520,4 +520,16 @@
     	startTime: "01:00",
     	endTime: "02:00",
     	sessionIds: [044]
+    }
+- 
+  date: "2023-10-27"
+  dateReadable: "October 27, 2023"
+  past: false
+  tracks: 
+    - {title: "BSI Talk Series", color: "#428bca"}
+  timeslots:
+    - {
+    	startTime: "01:00",
+    	endTime: "02:00",
+    	sessionIds: [045]
     }

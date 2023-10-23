@@ -594,3 +594,34 @@ diagnosis and treatment assessment.</p>
   speakers: [147]
   language: en
   complexity: 
+
+-
+  id: 045
+  title: "A Regularized Blind Source Separation Framework for Unveiling Hidden Sources of Brain Functional Connectome"
+  description: " <p> Brain connectomics has become increasingly important in neuroimaging studies to 
+advance understanding of neural circuits and their association with 
+neurodevelopment, mental illnesses, and aging. These analyses often face major 
+challenges, including the high dimensionality of brain networks, unknown latent 
+sources underlying the observed connectivity, and the large number of brain 
+connections leading to spurious findings. In this talk, we will introduce a novel 
+regularized blind source separation (BSS) framework for reliable mapping of neural 
+circuits underlying static and dynamic brain functional connectome. The proposed 
+LOCUS methods achieve more efficient and reliable source separation for 
+connectivity matrices using low-rank factorization, a novel angle-based sparsity 
+regularization, and a temporal smoothness regularization. We develop a highly 
+efficient iterative Node-Rotation algorithm that solves the non-convex optimization 
+problem for learning LOCUS models. Simulation studies demonstrate that the 
+proposed methods have consistently improved accuracy in retrieving latent 
+connectivity traits. Application of LOCUS methods to the Philadelphia Neurodevelopmental Cohort (PNC) neuroimaging study generates considerably 
+more reproducible findings in revealing underlying neural circuits and their 
+association with demographic and clinical phenotypes, uncovers dynamic 
+expression profiles of the circuits and the synchronization between them, and 
+generates insights on gender differences in the neurodevelopment of brain circuits.</p>
+    <b>Recommended Article:</b>
+  <ul>
+      <li> Wang, Y. and Guo, Y. (2023).   LOCUS: A regularized blind source separation method with low-rank structure for investigating brain connectivity. Annals of Applied Statistics, 17(2): 1307-1332.    <a href='https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-2/LOCUS--A-regularized-blind-source-separation-method-with-low/10.1214/22-AOAS1670.full'> Link to Paper </a> </li> 
+  </ul>"
+  subtype: presentation
+  speakers: [148]
+  language: en
+  complexity: 
