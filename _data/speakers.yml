@@ -828,3 +828,15 @@ psychiatry."
   thumbnailUrl: 'ying.jpg'
   rockstar: true
   social:
+- 
+  id: 149
+  name: "Tonya"
+  surname: "White"
+  company: "National Institute of Mental Health"
+  title: "Chief, Section on Social and Cognitive Developmental Neuroscience "
+  team: false
+  bio:  "Tonya White, MD, PhD moved in July 2022 from the Erasmus University in the Netherlands to head the Section on Social and Cognitive Developmental Neuroscience at the National Institute of Mental Health in Bethesda, Maryland. While in Rotterdam, she was professor of Pediatric Population Neuroimaging in the Department of Child and Adolescent Psychiatry and in the Department of Radiology and Nuclear Medicine at Erasmus University Medical Centre. Dr. White's has an eclectic educational background, having received a Bachelor's degree in electrical engineering (Magna Cum Laude) from the University of Utah and Master's degree in electrical engineering from the University of Illinois, Champaign/Urbana. She received her medical degree from the University of Illinois and later a Ph.D. from Erasmus University in Rotterdam, the Netherlands. Following a junior faculty position at the University of Minnesota, she joined the faculty at Erasmus University Medical Center in 2009 to set up and direct a pediatric population neuroimaging program within the Generation R study, which is a large epidemiological study of child development. While at the Erasmus University Medical Centre, her group acquired over 9000 brain imaging of children ranging from 6 to 17 years of age in four waves of data collection. Her primary focus lies in better understanding the underlying neurobiology in children with neurodevelopmental disorders, including autism spectrum disorders. 
+  The work that she will present during her talk will stem from her efforts in the Generation R Study."
+  thumbnailUrl: 'tonya.PNG'
+  rockstar: true
+  social:

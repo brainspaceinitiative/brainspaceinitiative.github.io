@@ -625,3 +625,30 @@ generates insights on gender differences in the neurodevelopment of brain circui
   speakers: [148]
   language: en
   complexity: 
+  
+-
+  id: 046
+  title: "Pediatric Population Neuroimaging and the Exploration of Stochastic Processes in Brain Development"
+  description: " <p> The prenatal period of life is a time of considerable brain development as 
+  the brain emerges from a single cell to a brain that very much resembles an adult brain by the time of birth. 
+  This period of extensive growth is also a critical period where environmental factors, such as nutrition, cannabis, 
+  cigarette smoking, medication, and other factors can influence brain development. Following birth, the brain undergoes 
+  continued brain development and postnatal factors can also have an influence on optimal brain development. 
+  This talk will describe the effects of environmental factors during the prenatal and early postnatal period on the 
+  developing brain, including the likely role of stochastic processes. During prenatal life the effects of nutrition, 
+  substance use, medications, and other environmental exposures on brain structure and function will be discussed 
+  within the context of a large, population-based study of child development. An overview of how stochastic events can 
+  influence brain development as well as an important hypothesis of how optimizing neurodevelopment during fetal life may, 
+  within a population-context, prevent the emergence of psychopathology.</p>
+    <b>Recommended Article:</b>
+  <ul>
+      <li> White TJH. Brain Development and Stochastic Processes During Prenatal and Early Life: You Can't Lose It if You've Never Had It; But It's Better to Have It and Lose It, Than Never to Have Had It at All. J Am Acad Child Adolesc Psychiatry. 2019;58(11):1042-1050. <a href='https://www.jaacap.org/article/S0890-8567(19)30128-5/fulltext'> Link to Paper </a> </li> 
+      <li> White, T., Muetzel, R.L., El Marroun, H. et al. Paediatric population neuroimaging and the Generation R Study: the second wave. Eur J Epidemiol 33, 99–125 (2018). <a href='https://link.springer.com/article/10.1007/s10654-017-0319-y'> Link to Paper </a></li>  
+      <li> Gärtner K. A third component causing random variability beside environment and genotype. A reason for the limited success of a 30 year long effort to standardize laboratory animals? Laboratory Animals. 1990;24(1):71-77. <a href='https://journals.sagepub.com/doi/10.1258/002367790780890347'> Link to Paper </a></li>
+      <li> Gerit Arne Linneweber et al. ,A neurodevelopmental origin of behavioral individuality in the Drosophila visual system.Science367,1112-1119(2020). <a href='https://www.science.org/doi/10.1126/science.aaw7182'> Link to Paper </a></li>
+      <li> White, Tonya. Behavioral Phenotypes, Stochastic Processes, Entropy, Evolution, and Individual Variability: Toward a Unified Field Theory for Neurodevelopment and Psychopathology. Aperture Neuro, vol. BWAS Editorials, Dec. 2022 <a href='https://apertureneuro.org/article/81060-behavioral-phenotypes-stochastic-processes-entropy-evolution-and-individual-variability-toward-a-unified-field-theory-for-neurodevelopment-and-ps'> Link to Paper </a></li>
+  </ul>"
+  subtype: presentation
+  speakers: [149]
+  language: en
+  complexity: 
