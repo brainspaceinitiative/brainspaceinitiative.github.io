@@ -524,7 +524,7 @@
 - 
   date: "2023-10-27"
   dateReadable: "October 27, 2023"
-  past: ture
+  past: true
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
