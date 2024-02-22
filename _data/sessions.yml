@@ -652,3 +652,23 @@ generates insights on gender differences in the neurodevelopment of brain circui
   speakers: [149]
   language: en
   complexity: 
+
+-
+  id: 047
+  title: "Understanding disease heterogeneity via weakly-supervised machine learning:  Focus on neuropsychiatric and neurodegenerative diseases "
+  description: " <p> Neuroimaging has significantly expanded our understanding of brain changes in neuropsychiatric disorders as
+   well as in aging and neurodegenerative diseases. However, it wasn’t until the advent of machine learning tools that imaging signatures
+    that can be detected in individuals, rather than groups, were constructed. This talk will present work on deriving imaging signatures of 
+    diagnostic and predictive value. It will then focus on weakly-supervised machine learning methods for analysis of the heterogeneity 
+    of brain imaging phenotypes, arriving at a dimensional representation reflecting the heterogeneity of brain aging and of various 
+    brain diseases. Finally, international consortia pooling and harmonizing large numbers of brain MRIs from many studies are presented as 
+    means for creating sufficiently large datasets for robust machine learning training and heterogeneity analysis, 
+  but also pose new challenges, including that or harmonization across studies.</p>
+    <b>Recommended Article:</b>
+  <ul>
+      <li> Yang, Z., Wen, J., Abdulkadir, A. et al. Gene-SGAN: discovering disease subtypes with imaging and genetic signatures via multi-view weakly-supervised deep clustering. Nat Commun 15, 354 (2024). <a href='https://www.nature.com/articles/s41467-023-44271-2'> Link to Paper </a> </li> 
+  </ul>"
+  subtype: presentation
+  speakers: [150]
+  language: en
+  complexity:

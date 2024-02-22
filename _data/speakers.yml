@@ -840,3 +840,27 @@ psychiatry."
   thumbnailUrl: 'tonya.PNG'
   rockstar: true
   social:
+- 
+  id: 150
+  name: "Christos"
+  surname: "Davatzikos"
+  company: "University of Pennsylvania"
+  title: "Wallace T. Miller Sr. Professor of Radiology"
+  team: false
+  bio:  "Dr. Christos Davatzikos is the Wallace T. Miller Sr. Professor of Radiology at the University of Pennsylvania, 
+  and Director of the recently founded AI2D Center for AI and Data Science for Integrated Diagnostics. 
+  He has been the Founding Director of the Center for Biomedical Image Computing and Analytics since 2013, and the director of the 
+  AIBIL lab (AI in Biomedical Imaging). He holds a secondary appointment in Electrical and Systems Engineering and in the Division of Informatics 
+  at Penn as well as at the Bioengineering an Applied Mathematics graduate groups. 
+  He obtained his undergraduate degree by the National Technical University of Athens, Greece in 1989, and his Ph.D. degree from 
+  Johns Hopkins, in 1994, on a Fulbright scholarship. 
+  He then joined the faculty in Radiology and later in Computer Science, where he founded and directed the Neuroimaging Laboratory. 
+  In 2002 he moved to Penn, where he founded and directed the section of biomedical image analysis. 
+  Dr. Davatzikos’ interests are in medical image analysis. 
+  He oversees a diverse research program ranging from basic problems of imaging pattern analysis and machine learning, to a variety of clinical studies of aging and Alzheimer’s Disease, schizophrenia, brain cancer, and brain development. 
+  Dr. Davatzikos has served on a variety of scientific journal editorial boards and grant review committees. 
+  He is an IEEE fellow, a fellow of the American Institute for Medical and Biological Engineering, and member of the council of 
+  distinguished investigators of the US Academy of Radiology and Biomedical Imaging Research."
+  thumbnailUrl: 'Christos.PNG'
+  rockstar: true
+  social:
