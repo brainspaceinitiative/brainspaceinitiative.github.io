@@ -672,3 +672,21 @@ generates insights on gender differences in the neurodevelopment of brain circui
   speakers: [150]
   language: en
   complexity:
+
+-
+  id: 048
+  title: "Machine learning paradigms towards single subject prediction"
+  description: " <p> The nature of mental illness remains a conundrum. Traditional disease categories are increasingly suspected to misrepresent the causes underlying mental disturbance.
+   Yet psychiatrists and investigators now have an unprecedented opportunity to benefit from complex patterns in brain, behavior, and genes using methods from machine learning (e.g., support vector machines, modern neural-network algorithms, cross-validation procedures).
+    Combining these analysis techniques with a wealth of data from consortia and repositories has the potential to advance a biologically grounded redefinition of major psychiatric disorders. Increasing evidence suggests that data-derived subgroups of psychiatric patients can better predict treatment outcomes than DSM/ICD diagnoses can. In a new era of evidence-based psychiatry tailored to single patients, objectively measurable endophenotypes could allow for early disease detection, individualized treatment selection, and dosage adjustment to reduce the burden of disease.
+   This primer aims to introduce clinicians and researchers to the opportunities and challenges in bringing machine intelligence into psychiatric practice.</p>
+    <b>Recommended Article:</b>
+  <ul>
+      <li> Bzdok D, Thieme A, Levkovskyy O, Wren P, Ray T, Reddy S. Data science opportunities of large language models for neuroscience and biomedicine. Neuron. 2024. <a href='https://www.cell.com/neuron/fulltext/S0896-6273(24)00042-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627324000424%3Fshowall%3Dtrue'> Link to Paper </a> </li> 
+      <li> Schulz MA, Bzdok D, Haufe S, Haynes JD, Ritter K. Performance reserves in brain-imaging-based phenotype prediction. Cell Rep. 2024. <a href='https://www.cell.com/cell-reports/fulltext/S2211-1247(23)01609-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2211124723016091%3Fshowall%3Dtrue'> Link to Paper </a> </li> 
+      <li>Bzdok D, Meyer-Lindenberg A. Machine Learning for Precision Psychiatry: Opportunities and Challenges. Biol Psychiatry Cogn Neurosci Neuroimaging. 2018. <a href='https://www.sciencedirect.com/science/article/abs/pii/S2451902217302069?via%3Dihub'> Link to Paper </a> </li> 
+  </ul>"
+  subtype: presentation
+  speakers: [151]
+  language: en
+  complexity:
