@@ -864,3 +864,15 @@ psychiatry."
   thumbnailUrl: 'Christos.PNG'
   rockstar: true
   social:
+
+- 
+  id: 151
+  name: "Danilo"
+  surname: "Bzdok"
+  company: "McGill University"
+  title: "Associate Professor"
+  team: false
+  bio:  "Danilo Bzdok is a medical doctor and computer scientist with a dual background in systems neuroscience and machine learning algorithms. After medical training at RWTH Aachen University (Germany), Université de Lausanne (Switzerland), and Harvard Medical School (USA), he completed one Ph.D. in brain-imaging neuroscience (Research Center Juelich, Germany, 2012) and one Ph.D. in computer science in machine learning statistics at INRIA Saclay and Neurospin (France, 2016). Danilo currently serves as Associate Professor at McGill's Faculty of Medicine and as Canada CIFAR AI Chair at Mila - Quebec Artificial Intelligence Institute, Montreal, Canada."
+  thumbnailUrl: 'Danilo.PNG'
+  rockstar: true
+  social:
