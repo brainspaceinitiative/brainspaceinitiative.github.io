@@ -690,3 +690,19 @@ generates insights on gender differences in the neurodevelopment of brain circui
   speakers: [151]
   language: en
   complexity:
+-
+  id: 049
+  title: "Can the Human Connectome guide Brain Stimulation? "
+  description: " <p> Invasive and noninvasive brain stimulation methods are applied to focal points in the depth or on the surface of the brain. However, their focal application leads to network effects that are distributed across the entire brain. We can study network effects of focal brain stimulation by pairing them with the human connectome. By doing so, we may investigate which networks need to be stimulated to observe a specific effect. Moreover, we can use brain stimulation sites to segregate the human connectome into functional networks, each tied to specific behaviors, clinical signs or symptoms. One particularly useful method is deep brain stimulation, an invasive neurosurgical procedure that applies highly localized but strong stimulation signals onto specific subcortical areas.
+In this talk, I will review connectomic effects of deep brain stimulation and other brain stimulation methods. We will cover results in diseases ranging from the movement disorders spectrum (Parkinson’s Disease, Dystonia, Essential Tremor) to neuropsychiatric (Tourette’s & Alzheimer’s Disease) and psychiatric (Obsessive Compulsive Disorder, Depression) diseases. I will also demonstrate how findings in seemingly different diseases (such as Parkinson’s Disease and Depression) could be transferred to cross-inform one another and how the same method can be used to study neurocognitive effects, such as risk-taking behavior or impulsivity.
+</p>
+    <b>Recommended Article:</b>
+  <ul>
+      <li> Hollunder, B., Ostrem, J.L., Sahin, I.A. et al. Mapping dysfunctional circuits in the frontal cortex using deep brain stimulation. Nat Neurosci 27, 573-586 (2024).  <a href='https://www.nature.com/articles/s41593-024-01570-1'> Link to Paper </a> </li> 
+      <li> Li, N., Baldermann, J.C., Kibleur, A. et al. A unified connectomic target for deep brain stimulation in obsessive-compulsive disorder. Nat Commun 11, 3364 (2020). <a href='https://www.nature.com/articles/s41467-022-34510-3'> Link to Paper </a> </li> 
+      <li> Ríos, A.S., Oxenford, S., Neudorfer, C. et al. Optimal deep brain stimulation sites and networks for stimulation of the fornix in Alzheimer's disease. Nat Commun 13, 7707 (2022). <a href='https://www.nature.com/articles/s41467-022-34510-3'> Link to Paper </a> </li> 
+  </ul>"
+  subtype: presentation
+  speakers: [152]
+  language: en
+  complexity:
