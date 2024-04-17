@@ -876,3 +876,15 @@ psychiatry."
   thumbnailUrl: 'Danilo.PNG'
   rockstar: true
   social:
+
+- 
+  id: 152
+  name: "Andreas"
+  surname: "Horn"
+  company: "Harvard Medical School"
+  title: "Associate Professor"
+  team: false
+  bio: "Andreas received an MD from Freiburg University and a PhD from Charité Berlin. He is Associate Professor for Neurology at Harvard Medical School and the director of deep brain stimulation research within the Center for Brain Circuit Therapeutics at Brigham & Women’s Hospital in Boston. He is further affiliated with the Massachusetts General Hospital in Boston and Charité Berlin. His lab studies how focal neuromodulation impacts the human connectome to refine clinical treatments for neurological and psychiatric disorders. A key question is which networks should be modulated for improvements of specific symptoms – in disorders such as Parkinson’s Disease, Obsessive Compulsive Disorder, Depression, or Alzheimer’s Disease. Further, the lab develops methods to segregate the human connectome into functional domains by combining brain stimulation with functional and diffusion-weighted MRI."
+  thumbnailUrl: 'andreas.PNG'
+  rockstar: true
+  social:
