@@ -581,3 +581,16 @@
     	endTime: "02:00",
     	sessionIds: [049]
     }
+
+- 
+  date: "2024-07-26"
+  dateReadable: "July 26, 2024"
+  past: false
+  tracks: 
+    - {title: "BSI Talk Series", color: "#428bca"}
+  timeslots:
+    - {
+    	startTime: "01:00",
+    	endTime: "02:00",
+    	sessionIds: [050]
+    }

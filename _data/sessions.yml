@@ -717,3 +717,22 @@ In this talk, I will review connectomic effects of deep brain stimulation and ot
   language: en
   complexity:
   video: https://www.youtube.com/watch?v=emKMcNiQ9fg
+
+
+-
+  id: 050
+  title: "Biologically Inspired Deep Learning as a New Window into Brain Dysfunction"
+  description: " <p> Deep learning has disrupted nearly every major field of study from computer vision to genomics. The unparalleled success of these models has, in many cases, been fueled by an explosion of data. Millions of labeled images, thousands of annotated ICU admissions, and hundreds of hours of transcribed speech are common standards in the literature. Clinical neuroscience is a notable holdout to this trend. It is a field of unavoidably small datasets, massive patient variability, and complex (largely unknown) phenomena. My lab tackles these challenges across a spectrum of projects, from answering foundational neuroscientific questions to translational applications of neuroimaging data to exploratory directions for probing neural circuitry. One of our key strategies is to integrate a priori information about the brain and biology into the model design.
+                  This talk will highlight two ongoing projects that epitomize this strategy. First, I will showcase an end-to-end deep learning framework that fuses neuroimaging, genetic, and phenotypic data, while maintaining interpretability of the extracted biomarkers. We use a learnable dropout layer to extract a sparse subset of predictive imaging features and a biologically informed deep network architecture for whole-genome analysis. Specifically, the network uses hierarchical graph convolution that mimic the organization of a well-established gene ontology to track the convergence of genetic risk across biological pathways. Second, I will present a deep-generative hybrid model for epileptic seizure detection from scalp EEG. The latent variables in this model capture the spatiotemporal spread of a seizure; they are complemented by a nonparametric likelihood based on convolutional neural networks. I will also highlight our current end-to-end extensions of this work focused on seizure onset localization.</p>
+    <b>Recommended Article:</b>
+  <ul>
+      <li> Ghosal, Sayan, Qiang Chen, Giulio Pergola, Aaron L. Goldman, William Ulrich, Daniel R. Weinberger, and Archana Venkataraman. A biologically interpretable graph convolutional network to link genetic risk pathways and neuroimaging markers of disease.  <a href='https://openreview.net/pdf?id=Lwr8We4MIxn'> Link to Paper </a> </li> 
+      <li> Ghosal, Sayan, Qiang Chen, Giulio Pergola, Aaron L. Goldman, William Ulrich, Karen F. Berman, Giuseppe Blasi et al. G-MIND: an end-to-end multimodal imaging-genetics framework for biomarker identification and disease classification. In Medical Imaging 2021, Image Processing, vol. 11596, pp. 63-72. SPIE, 2021.  <a href='https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11596/2581127/G-MIND--an-end-to-end-multimodal-imaging-genetics/10.1117/12.2581127.short'> Link to Paper </a> </li> 
+      <li> Craley, Jeff, Emily Johnson, and Archana Venkataraman. A spatio-temporal model of seizure propagation in focal epilepsy. IEEE transactions on medical imaging 39, no. 5 (2019): 1404-1418.  <a href='https://ieeexplore.ieee.org/document/8886406'> Link to Paper </a> </li> 
+      <li> Craley, Jeff, Emily Johnson, Christophe C. Jouny, David Hsu, Raheel Ahmed, and Archana Venkataraman. SZLoc: A multi-resolution architecture for automated epileptic seizure localization from scalp EEG. Medical Imaging with Deep Learning (2022). <a href='https://openreview.net/pdf?id=yGgZ3iPrkJT'> Link to Paper </a> </li> 
+  </ul>"
+  subtype: presentation
+  speakers: [153]
+  language: en
+  complexity:
+  video: 
