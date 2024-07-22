@@ -888,3 +888,15 @@ psychiatry."
   thumbnailUrl: 'andreas.PNG'
   rockstar: true
   social:
+
+  - 
+  id: 153
+  name: "Archana"
+  surname: "Venkataraman"
+  company: "Boston University"
+  title: "Associate Professor"
+  team: false
+  bio: "Dr. Archana Venkataraman is an Associate Professor of Electrical and Computer Engineering at Boston University. From 2016-2022, she was an Assistant Professor at Johns Hopkins University. Dr. Venkataraman directs the Neural Systems Analysis Laboratory and is affiliated with the Department of Biostatistics, the Department of Biomedical Engineering, the Center for Brain Recovery, and the Rafik B. Hariri Institute for Computing at Boston University. Dr. Venkataraman’s research lies at the intersection of biomedical imaging, artificial intelligence, and clinical neuroscience. Her work has yielded novel insights in to debilitating neurological disorders, such as autism, schizophrenia, and epilepsy, with the long-term goal of improving patient care. Dr. Venkataraman completed her B.S., M.Eng. and Ph.D. in Electrical Engineering at MIT in 2006, 2007 and 2012, respectively. She is a recipient of the MIT Provost Presidential Fellowship, the Siebel Scholarship, the National Defense Science and Engineering Graduate Fellowship, the NIH Advanced Multimodal Neuroimaging Training Grant, numerous best paper awards, and the National Science Foundation CAREER award. Dr. Venkataraman was also named by MIT Technology Review as one of 35 Innovators Under 35 in 2019."
+  thumbnailUrl: 'archana.PNG'
+  rockstar: true
+  social:
