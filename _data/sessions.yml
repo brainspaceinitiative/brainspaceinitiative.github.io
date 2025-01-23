@@ -674,7 +674,7 @@ generates insights on gender differences in the neurodevelopment of brain circui
     <b>Recommended Article:</b>
   <ul>
       <li> Yang, Z., Wen, J., Abdulkadir, A. et al. Gene-SGAN: discovering disease subtypes with imaging and genetic signatures via multi-view weakly-supervised deep clustering. Nat Commun 15, 354 (2024). <a href='https://www.nature.com/articles/s41467-023-44271-2'> Link to Paper </a> </li> 
-  </ul>"
+  </ul> "
   subtype: presentation
   speakers: [150]
   language: en
@@ -693,31 +693,30 @@ generates insights on gender differences in the neurodevelopment of brain circui
       <li> Bzdok D, Thieme A, Levkovskyy O, Wren P, Ray T, Reddy S. Data science opportunities of large language models for neuroscience and biomedicine. Neuron. 2024. <a href='https://www.cell.com/neuron/fulltext/S0896-6273(24)00042-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627324000424%3Fshowall%3Dtrue'> Link to Paper </a> </li> 
       <li> Schulz MA, Bzdok D, Haufe S, Haynes JD, Ritter K. Performance reserves in brain-imaging-based phenotype prediction. Cell Rep. 2024. <a href='https://www.cell.com/cell-reports/fulltext/S2211-1247(23)01609-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2211124723016091%3Fshowall%3Dtrue'> Link to Paper </a> </li> 
       <li>Bzdok D, Meyer-Lindenberg A. Machine Learning for Precision Psychiatry: Opportunities and Challenges. Biol Psychiatry Cogn Neurosci Neuroimaging. 2018. <a href='https://www.sciencedirect.com/science/article/abs/pii/S2451902217302069?via%3Dihub'> Link to Paper </a> </li> 
-  </ul>"
+  </ul> "
   subtype: presentation
   speakers: [151]
   language: en
   complexity:
   video: https://www.youtube.com/watch?v=aKfpqvpmQkc
-
+  
 -
   id: 049
   title: "Can the Human Connectome guide Brain Stimulation? "
   description: " <p> Invasive and noninvasive brain stimulation methods are applied to focal points in the depth or on the surface of the brain. However, their focal application leads to network effects that are distributed across the entire brain. We can study network effects of focal brain stimulation by pairing them with the human connectome. By doing so, we may investigate which networks need to be stimulated to observe a specific effect. Moreover, we can use brain stimulation sites to segregate the human connectome into functional networks, each tied to specific behaviors, clinical signs or symptoms. One particularly useful method is deep brain stimulation, an invasive neurosurgical procedure that applies highly localized but strong stimulation signals onto specific subcortical areas.
-In this talk, I will review connectomic effects of deep brain stimulation and other brain stimulation methods. We will cover results in diseases ranging from the movement disorders spectrum (Parkinson’s Disease, Dystonia, Essential Tremor) to neuropsychiatric (Tourette’s & Alzheimer’s Disease) and psychiatric (Obsessive Compulsive Disorder, Depression) diseases. I will also demonstrate how findings in seemingly different diseases (such as Parkinson’s Disease and Depression) could be transferred to cross-inform one another and how the same method can be used to study neurocognitive effects, such as risk-taking behavior or impulsivity.
-</p>
+   In this talk, I will review connectomic effects of deep brain stimulation and other brain stimulation methods. We will cover results in diseases ranging from the movement disorders spectrum (Parkinson’s Disease, Dystonia, Essential Tremor) to neuropsychiatric (Tourette’s & Alzheimer’s Disease) and psychiatric (Obsessive Compulsive Disorder, Depression) diseases. I will also demonstrate how findings in seemingly different diseases (such as Parkinson’s Disease and Depression) could be transferred to cross-inform one another and how the same method can be used to study neurocognitive effects, such as risk-taking behavior or impulsivity.
+      </p>
     <b>Recommended Article:</b>
   <ul>
       <li> Hollunder, B., Ostrem, J.L., Sahin, I.A. et al. Mapping dysfunctional circuits in the frontal cortex using deep brain stimulation. Nat Neurosci 27, 573-586 (2024).  <a href='https://www.nature.com/articles/s41593-024-01570-1'> Link to Paper </a> </li> 
       <li> Li, N., Baldermann, J.C., Kibleur, A. et al. A unified connectomic target for deep brain stimulation in obsessive-compulsive disorder. Nat Commun 11, 3364 (2020). <a href='https://www.nature.com/articles/s41467-022-34510-3'> Link to Paper </a> </li> 
       <li> Ríos, A.S., Oxenford, S., Neudorfer, C. et al. Optimal deep brain stimulation sites and networks for stimulation of the fornix in Alzheimer's disease. Nat Commun 13, 7707 (2022). <a href='https://www.nature.com/articles/s41467-022-34510-3'> Link to Paper </a> </li> 
-  </ul>"
+  </ul> "
   subtype: presentation
   speakers: [152]
   language: en
   complexity:
   video: https://www.youtube.com/watch?v=emKMcNiQ9fg
-
 
 -
   id: 050
