@@ -585,7 +585,7 @@
 - 
   date: "2024-07-26"
   dateReadable: "July 26, 2024"
-  past: false
+  past: true
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -593,4 +593,30 @@
     	startTime: "01:00",
     	endTime: "02:00",
     	sessionIds: [050]
+    }
+
+- 
+  date: "2024-12-06"
+  dateReadable: "December 6 , 2024"
+  past: true
+  tracks: 
+    - {title: "BSI Talk Series", color: "#428bca"}
+  timeslots:
+    - {
+    	startTime: "01:00",
+    	endTime: "02:00",
+    	sessionIds: [051]
+    }
+
+- 
+  date: "2025-01-31"
+  dateReadable: "Januray 31 , 2025"
+  past: false
+  tracks: 
+    - {title: "BSI Talk Series", color: "#428bca"}
+  timeslots:
+    - {
+    	startTime: "01:00",
+    	endTime: "02:00",
+    	sessionIds: [052]
     }

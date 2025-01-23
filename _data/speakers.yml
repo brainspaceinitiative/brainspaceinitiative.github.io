@@ -900,3 +900,28 @@ psychiatry."
   thumbnailUrl: 'archana.PNG'
   rockstar: true
   social:
+
+
+    - 
+  id: 154
+  name: "Alessandro"
+  surname: "Gozzi"
+  company: "Italian Institute of Technology"
+  title: "Senior Scientist and Director of the Functional Neuroimaging Laboratory"
+  team: false
+  bio: "Alessandro Gozzi, PhD, is a senior scientist and director of the functional neuroimaging laboratory at the Italian Institute of Technology, in Rovereto, Italy. The Gozzi lab focuses on the study of the functional organization of the mammalian brain at the macroscale. A major goal of Gozzi’s research is to unravel the neural basis and dynamic organization of large-scale functional connectivity as measured with fMRI, and the underpinnings of its disruption in developmental disorders like autism. The Gozzi lab addresses these questions via the combination of cutting-edge functional MRI mapping with genetic and neural manipulations in the living mouse brain. This approach has laid the foundations for a novel field of research in which large-scale neuroimaging readouts are used as probe of network activity and dysfunction across species."
+  thumbnailUrl: 'Gozzi.PNG'
+  rockstar: true
+  social:
+
+      - 
+  id: 155
+  name: "Sepideh "
+  surname: "Sadaghiani"
+  company: "University of Illinois, Urbana-Champaign"
+  title: "Associate Professor of Psychology and Bioengineering "
+  team: false
+  bio: "Sepideh Sadaghiani is Associate Professor of Psychology and Bioengineering, at the University of Illinois, Urbana-Champaign. She directs the CONNECTlab at the Beckman Institute for Advanced Science and Technology where she is full-time faculty. Sadaghiani received her Ph.D. in Neural and Behavioral Sciences from the Max Planck Graduate School and postdoctoral training at Berkeley and Stanford. She investigates the role of neural connectivity and spontaneous brain activity in cognitive control and behavior through a multi-modal lens. Sadaghiani serves as handling editor of Imaging Neuroscience and Network Neuroscience. She has been recognized as National Science Foundation (NSF) CAREER Awardee, and her work has been funded by the National Institutes of Health and the NSF."
+  thumbnailUrl: 'Sepideh.PNG'
+  rockstar: true
+  social:
