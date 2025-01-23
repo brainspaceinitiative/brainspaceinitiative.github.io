@@ -736,3 +736,44 @@ In this talk, I will review connectomic effects of deep brain stimulation and ot
   language: en
   complexity:
   video: 
+
+-
+  id: 051
+  title: "Mechanisms of fMRI (dys)connectivity"
+  description: " <p> Brain disorders are often associated with disrupted or atypical functional connectivity. However, our ability to decode these signals into interpretable biological or physiological mechanisms remains limited.
+To fill this knowledge gap, my lab has pioneered methods to map and manipulate intrinsic fMRI connectivity in the mouse brain. In my talk I will illustrate recent examples of the use of this platform to probe the underpinnings of intrinsic fMRI connectivity, and its disruption in brain disorders.
+Specifically, I will show how cross-species fMRI can help parse signatures of brain dysfunction in autism into biologically distinct connectivity subtypes. I will then show how these subtypes can be linked to basic physiological mechanisms via the use of chemogenetic manipulations. 
+These findings contribute to our understanding of the general principles governing fMRI connectivity in the mammalian brain. Importantly, they also support a simple framework whereby fMRI hyper- and hypo-connectivity observed in brain disease counterintuitively reflects reduced and increased neocortical activity. Future extensions of this framework may offer opportunities to physiologically-decode fMRI dysconnectivity in human brain disorders.
+</p>
+    <b>Recommended Article:</b>
+  <ul>
+      <li> Gutierrez-Barragan, D., Ramirez, J.S.B., Panzeri, S., Xu, T., and Gozzi, A. (2024). Evolutionarily conserved fMRI network dynamics in the mouse, macaque, and human brain. Nature Communications 15, 8518.  <a href='https://www.nature.com/articles/s41467-024-52721-8'> Link to Paper </a> </li> 
+      <li> Pagani, M., Gutierrez-Barragan, D., de Guzman, A.E., Xu, T., and Gozzi, A. (2023). Mapping and comparing fMRI connectivity networks across species. Commun Biol 6, 1238.  <a href='https://www.nature.com/articles/s42003-023-05629-w'> Link to Paper </a> </li> 
+      <li> Rocchi, F., Canella, C., Noei, S., Gutierrez-Barragan, D., Coletta, L., Galbusera, A., Stuefer, A., Vassanelli, S., Pasqualetti, M., Iurilli, G., et al. (2022). Increased fMRI connectivity upon chemogenetic inhibition of the mouse prefrontal cortex. Nat Commun 13, 1056.  <a href='https://www.nature.com/articles/s41467-022-28591-3'> Link to Paper </a> </li> 
+      <li> Pagani, M., Barsotti, N., Bertero, A., Trakoshis, S., Ulysse, L., Locarno, A., Miseviciute, I., De Felice, A., Canella, C., Supekar, K., et al. (2021). mTOR-related synaptic pathology causes autism spectrum disorder-associated functional hyperconnectivity. Nat Commun 12, 6084. <a href='https://www.nature.com/articles/s41467-021-26131-z'> Link to Paper </a> </li> 
+      <li> Zerbi, V., Pagani, M., Markicevic, M., Matteoli, M., Pozzi, D., Fagiolini, M., Bozzi, Y., Galbusera, A., Scattoni, M.L., Provenzano, G., et al. (2021). Brain mapping across 16 autism mouse models reveals a spectrum of functional connectivity subtypes. Mol Psychiatry 26, 7610-7620. <a href='https://www.nature.com/articles/s41380-021-01245-4'> Link to Paper </a> </li> 
+
+  </ul>"
+  subtype: presentation
+  speakers: [154]
+  language: en
+  complexity:
+  video: 
+
+-
+  id: 052
+  title: "The connectome multiplex"
+  description: " <p> The human functional connectome has become synonymous with its fMRI heritage, which yields connectivity on the basis of extremely slow fluctuations of the hemodynamic signal. More recently however, these slow connectivity patterns have been complemented with fast connectivity from electrophysiological measures. In this talk, I will discuss synergistic investigations of the functional connectome that use multiple complimentary acquisition methods. This multi-modal approach has demonstrated that the connectome comprises both fast, oscillation-based connectivity observable in EEG, and extremely slow connectivity best captured with fMRI. While the fast and slow processes share spatial organization, these processes unfold in a temporally independent manner. Our findings suggest that equivalent dynamics are engaged across all timescales, but at different speeds. Infraslow and rapid connectivity of various frequency bands can thus be conceptualized as a multiplex of concurrent trajectories through a shared space of discrete connectome states. In conclusion, basic and translational research will benefit from comprehensively considering the full breadth of the functional connectome’s timescales.</p>
+    <b>Recommended Article:</b>
+  <ul>
+      <li> Mostame P, Wirsich J, Alderson TH, Ridley B, Giraud A-L, Carmichael D, Vulliemoz S, Guye M, Lemieux L, Sadaghiani S (2024). A multiplex of dynamic connectome trajectories enables several connectivity patterns in parallel. eLife <a href='https://elifesciences.org/reviewed-preprints/98777'> Link to Paper </a> </li> 
+      <li> Jun S, Malone SM, Alderson TH, Iacono WG, Harper J, Wilson S, Sadaghiani S (2024) Rapid dynamics of electrophysiological connectome states are heritable. Network Neuroscience.  <a href='https://direct.mit.edu/netn/article/8/4/1065/121256/Rapid-dynamics-of-electrophysiological-connectome'> Link to Paper </a> </li> 
+      <li> Jun S, Malone SM, Alderson TH, Iacono WG, Harper J, Wilson S, Sadaghiani S (2024) Cognitive abilities are associated with rapid dynamics of electrophysiological connectome states. Network Neuroscience.  <a href='https://direct.mit.edu/netn/article/8/4/1089/121254/Cognitive-abilities-are-associated-with-rapid'> Link to Paper </a> </li> 
+      <li> Sadaghiani S, Brookes M, Baillet S. (2022) Connectomics of human electrophysiology. Invited contribution to special issue on Mapping the Connectome. NeuroImage.  <a href='https://www.sciencedirect.com/science/article/pii/S1053811921010600?via%3Dihub'> Link to Paper </a> </li> 
+
+  </ul>"
+  subtype: presentation
+  speakers: [155]
+  language: en
+  complexity:
+  video:   
