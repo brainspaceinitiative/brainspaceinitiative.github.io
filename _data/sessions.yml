@@ -669,8 +669,7 @@ generates insights on gender differences in the neurodevelopment of brain circui
     diagnostic and predictive value. It will then focus on weakly-supervised machine learning methods for analysis of the heterogeneity 
     of brain imaging phenotypes, arriving at a dimensional representation reflecting the heterogeneity of brain aging and of various 
     brain diseases. Finally, international consortia pooling and harmonizing large numbers of brain MRIs from many studies are presented as 
-    means for creating sufficiently large datasets for robust machine learning training and heterogeneity analysis, 
-  but also pose new challenges, including that or harmonization across studies.</p>
+    means for creating sufficiently large datasets for robust machine learning training and heterogeneity analysis, but also pose new challenges, including that or harmonization across studies.</p>
     <b>Recommended Article:</b>
   <ul>
       <li> Yang, Z., Wen, J., Abdulkadir, A. et al. Gene-SGAN: discovering disease subtypes with imaging and genetic signatures via multi-view weakly-supervised deep clustering. Nat Commun 15, 354 (2024). <a href='https://www.nature.com/articles/s41467-023-44271-2'> Link to Paper </a> </li> 
@@ -729,12 +728,12 @@ generates insights on gender differences in the neurodevelopment of brain circui
       <li> Ghosal, Sayan, Qiang Chen, Giulio Pergola, Aaron L. Goldman, William Ulrich, Karen F. Berman, Giuseppe Blasi et al. G-MIND: an end-to-end multimodal imaging-genetics framework for biomarker identification and disease classification. In Medical Imaging 2021, Image Processing, vol. 11596, pp. 63-72. SPIE, 2021.  <a href='https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11596/2581127/G-MIND--an-end-to-end-multimodal-imaging-genetics/10.1117/12.2581127.short'> Link to Paper </a> </li> 
       <li> Craley, Jeff, Emily Johnson, and Archana Venkataraman. A spatio-temporal model of seizure propagation in focal epilepsy. IEEE transactions on medical imaging 39, no. 5 (2019): 1404-1418.  <a href='https://ieeexplore.ieee.org/document/8886406'> Link to Paper </a> </li> 
       <li> Craley, Jeff, Emily Johnson, Christophe C. Jouny, David Hsu, Raheel Ahmed, and Archana Venkataraman. SZLoc: A multi-resolution architecture for automated epileptic seizure localization from scalp EEG. Medical Imaging with Deep Learning (2022). <a href='https://openreview.net/pdf?id=yGgZ3iPrkJT'> Link to Paper </a> </li> 
-  </ul>"
+  </ul> "
   subtype: presentation
   speakers: [153]
   language: en
   complexity:
-  video: 
+  video: https://www.youtube.com/watch?v=3GbngJvR4LI
 
 -
   id: 051
@@ -752,12 +751,12 @@ These findings contribute to our understanding of the general principles governi
       <li> Pagani, M., Barsotti, N., Bertero, A., Trakoshis, S., Ulysse, L., Locarno, A., Miseviciute, I., De Felice, A., Canella, C., Supekar, K., et al. (2021). mTOR-related synaptic pathology causes autism spectrum disorder-associated functional hyperconnectivity. Nat Commun 12, 6084. <a href='https://www.nature.com/articles/s41467-021-26131-z'> Link to Paper </a> </li> 
       <li> Zerbi, V., Pagani, M., Markicevic, M., Matteoli, M., Pozzi, D., Fagiolini, M., Bozzi, Y., Galbusera, A., Scattoni, M.L., Provenzano, G., et al. (2021). Brain mapping across 16 autism mouse models reveals a spectrum of functional connectivity subtypes. Mol Psychiatry 26, 7610-7620. <a href='https://www.nature.com/articles/s41380-021-01245-4'> Link to Paper </a> </li> 
 
-  </ul>"
+  </ul> "
   subtype: presentation
   speakers: [154]
   language: en
   complexity:
-  video: 
+  video: https://www.youtube.com/watch?v=POv4sNedL0M
 
 -
   id: 052
@@ -770,9 +769,9 @@ These findings contribute to our understanding of the general principles governi
       <li> Jun S, Malone SM, Alderson TH, Iacono WG, Harper J, Wilson S, Sadaghiani S (2024) Cognitive abilities are associated with rapid dynamics of electrophysiological connectome states. Network Neuroscience.  <a href='https://direct.mit.edu/netn/article/8/4/1089/121254/Cognitive-abilities-are-associated-with-rapid'> Link to Paper </a> </li> 
       <li> Sadaghiani S, Brookes M, Baillet S. (2022) Connectomics of human electrophysiology. Invited contribution to special issue on Mapping the Connectome. NeuroImage.  <a href='https://www.sciencedirect.com/science/article/pii/S1053811921010600?via%3Dihub'> Link to Paper </a> </li> 
 
-  </ul>"
+  </ul> "
   subtype: presentation
   speakers: [155]
   language: en
   complexity:
-  video:   
+  video:   https://www.youtube.com/watch?v=3peW4zOHQlA
