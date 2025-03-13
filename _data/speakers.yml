@@ -918,10 +918,22 @@ psychiatry."
   id: 155
   name: "Sepideh"
   surname: "Sadaghiani"
-  company: "University of Illinois, Urbana-Champaign"
+  company: "Harvard Medical School"
   title: "Associate Professor of Psychology and Bioengineering "
   team: false
   bio: "Sepideh Sadaghiani is Associate Professor of Psychology and Bioengineering, at the University of Illinois, Urbana-Champaign. She directs the CONNECTlab at the Beckman Institute for Advanced Science and Technology where she is full-time faculty. Sadaghiani received her Ph.D. in Neural and Behavioral Sciences from the Max Planck Graduate School and postdoctoral training at Berkeley and Stanford. She investigates the role of neural connectivity and spontaneous brain activity in cognitive control and behavior through a multi-modal lens. Sadaghiani serves as handling editor of Imaging Neuroscience and Network Neuroscience. She has been recognized as National Science Foundation (NSF) CAREER Awardee, and her work has been funded by the National Institutes of Health and the NSF."
   thumbnailUrl: 'Sepideh.PNG'
+  rockstar: true
+  social:
+
+      - 
+  id: 156
+  name: "Jingyuan"
+  surname: "E. Chen"
+  company: "Harvard Medical School"
+  title: "Assistant Professor"
+  team: false
+  bio: "Dr. Chen is an Assistant Professor at the Martinos Center for Biomedical Imaging at Massachusetts General Hospital and Harvard Medical School. She earned her Ph.D. from Stanford University, with a major in Electrical Engineering and a minor in Statistics. Following graduation, she pursued further training in neuroimaging as a postdoctoral fellow at the Martinos Center. Her lab advances neuroimaging techniques (with a focus on functional PET-MRI and ultra-high-field fMRI) and computational approaches to investigate the biophysical and molecular mechanisms underlying intrinsic brain activity and the neurobiological consequences of cognition, arousal, and disease."
+  thumbnailUrl: 'jingyun.jpeg'
   rockstar: true
   social:

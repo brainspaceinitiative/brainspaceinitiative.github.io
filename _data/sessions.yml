@@ -775,3 +775,19 @@ These findings contribute to our understanding of the general principles governi
   language: en
   complexity:
   video:   https://www.youtube.com/watch?v=3peW4zOHQlA
+
+  -
+  id: 053
+  title: "Functional PET-MRI of brain network dynamics across tasks and arousal states"
+  description: " <p> TRecently, the field of neuroimaging has seen a resurgence of interest in functional positron emission tomography (fPET)-FDG (2-[18F]-fluorodeoxyglucose) imaging, the dominant technique for non-invasive human brain mapping before the advent of functional magnetic resonance imaging (fMRI). This renewed attention in fPET-FDG is driven by refinements in tracer administration for dynamic metabolic imaging and its potential to address key limitations of existing neuroimaging techniques. In this talk, I will first introduce the fPET-FDG technique, highlighting its temporal characteristics with empirical sensory task data. I will then present our research integrating fPET-FDG with simultaneous (EEG-)fMRI to elucidate the metabolic states underlying large-scale brain functional dynamics across various tasks and sleep. Finally, I will discuss our ongoing efforts to enhance the statistical parametric mapping for fPET-FDG.</p>
+    <b>Recommended Article:</b>
+  <ul>
+     <li> Villien, M., Wey, H. Y., Mandeville, J. B., Catana, C., Polimeni, J. R., Sander, C. Y., ... & Hooker, J. M. (2014). Dynamic functional imaging of brain glucose utilization using fPET-FDG. Neuroimage, 100, 192-199. <a href='https://doi.org/10.1016/j.neuroimage.2014.06.025'> Link to Paper </a> </li>
+    <li> Chen, J. E., Lewis, L., Coursey, S., Catana, C., Polimeni, J., Fan, J., ... & Rosen, B. R. (2025). Simultaneous EEG-PET-MRI identifies temporally coupled, spatially structured hemodynamic and metabolic dynamics across wakefulness and NREM sleep. bioRxiv, 2025-01. <a href='https://doi.org/10.1101/2025.01.17.633689'> Link to Paper </a> </li>
+    <li> Coursey, S. E., Mandeville, J., Reed, M. B., Hartung, G. A., Garimella, A., Sari, H., ... & Chen, J. E. (2024). On the analysis of functional PET (fPET)-FDG: baseline mischaracterization can introduce artifactual metabolic (de) activations. bioRxiv. <a href='https://doi.org/10.1101/2024.10.17.618550'> Link to Paper </a> </li>
+  </ul> "
+  subtype: presentation
+  speakers: [156]
+  language: en
+  complexity:
+  video:  
