@@ -776,7 +776,7 @@ These findings contribute to our understanding of the general principles governi
   complexity:
   video:   https://www.youtube.com/watch?v=3peW4zOHQlA
 
-  -
+-
   id: 053
   title: "Functional PET-MRI of brain network dynamics across tasks and arousal states"
   description: " <p> TRecently, the field of neuroimaging has seen a resurgence of interest in functional positron emission tomography (fPET)-FDG (2-[18F]-fluorodeoxyglucose) imaging, the dominant technique for non-invasive human brain mapping before the advent of functional magnetic resonance imaging (fMRI). This renewed attention in fPET-FDG is driven by refinements in tracer administration for dynamic metabolic imaging and its potential to address key limitations of existing neuroimaging techniques. In this talk, I will first introduce the fPET-FDG technique, highlighting its temporal characteristics with empirical sensory task data. I will then present our research integrating fPET-FDG with simultaneous (EEG-)fMRI to elucidate the metabolic states underlying large-scale brain functional dynamics across various tasks and sleep. Finally, I will discuss our ongoing efforts to enhance the statistical parametric mapping for fPET-FDG.</p>
