@@ -925,3 +925,15 @@ psychiatry."
   thumbnailUrl: 'Sepideh.PNG'
   rockstar: true
   social:
+
+      - 
+  id: 156
+  name: "Jingyuan"
+  surname: "E. Chen"
+  company: "Harvard Medical School"
+  title: "Assistant Professor"
+  team: false
+  bio: "Dr. Chen is an Assistant Professor at the Martinos Center for Biomedical Imaging at Massachusetts General Hospital and Harvard Medical School. She earned her Ph.D. from Stanford University, with a major in Electrical Engineering and a minor in Statistics. Following graduation, she pursued further training in neuroimaging as a postdoctoral fellow at the Martinos Center. Her lab advances neuroimaging techniques (with a focus on functional PET-MRI and ultra-high-field fMRI) and computational approaches to investigate the biophysical and molecular mechanisms underlying intrinsic brain activity and the neurobiological consequences of cognition, arousal, and disease."
+  thumbnailUrl: 'jingyun.jpeg'
+  rockstar: true
+  social:
