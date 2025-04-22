@@ -937,3 +937,15 @@ psychiatry."
   thumbnailUrl: 'jingyun.jpeg'
   rockstar: true
   social:
+
+        - 
+  id: 157
+  name: "Gaelle"
+  surname: "E. Doucet"
+  company: "Institute for Human Neuroscience, at Boys Town National Research Hospital"
+  title: "Director of the Brain Architecture, Imaging and Cognition (BrAIC) Lab "
+  team: false
+  bio: "Dr. Doucet is the Director of the Brain Architecture, Imaging and Cognition (BrAIC) Lab at the Institute for Human Neuroscience, at Boys Town National Research Hospital (Omaha, NE). She earned her Ph.D. in cognitive neuroscience, focusing on identifying resting-state networks and their link to mindwandering in healthy populations. She further pursued training in neuroimaging applied to clinical populations as a postdoctoral fellow at Thomas Jefferson University and then at the Icahn School of Medicine at Mount Sinai. Her lab uses multi-modal neuroimaging techniques to investigate the impact of age on the brain network architecture throughout the lifespan, and how it impacts cognitive functions, in healthy and clinical populations."
+  thumbnailUrl: 'Gaelle.jpeg'
+  rockstar: true
+  social:
