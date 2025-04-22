@@ -794,29 +794,14 @@ These findings contribute to our understanding of the general principles governi
 
 -
   id: 054
-  title: "Variability in Brain Functional Atlases: How important are they?"
+  title: " Variability in Brain Functional Atlases: How important are they? "
   description: " <p> One major aspect of cognitive neuroimaging has been to use “reference” brain functional atlases to study the effect of age or different cognitive variables on specific brain networks. However, most of the current atlases are based on healthy young populations which may prevent the generalizability of network definitions to other populations. In this talk, I will discuss the degree of variability across brain atlases. I will further present two new brain atlases based on younger and older populations, respectively. Finally, I will discuss how this choice can impact neuroimaging results, which highlights the importance of this decision for future studies and the careful interpretation of already published results.</p>
     <b>Recommended Article:</b>
- <ul>
-  <li>
-    G. E. Doucet, C. Goldsmith, K. Myers, D. L. Rice, G. Ende, D. J. Pavelka, M. Joliot, V. D. Calhoun, T. W. Wilson, L. Q. Uddin (2025) 
-    <strong>Dev-Atlas:</strong> A reference atlas of functional brain networks for typically developing adolescents. 
-    <em>Developmental Cognitive Neuroscience</em>, 7:72:101523. 
-    (<a href="https://www.sciencedirect.com/science/article/pii/S1878929325000180?via%3Dihub">Link to Paper</a>)
-  </li>
-  <li>
-    G. E. Doucet, L. Labache, P. Thompson, M. Joliot, S. Frangou (2021) 
-    <strong>Atlas55+:</strong> A brain functional atlas for resting-state networks for late adulthood. 
-    <em>Cerebral Cortex</em>. 31: 1719–1731. 
-    (<a href="https://academic.oup.com/cercor/article/31/3/1719/5981728">Link to Paper</a>)
-  </li>
-  <li>
-    G. E. Doucet, W. H. Lee, S. Frangou (2019) 
-    <strong>Evaluation of the spatial variability in the major resting-state networks across human brain functional atlases.</strong> 
-    <em>Human Brain Mapping</em>. 40:4577-4587. 
-    (<a href="https://onlinelibrary.wiley.com/doi/10.1002/hbm.24722">Link to Paper</a>)
-  </li>
-</ul> "
+  <ul>
+    <li> G. E. Doucet, C. Goldsmith, K. Myers, D. L. Rice, G. Ende, D. J. Pavelka, M. Joliot, V. D. Calhoun, T. W. Wilson, L. Q. Uddin (2025) Dev-Atlas: A reference atlas of functional brain networks for typically developing adolescents. Developmental Cognitive Neuroscience <a href='https://www.sciencedirect.com/science/article/pii/S1878929325000180?via%3Dihub'> Link to Paper </a> </li>
+    <li> G. E. Doucet, L. Labache, P. Thompson, M. Joliot, S. Frangou (2021) Atlas55+: A brain functional atlas for resting-state networks for late adulthood. Cerebral Cortex. <a href='https://academic.oup.com/cercor/article/31/3/1719/5981728'> Link to Paper </a> </li>
+    <li> G. E. Doucet, W. H. Lee, S. Frangou (2019) Evaluation of the spatial variability in the major resting-state networks across human brain functional atlases. Human Brain Mapping.  <a href='https://onlinelibrary.wiley.com/doi/10.1002/hbm.24722'> Link to Paper </a> </li>
+  </ul> "
   subtype: presentation
   speakers: [157]
   language: en
