@@ -889,7 +889,7 @@ psychiatry."
   rockstar: true
   social:
 
-  - 
+- 
   id: 153
   name: "Archana"
   surname: "Venkataraman"
@@ -902,7 +902,7 @@ psychiatry."
   social:
 
 
-    - 
+- 
   id: 154
   name: "Alessandro"
   surname: "Gozzi"
@@ -914,7 +914,7 @@ psychiatry."
   rockstar: true
   social:
 
-      - 
+- 
   id: 155
   name: "Sepideh"
   surname: "Sadaghiani"
@@ -926,7 +926,7 @@ psychiatry."
   rockstar: true
   social:
 
-      - 
+- 
   id: 156
   name: "Jingyuan"
   surname: "E. Chen"
@@ -938,7 +938,7 @@ psychiatry."
   rockstar: true
   social:
 
-        - 
+- 
   id: 157
   name: "Gaelle"
   surname: "E. Doucet"
