@@ -949,3 +949,15 @@ psychiatry."
   thumbnailUrl: 'Gaelle.jpeg'
   rockstar: true
   social:
+
+  - 
+  id: 158
+  name: "Kathryn"
+  surname: "Leigh Humphreys"
+  company: "Vanderbilt University"
+  title: "Associate Professor, Department of Psychology and Human Development"
+  team: false
+  bio: "Dr. Kathryn Humphreys is an Associate Professor in the Department of Psychology and Human Development and Chancellor Faculty Fellow at Vanderbilt University. Dr. Humphreys is widely recognized as an international leader in examining the impact of adverse experiences on child development, with a dedicated goal of improving children's lives. A clinical psychologist by training, Dr. Humphreys received postdoctoral training in infant mental health and developmental neuroscience. Her research explores the mechanisms through which early experiences shape developmental trajectories. She has received numerous grants to support her research, with current support from the National Institutes of Health and National Science Foundation. Dr. Humphreys has authored nearly 200 publications and book chapters and has been recognized with several awards, including the Janet Taylor Spence Award for Transformative Early Career Contributions from Association for Psychological Science and the Boyd McCandless Award from American Psychological Association, reflecting her significant contributions to the field of developmental and clinical psychology."
+  thumbnailUrl: 'Kathryn.JPG'
+  rockstar: true
+  social:

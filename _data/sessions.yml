@@ -807,3 +807,35 @@ These findings contribute to our understanding of the general principles governi
   language: en
   complexity:
   video: 
+
+-
+  id: 055
+  title: "The joys and challenges of MRI data collection in infants and pregnant individuals"
+  description: " <p> This presentation examines the practical aspects and scientific value of conducting MRI studies during periods of rapid brain development—specifically infancy and pregnancy. Drawing from our work in the Stress and Early Adversity Lab and my role co-leading the scanning young populations group for the HEALthy Brain and Child Development Study (HBCD), I will discuss effective protocols for these specialized populations. The talk will cover essential logistical considerations, including optimal team composition and roles during scanning sessions, and strategies for building meaningful relationships with participants to enhance both recruitment and retention. I will share our approach to participant incentives—financial compensation, transportation assistance, childcare provision, refreshments, take-home items such as 3D printed brain models—and how these contribute to successful data collection. Safety considerations specific to pregnant individuals and infants will be addressed, alongside techniques for motion mitigation and participant comfort. The presentation will highlight how these methodological approaches have supported the collection of valuable developmental neuroimaging data across both single-site studies and the large-scale, 26-site HBCD consortium that aims to follow 7,500 children from the prenatal period through age 10.</p>
+    <b>Recommended Article:</b>
+<ul>
+  <li>
+    Niu, Yanbin, et al. 
+    Longitudinal investigation of neurobiological changes across pregnancy.
+    <em>Communications Biology</em> 8.1 (2025): 82. 
+    (<a href="https://www.nature.com/articles/s42003-024-07414-9">Link to Paper</a>)
+  </li>
+  <li>
+    Humphreys, Kathryn L., and Autumn Kujawa. 
+    Are brains rewired for caring during pregnancy? Why the jury's out.
+    <em>Nature</em> 632.8026 (2024): 739-739. 
+    (<a href="https://www.nature.com/articles/d41586-024-02710-0">Link to Paper</a>)
+  </li>
+  <li>
+    Dean III, Douglas C., et al. 
+    Quantifying brain development in the HEALthy Brain and Child Development (HBCD) Study: The magnetic resonance imaging and spectroscopy protocol.
+    <em>Developmental cognitive neuroscience</em> 70 (2024): 101452. 
+    (<a href="https://www.sciencedirect.com/science/article/pii/S1878929324001130?via%3Dihub">Link to Paper</a>)
+  </li>
+</ul>
+ "
+  subtype: presentation
+  speakers: [158]
+  language: en
+  complexity:
+  video:   
