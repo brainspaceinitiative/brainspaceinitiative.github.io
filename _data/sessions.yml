@@ -823,3 +823,20 @@ These findings contribute to our understanding of the general principles governi
   language: en
   complexity:
   video:   
+
+-
+  id: 056
+  title: " End-to-end Stroke imaging analysis, using reservoir computing-based effective connectivity, and interpretable AI "
+  description: " <p> We present an end-to-end AI framework for directed graphs including explainable AI. This is a machine learning pipeline combining reservoir computing and directed graph analysis to model brain connectivity in stroke patients using MRI data. Effective connectivity is derived via reservoir computing, enabling the creation of directed graph representations. These graphs are classified using a directed graph convolutional network. Explainable AI tools provide insights into disrupted brain networks, elucidating biomarkers for stroke classification and enhancing clinical interpretability. This approach highlights the potential of machine learning to improve patient stratification in stroke and other brain diseases. The technical innovations are related to reservoir computing networks, directed graph analysis, and explainable AI of effective brain connectivity. Current efforts related to foundation model (similar to LLMs) will be also presented.</p>
+    <b>Recommended Article:</b>
+    <ul>
+      <li> Crimi, Alessandro, Luca Dodero, Fabio Sambataro, Vittorio Murino, and Diego Sona. Structurally constrained effective brain connectivity. NeuroImage 239 (2021): 118288. <a href='https://www.sciencedirect.com/science/article/pii/S1053811921005644?via%3Dihub'> Link to Paper </a> </li>
+      <li> Ciezobka, Wojciech, Joan Falcó-Roget, Cemal Koba, and Alessandro Crimi. End-to-end Stroke Imaging Analysis using Effective Connectivity and Interpretable Artificial intelligence. IEEE Access (2025) <a href='https://ieeexplore.ieee.org/document/10839398'> Link to Paper </a> </li>
+      <li> Wardynski, Marcin, Iacopo Iacopini, Giovanni Petri, Vito LaTora, and Alessandro Crimi. Modeling the Spread of Misfolded Proteins in Alzheimer's Disease using Higher-Order Simplicial Complex Contagion. medRxiv (2025): 2025-02.   <a href='https://www.medrxiv.org/content/10.1101/2025.02.01.25321521v2'> Link to Paper </a> </li>
+      <li> Gherardini, Luca, Aleksandra Zajdel, Lorenzo Pini, and Alessandro Crimi. Prediction of misfolded proteins spreading in Alzheimer's disease using machine learning and spreading models. Cerebral Cortex 33, no. 24 (2023): 11471-11485 <a href='https://academic.oup.com/cercor/article/33/24/11471/7311320'> Link to Paper </a> </li>
+    </ul> "
+  subtype: presentation
+  speakers: [159]
+  language: en
+  complexity:
+  video:   
