@@ -961,3 +961,15 @@ psychiatry."
   thumbnailUrl: 'Kathryn.JPG'
   rockstar: true
   social:
+
+  - 
+  id: 159
+  name: "Alessandro"
+  surname: "Crimi"
+  company: "AGH University of Krakow"
+  title: "Assistant Professor"
+  team: false
+  bio: "Dr. Alessandro Crimi after completing his studies in engineering at the university of Palermo (Italy), obtained a PhD in machine learning applied for medical imaging by the University of Copenhagen, and an MBA in healthcare management by the University of Basel. Alessandro worked as post-doctoral researcher at the French Institute for Research in Computer Science (INRIA), Technical School of Switzerland (ETH-Zurich), Italian Institute for Technology (IIT), and University Hospital of Zurich. He has also been involved in global health projects in sub-Saharan Africa. He is currently a professor at AGH Krakow."
+  thumbnailUrl: 'crimi.jpg'
+  rockstar: true
+  social:
