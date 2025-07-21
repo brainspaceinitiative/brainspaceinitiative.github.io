@@ -839,4 +839,25 @@ These findings contribute to our understanding of the general principles governi
   speakers: [159]
   language: en
   complexity:
-  video:   
+  video: 
+
+  -
+  id: 057
+  title: " Unlocking Precision Mental Health with Data-Driven Neuroimaging Biomarkers "
+  description: " <p> Mental disorders are among the most common illnesses across the lifespan and the leading cause of ill health and disability worldwide. Conventionally, mental disorders are diagnosed by a combination of clinical symptoms. However, the subjective diagnostic framework has caused substantial clinical and neurobiological heterogeneity and largely ignored the frequent comorbidity among diseases. These limitations hinder the understanding of mechanisms underlying the diseases and the search for the right treatment solutions. With the rapid development of neuroimaging technologies, increasing large-scale non-invasive in-vivo neural data has been continually produced worldwide and provides rich resources for the exploration of data-driven objective biomarkers for improved mental health. By exploiting the complex brain imaging data including EEG and fMRI, artificial intelligence (AI) techniques have attracted the increasing interest of researchers in the fields of smart healthcare and neural engineering. Exploring new theories and applications from the perspective of machine learning/AI may bring unprecedented benefits to establish robust neurobiomarkers for more precise diagnosis, prognosis, and treatment selection, toward precision medicine for mental disorders. In this talk, I will present some of our recent work on neural pattern decoding, brain connectome modeling, and neurobiomarker discovery by leveraging cutting-edge machine learning and data-driven techniques. The presentation topic will cover latent-space biomarker quantification, predictive modeling of brain networks, and unsupervised disease biotyping, for precision diagnosis and personalized treatment of mental disorders.</p>
+    <b>Recommended Article:</b>
+    <ul>
+        <li> Fonzo, G.A., Etkin, A., Zhang, Y. et al. Brain regulation of emotional conflict predicts antidepressant treatment response for depression. Nat Hum Behav 3, 1319–1331 (2019).<a href='https://www.nature.com/articles/s41562-019-0732-1'> Link to Paper </a> </li>
+        <li> Wu, W., Zhang, Y., Jiang, J. et al. An electroencephalographic signature predicts antidepressant response in major depression. Nat Biotechnol 38, 439–447 (2020).<a href='https://www.nature.com/articles/s41587-019-0397-3'> Link to Paper </a> </li>
+        <li> Zhang, Y., Wu, W., Toll, R.T. et al. Identification of psychiatric disorder subtypes from functional connectivity patterns in resting-state electroencephalography. Nat Biomed Eng 5, 309–323 (2021).<a href='https://www.nature.com/articles/s41551-020-00614-8'> Link to Paper </a> </li>
+        <li> Zhang, Y., Naparstek, S., Gordon, J. et al. Machine learning-based identification of a psychotherapy-predictive electroencephalographic signature in PTSD. Nat. Mental Health 1, 284–294 (2023).<a href='https://www.nature.com/articles/s44220-023-00049-5'> Link to Paper </a> </li>
+        <li> Zhao, K., Xie, H., Fonzo, G.A. et al. Individualized fMRI connectivity defines signatures of antidepressant and placebo responses in major depression. Mol Psychiatry 28, 2490–2499 (2023). <a href='https://www.nature.com/articles/s41380-023-01958-8'> Link to Paper </a> </li>
+        <li> Tong, X., Xie, H., Fonzo, G.A. et al. Symptom dimensions of resting-state electroencephalographic functional connectivity in autism. Nat. Mental Health 2, 287–298 (2024). <a href='https://www.nature.com/articles/s44220-023-00195-w'> Link to Paper </a> </li>
+        <li> Zhao, K., Fonzo, G.A., Xie, H. et al. Discriminative functional connectivity signature of cocaine use disorder links to rTMS treatment response. Nat. Mental Health 2, 388–400 (2024).<a href='https://www.nature.com/articles/s44220-024-00209-1'> Link to Paper </a> </li>
+        <li> Zhao K, Xie H, Fonzo GA, Carlisle NB, Osorio RS, Zhang Y. Dementia Subtypes Defined Through Neuropsychiatric Symptom–Associated Brain Connectivity Patterns. JAMA Netw Open. 2024;7(7):e2420479. doi:10.1001/jamanetworkopen.2024.20479<a href='https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820862'> Link to Paper </a> </li>
+  </ul> "
+  subtype: presentation
+  speakers: [160]
+  language: en
+  complexity:
+  video:    
