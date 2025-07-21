@@ -662,7 +662,7 @@
 - 
   date: "2025-06-20"
   dateReadable: "June 20 , 2025"
-  past: false
+  past: true
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
@@ -670,4 +670,16 @@
     	startTime: "01:00",
     	endTime: "02:00",
     	sessionIds: [056]
+    }     
+- 
+  date: "2025-07-25"
+  dateReadable: "July 25 , 2025"
+  past: false
+  tracks: 
+    - {title: "BSI Talk Series", color: "#428bca"}
+  timeslots:
+    - {
+    	startTime: "01:00",
+    	endTime: "02:00",
+    	sessionIds: [057]
     }     

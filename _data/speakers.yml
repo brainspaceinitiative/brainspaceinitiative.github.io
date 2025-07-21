@@ -973,3 +973,15 @@ psychiatry."
   thumbnailUrl: 'crimi.jpg'
   rockstar: true
   social:
+
+  - 
+  id: 160
+  name: "Yu"
+  surname: "Zhang"
+  company: "Stanford University"
+  title: "Assistant Professor, Psychiatry and Behavioral Sciences"
+  team: false
+  bio: "Dr. Yu Zhang is an Assistant Professor of Psychiatry and Behavioral Sciences at Stanford University School of Medicine. Before joining Stanford, he was a tenured Associate Professor of Bioengineering and of Electrical and Computer Engineering at Lehigh University. He was also a Postdoctoral Research Fellow in the Department of Psychiatry and Behavioral Sciences at Stanford University, and in the Biomedical Research Imaging Center at the University of North Carolina, Chapel Hill. In the past decade, he has been mainly working on data-driven neural pattern decoding and biomarker discovery using multimodal neuroimaging techniques for personalized medicine of mental disorders. He is the author of over 140 peer-reviewed papers that have been published in prestigious journals and conferences, such as Nature Biomedical Engineering, Nature Mental Health, Nature Human Behaviour, Nature Biotechnology, JAMA Network Open, Cell Reports Medicine, Molecular Psychiatry, Proceedings of the IEEE, IEEE Trans. Pattern Anal. Mach. Intell., ICML, MICCAI, and AAAI. He is a Senior Member of the IEEE and serves as Associate Editor for Journals including Frontiers in Neuroscience, Network Modeling Analysis in Health Informatics and Bioinformatics, and Frontiers in Computational Neuroscience. His research interests include computational neuroscience, machine learning, brain-computer interaction, biomedical signal processing, and medical imaging computing."
+  thumbnailUrl: 'Yu_Zhang.JPG'
+  rockstar: true
+  social:
