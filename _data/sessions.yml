@@ -861,3 +861,18 @@ These findings contribute to our understanding of the general principles governi
   language: en
   complexity:
   video:    
+
+  -
+  id: 058
+  title: " Unlocking Precision Mental Health with Data-Driven Neuroimaging Biomarkers "
+  description: " <p> Mental disorders are among the most common illnesses across the lifespan and the leading cause of ill health and disability worldwide. Conventionally, mental disorders are diagnosed by a combination of clinical symptoms. However, the subjective diagnostic framework has caused substantial clinical and neurobiological heterogeneity and largely ignored the frequent comorbidity among diseases. These limitations hinder the understanding of mechanisms underlying the diseases and the search for the right treatment solutions. With the rapid development of neuroimaging technologies, increasing large-scale non-invasive in-vivo neural data has been continually produced worldwide and provides rich resources for the exploration of data-driven objective biomarkers for improved mental health. By exploiting the complex brain imaging data including EEG and fMRI, artificial intelligence (AI) techniques have attracted the increasing interest of researchers in the fields of smart healthcare and neural engineering. Exploring new theories and applications from the perspective of machine learning/AI may bring unprecedented benefits to establish robust neurobiomarkers for more precise diagnosis, prognosis, and treatment selection, toward precision medicine for mental disorders. In this talk, I will present some of our recent work on neural pattern decoding, brain connectome modeling, and neurobiomarker discovery by leveraging cutting-edge machine learning and data-driven techniques. The presentation topic will cover latent-space biomarker quantification, predictive modeling of brain networks, and unsupervised disease biotyping, for precision diagnosis and personalized treatment of mental disorders.</p>
+    <b>Recommended Article:</b>
+    <ul>
+        <li> Dan, T, Wei, Z, Kim, W., Wu, G, “Exploring the Enigma of Neural Dynamics Through A Scattering-Transform Mixer Landscape for Riemannian Manifold”, The 41th International Conference on Machine Learning (ICML 2024). <a href='https://dl.acm.org/doi/10.5555/3692070.3692466'> Link to Paper </a> </li>
+        <li> Liu, H, Dan, T, Huang, Z, Yang, D, Kim, W, Kim, M, Laurienti, P, Wu, G, HoloBrain: A Harmonic Holography for Stereotyped Brain Function, International Conference of Information Processing in Medical Imaging (IPMI 2023). <a href='https://link.springer.com/chapter/10.1007/978-3-031-34048-2_3'> Link to Paper </a> </li>
+  </ul> "
+  subtype: presentation
+  speakers: [161]
+  language: en
+  complexity:
+  video: 

@@ -985,3 +985,15 @@ psychiatry."
   thumbnailUrl: 'Yu_Zhang.JPG'
   rockstar: true
   social:
+
+    - 
+  id: 161
+  name: "Guorong"
+  surname: "Wu"
+  company: "University of North Carolina at Chapel Hill"
+  title: "Associate Professor, Department of Psychiatry"
+  team: false
+  bio: "Guorong Wu, Ph.D. is an Associate Professor in the Department of Psychiatry at the University of North Carolina at Chapel Hill, with joint appointments in the Departments of Computer Science, Statistics and Operations Research, and the Neuroscience Center. He received his Ph.D. in Computer Science and Engineering from Shanghai Jiao Tong University, China. Dr. Wu has authored more than 200 publications in international journals and conference proceedings. His research focuses on developing fast and robust methods for large-scale population data analysis, computer-assisted diagnosis, and image-guided radiation therapy. In 2016, he received the NIH Independent Career Award for his contributions to non-invasive neurobiological approaches for the early diagnosis of Alzheimer’s disease, and in 2017, he received the MICCAI Best Paper Award. Since 2019, Dr. Wu has served as an Associate Editor for Neuroinformatics and the Journal of Alzheimer’s Disease."
+  thumbnailUrl: 'Guorong.JPG'
+  rockstar: true
+  social:
