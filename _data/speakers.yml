@@ -986,7 +986,7 @@ psychiatry."
   rockstar: true
   social:
 
-    - 
+  - 
   id: 161
   name: "Guorong"
   surname: "Wu"
@@ -995,5 +995,17 @@ psychiatry."
   team: false
   bio: "Guorong Wu, Ph.D. is an Associate Professor in the Department of Psychiatry at the University of North Carolina at Chapel Hill, with joint appointments in the Departments of Computer Science, Statistics and Operations Research, and the Neuroscience Center. He received his Ph.D. in Computer Science and Engineering from Shanghai Jiao Tong University, China. Dr. Wu has authored more than 200 publications in international journals and conference proceedings. His research focuses on developing fast and robust methods for large-scale population data analysis, computer-assisted diagnosis, and image-guided radiation therapy. In 2016, he received the NIH Independent Career Award for his contributions to non-invasive neurobiological approaches for the early diagnosis of Alzheimer’s disease, and in 2017, he received the MICCAI Best Paper Award. Since 2019, Dr. Wu has served as an Associate Editor for Neuroinformatics and the Journal of Alzheimer’s Disease."
   thumbnailUrl: 'Guorong.JPG'
+  rockstar: true
+  social:
+
+  - 
+  id: 162
+  name: "Yu-Ping"
+  surname: "Wang"
+  company: "Tulane University"
+  title: "Professor, Biomedical Engineering, Computer Sciences, Neurosciences, and Biostatistics & Data Sciences"
+  team: false
+  bio: "Dr. Yu-Ping Wang received the BS degree in applied mathematics from Tianjin University, China, in 1990, and the MS degree in computational mathematics and the PhD degree in communications and electronic systems from Xi’an Jiaotong University, China, in 1993 and 1996, respectively. After his graduation, he had visiting positions at the Center for Wavelets, Approximation and Information Processing of the National University of Singapore and Washington University Medical School in St. Louis. From 2000 to 2003, he worked as a senior research engineer at Perceptive Scientific Instruments, Inc., and then Advanced Digital Imaging Research, LLC, Houston, Texas. In the fall of 2003, he returned to academia as an assistant professor of computer science and electrical engineering at the University of Missouri-Kansas City. He is currently a Professor of Biomedical Engineering, Computer Sciences, Neurosciences, and Biostatistics & Data Sciences at Tulane University. Dr. Wang’s recent effort has been bridging the gap between biomedical imaging and genomics, where has over 250 journal publications. Dr. Wang is a fellow of AIMBE and won the 2022 Tulane Convergence Award for his effort in bridging gaps between science, engineering and biomedicine. He has served for numerous program committees and NSF and NIH review panels and is currently an associate editor for J. Neuroscience Methods, IEEE/ACM Trans. Computational Biology and Bioinformatics (TCBB) and IEEE Trans. Medical Imaging (TMI). "
+  thumbnailUrl: 'Ping.JPG'
   rockstar: true
   social:

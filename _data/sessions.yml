@@ -876,3 +876,19 @@ These findings contribute to our understanding of the general principles governi
   language: en
   complexity:
   video: 
+
+  -
+  id: 059
+  title: " Integration of brain imaging and genomics with interpretable multimodal collaborative learning "
+  description: " <p> Recent years have witnessed the convergence of multiscale and multimodal brain imaging and omics techniques, showing great promise for systematic and precision medicine. In the meantime, they bring significant data analysis challenges when integrating and mining these large volumes of heterogeneous datasets. In this work, we first introduce a linear collaborative learning model to combine both regression and correlation analysis such as CCA. To further capture complex interactions both within and across modalities, we develop an interpretable multimodal deep learning-based integration model to perform heterogeneous data integration and result interpretation simultaneously. The proposed model can generate interpretable activation maps to quantify the contribution of imaging or omics features. Moreover, the estimated activation maps are class-specific, which can therefore facilitate the identification of biomarkers. Finally, we apply and validate the model in the study of brain development with integrative analysis of multi-modal brain imaging and genomics data. We demonstrate its successful application to both the classification of cognitive function groups and the discovery of underlying genetic mechanisms.</p>
+    <b>Recommended Article:</b>
+    <ul>
+        <li> Wenxing Hu, Xianghe Meng, Yuntong Bai, Aiying Zhang, Gang Qu, Biao Cai, Gemeng Zhang, Tony W. Wilson, Julia M. Stephen, Vince D. Calhoun, Yu-Ping Wang, Interpretable multimodal fusion networks reveal mechanisms of brain cognition, IEEE Transactions on Medical Imaging, Page(s):1-1, Date of Publication: February 08 2021  <a href='https://ieeexplore.ieee.org/document/9349455'> Link to Paper </a> </li>
+        <li> Wenxing Hu, Biao Cai, Aiying Zhang, Vince D. Calhoun, Yu-Ping Wang, Deep collaborative learning with application to multimodal brain development study, IEEE Transactions on Biomedical Engineering, Date of Publication: 13 March 2019. <a href='https://ieeexplore.ieee.org/document/8666981'> Link to Paper </a> </li>
+        <li> Pascal Zille, Vince D. Calhoun, Yu-Ping Wang, Enforcing Co-expression Within a Brain-Imaging Genomics Regression Framework, IEEE Transactions on Medical Imaging, 28 June 2017<a href='https://ieeexplore.ieee.org/document/7961271'> Link to Paper </a> </li>
+  </ul> "
+  subtype: presentation
+  speakers: [162]
+  language: en
+  complexity:
+  video:
