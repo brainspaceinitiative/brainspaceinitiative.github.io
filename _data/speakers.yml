@@ -1009,3 +1009,15 @@ psychiatry."
   thumbnailUrl: 'Ping.JPG'
   rockstar: true
   social:
+
+  - 
+  id: 163
+  name: "Olaf"
+  surname: "Sporns"
+  company: "Indiana University Bloomington"
+  title: "Distinguished Professor, Department of Psychological and Brain Sciences"
+  team: false
+  bio: "Dr. Olaf Sporns is a Distinguished Professor in the Department of Psychological and Brain Sciences at Indiana University Bloomington, where he also holds the Robert H. Shaffer Chair. His research focuses on theoretical and computational neuroscience, with a particular emphasis on complex brain networks. He is widely recognized as a founder of network neuroscience and for introducing the concept of the human connectome, which has guided major efforts to map the brain’s structural and functional organization. Dr. Sporns is the author of two influential books, Networks of the Brain and Discovering the Human Connectome, as well as numerous peer-reviewed publications. He is also the founding editor of the journal Network Neuroscience and has received multiple honors, including the Patrick Suppes Prize in Neuroscience."
+  thumbnailUrl: 'Olaf.JPG'
+  rockstar: true
+  social:

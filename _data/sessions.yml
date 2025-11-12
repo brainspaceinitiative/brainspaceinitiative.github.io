@@ -892,3 +892,13 @@ These findings contribute to our understanding of the general principles governi
   language: en
   complexity:
   video:
+
+  -
+  id: 060
+  title: " Complementary Approaches to Understanding Brain Function: Networks, Dynamics, Information "
+  description: " <p> Network Neuroscience is an emerging field dedicated to understanding the structure and function of neural systems across scales, from neurons to behavior. In this presentation I will review a few themes and research areas that have been central to my work over the past years. These include studies centering on connectome mapping, the analysis of prominent network features such as modules and communities, the relation of structure to function as disclosed in neuroimaging data, the use of computational models to simulate brain dynamics, map information flow and patterns of communication, and a novel edge-centric approach to track dynamic functional connectivity. These lines of work form three complementary approaches to the brain: networks, dynamics, and information.</p>"
+  subtype: presentation
+  speakers: [163]
+  language: en
+  complexity:
+  video:  
