@@ -901,4 +901,21 @@ These findings contribute to our understanding of the general principles governi
   speakers: [163]
   language: en
   complexity:
+  video: 
+
+  -
+  id: 061
+  title: "Investigating the brain mechanisms supporting adolescent neurocognitive plasticity supporting the formation of adult trajectories "
+  description: " <p> During adolescence the foundation of adult neurocognitive trajectories is being established. Studies will be presented that characterize neurobiological mechanisms that provide evidence for unique developmental plasticity and specialization underlying this maturational period. We performed longitudinal studies using an accelerated cohort design spanning 10-30 years of age using high-field 7T MRI and EEG. We investigated the shape of cognitive development and reward processing and applied multimodal neuroimaging to measure concomitant developmental changes reflecting plasticity in neural activity (EEG), myelination (MRI R1), glutamate/GABA balance (MRSI) in prefrontal cortex, dopaminergic function (striatal tissue iron) in limbic systems and their connectivity informing a model of developmental specialization. Our studies provide evidence for adolescent specific plasticity of executive brain systems that may underlie risk for atypical trajectories that underlie the emergence of psychopathology but also identifies a window of unique malleability when trajectories can be affected.</p>
+      <b>Recommended Article:</b>
+      <ul>
+          <li> Calabro, F. J., Lecroy, D., Foran, W., Sydnor, V. J., Parr, A. C., Constantinidis, C., & Luna, B. (2025). Developmental decorrelation of local cortical activity through adolescence supports high-dimensional encoding and working memory. Developmental Cognitive Neuroscience. <a href='https://www.sciencedirect.com/science/article/pii/S1878929325000362?via%3Dihub'> Link to Paper </a> </li>
+          <li> McKeon, S. D., Perica, M. I., Calabro, F. J., Foran, W., Hetherington, H., Moon, C. H., & Luna, B. (2024). Prefrontal excitation/inhibition balance supports adolescent enhancements in circuit signal to noise ratio. Progress in Neurobiology.  <a href='https://www.sciencedirect.com/science/article/pii/S030100822400131X?via%3Dihub'> Link to Paper </a> </li>
+          <li> Sydnor, V. J., Petrie, D., McKeon, S. D., Famalette, A., Foran, W., Calabro, F. J., & Luna, B. (2025). Heterochronous laminar maturation in the human prefrontal cortex. bioRxiv.  <a href='https://www.biorxiv.org/content/10.1101/2025.01.30.635751v1'> Link to Paper </a> </li>
+          <li> Sydnor, V. J., Ojha, A., Larsen, B., Martinez, A., Calabro, F. J., & Luna, B. (2025). Investigating hierarchical critical periods in human neurodevelopment. Neuropsychopharmacology.  <a href='https://www.nature.com/articles/s41386-025-02246-5'> Link to Paper </a> </li>
+      </ul> "
+  subtype: presentation
+  speakers: [164]
+  language: en
+  complexity:
   video:  

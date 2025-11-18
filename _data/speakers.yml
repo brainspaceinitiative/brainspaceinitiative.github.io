@@ -1021,3 +1021,15 @@ psychiatry."
   thumbnailUrl: 'Olaf.JPG'
   rockstar: true
   social:
+
+  - 
+  id: 164
+  name: "Beatriz"
+  surname: "Luna"
+  company: "University of Pittsburgh"
+  title: "Distinguished Staunton Professor , Department of Psychiatry and Pediatrics"
+  team: false
+  bio: "Beatriz Luna, PhD is the Distinguished Staunton Professor of Psychiatry and Pediatrics as well as Professor of Psychology, Radiology, and Bioengineering at the University of Pittsburgh. She is the founder and Director of the Laboratory for Neurocognitive Development, a founder and first president of the Flux Society for Developmental Cognitive Neuroscience, and Editor-in-Chief of the journal Developmental Cognitive Neuroscience. Dr. Luna uses multimodal neuroimaging to investigate the neurobiological mechanisms that support the transition from adolescence to adulthood when lifetime trajectories are determined to inform basic processes of normative development. She has received numerous awards including being elected to the National Academy of Medicine, receiving the Presidential Early Career Award in Science and Engineering, the Provost’s Award for Excellence in Doctoral Mentoring, and the Flux Huttenlocher Award for pioneers in Developmental Cognitive Neuroscience. Her research has been continuously supported by the National Institutes of Mental Health and has informed US Supreme Court briefs regarding extended sentencing in the juvenile justice system."
+  thumbnailUrl: 'Beatriz.JPG'
+  rockstar: true
+  social:
