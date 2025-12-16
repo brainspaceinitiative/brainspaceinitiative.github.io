@@ -919,3 +919,20 @@ These findings contribute to our understanding of the general principles governi
   language: en
   complexity:
   video:  
+
+  -
+  id: 062
+  title: "Continuous and Atlas-free Analysis of Brain Structural Connectivity"
+  description: " <p> Brain structural networks are commonly summarized as discrete adjacency matrices defined over regions of interest (ROIs) selected from a brain atlas. Because atlas boundaries are coarse and somewhat arbitrary, important sub-ROI connectivity information is often lost. To overcome these limitations, we introduce an atlas-free framework that models structural connectivity as a smooth latent random function defined on a cortical product manifold, referred to as continuous connectivity (ConCon). The high dimensionality of ConCon creates substantial analytical and computational challenges. To address these, we have developed a series of methods that enable efficient ConCon estimation, cross-subject alignment in the continuous domain, and population-level statistical analysis. Together, these tools support fine-grained, localized inference that is not possible with atlas-based connectomes. Using data from the Human Connectome Project and the ABCD Study, we demonstrate that our continuous, atlas-free framework consistently outperforms traditional approaches on multiple structural connectivity analysis tasks and reveals localized cortical patterns associated with meaningful group differences.</p>
+      <b>Recommended Article:</b>
+      <ul>
+          <li> Wang, L., Li, D., & Zhang, Z. (2025). Riemannian diffusion kernel-smoothed continuous structural connectivity on cortical surface. Imaging Neuroscience, 3, IMAG-a <a href='https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.912/133224/Riemannian-diffusion-kernel-smoothed-continuous'> Link to Paper </a> </li>
+          <li> Cole, M., Xiang, Y., Consagra, W., Srivastava, A., Qiu, X., & Zhang, Z. (2025). Alignment of Continuous Brain Connectivity. arXiv preprint arXiv:2503.15830.  <a href='https://arxiv.org/abs/2503.15830'> Link to Paper </a> </li>
+          <li> Consagra, W., Cole, M., Qiu, X., & Zhang, Z. (2024). Continuous and atlas-free analysis of brain structural connectivity. The Annals of Applied Statistics, 18(3), 1815-1839.  <a href='https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-3/Continuous-and-atlas-free-analysis-of-brain-structural-connectivity/10.1214/23-AOAS1858.full'> Link to Paper </a> </li>
+          <li> Cole, M., Murray, K., St‐Onge, E., Risk, B., Zhong, J., Schifitto, G., ... & Zhang, Z. (2021). Surface Based Connectivity Integration: An atlas free approach to jointly study functional and structural connectivity. Human Brain Mapping, 42(11), 3481-3499.   <a href='https://onlinelibrary.wiley.com/doi/10.1002/hbm.25447'> Link to Paper </a> </li>
+      </ul> "
+  subtype: presentation
+  speakers: [165]
+  language: en
+  complexity:
+  video:  

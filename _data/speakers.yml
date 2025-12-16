@@ -1033,3 +1033,15 @@ psychiatry."
   thumbnailUrl: 'Beatriz.JPG'
   rockstar: true
   social:
+
+  - 
+  id: 165
+  name: "Zhengwu"
+  surname: "Zhang"
+  company: "University of Pittsburgh"
+  title: "Distinguished Staunton Professor , Department of Psychiatry and Pediatrics"
+  team: false
+  bio: "Zhengwu Zhang is an Associate Professor in Statistics and Operations Research at the University of North Carolina at Chapel Hill and currently serves as an Associate Editor for Reproducibility at the Journal of the American Statistical Association and as an Associate Editor for Biostatistics & Epidemiology. He received his Ph.D. in Statistics from Florida State University in 2015 under the supervision of Professor Anuj Srivastava. Zhang's research develops statistical and machine learning methods for high-dimensional data with low-dimensional structures, with applications spanning finance, artificial intelligence, and neuroscience. His group works on financial data analysis (predictive modeling, portfolio optimization, LLM applications), LLM reasoning (robust multi-step, causal, and mathematical reasoning), and human cognition and brain research (geometry-based connectome analysis, brain aging, cognitive training, and substance use). His work is supported by multiple NIH grants and reflects a broader mission to design efficient, interpretable, and practical tools for extracting knowledge from complex data."
+  thumbnailUrl: 'Zhengwu.JPG'
+  rockstar: true
+  social:
