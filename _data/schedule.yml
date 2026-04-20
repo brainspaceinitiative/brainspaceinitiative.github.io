@@ -748,7 +748,7 @@
 - 
   date: "2026-04-24"
   dateReadable: "April 24 , 2026"
-  past: true
+  past: false
   tracks: 
     - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
