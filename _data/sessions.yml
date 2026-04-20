@@ -936,3 +936,20 @@ These findings contribute to our understanding of the general principles governi
   language: en
   complexity:
   video:  
+
+  -
+  id: 063
+  title: "Adversity, the Developing Brain, and Mental Health"
+  description: " <p> Adversity during childhood and adolescence can profoundly impact wellbeing, learning, and health. To date, it remains unclear how adversity influences biology, diminishes human potential, and interacts with other factors that promote resilience. The goal of my research program is to decipher how the social environment alters neural development and how these alterations map onto affective functioning in adolescence and young adulthood, developmental stages when the incidence of anxiety and depression markedly increases. To that end, I will present findings from a population-based, representative sample that has been followed since birth. Many of the participants have been exposed to various forms of adversity during development. Results will be discussed linking the social environment -- including violence exposure, social deprivation, and buffers that promote resilience -- to brain development and mental health. Finally, I will briefly describe current research directions, including the further examination of resilience and the incorporation of neuroinflammatory markers, neurotoxins, and computational modeling approaches.</p>
+      <b>Recommended Article:</b>
+      <ul>
+          <li> Monk, C. S., & Hardi, F. A. (2023). Poverty, brain development, and mental health: progress, challenges, and paths forward. Annual Review of Developmental Psychology, 5, 309-330 <a href='https://www.annualreviews.org/content/journals/10.1146/annurev-devpsych-011922-012402'> Link to Paper </a> </li>
+          <li> Hardi, F. A., Goetschius, L. G., McLoyd, V., Lopez‐Duran, N. L., Mitchell, C., Hyde, L. W., ... & Monk, C. S. (2023). Adolescent functional network connectivity prospectively predicts adult anxiety symptoms related to perceived COVID‐19 economic adversity. Journal of Child Psychology and Psychiatry, 64(6), 918-929.   <a href='https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.13749'> Link to Paper </a> </li>
+          <li> Hardi, Felicia A., et al. Latent profiles of childhood adversity, adolescent mental health, and neural network connectivity. JAMA network open 7.8 (2024): e2430711.   <a href='https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2822905'> Link to Paper </a> </li>
+          
+      </ul> "
+  subtype: presentation
+  speakers: [166]
+  language: en
+  complexity:
+  video:  
