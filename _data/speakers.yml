@@ -1057,3 +1057,15 @@ psychiatry."
   thumbnailUrl: 'monk.png'
   rockstar: true
   social:
+
+  - 
+  id: 167
+  name: "Danella"
+  surname: "Hafeman"
+  company: "University of Pittsburgh"
+  title: "Associate Professor of Psychiatry"
+  team: false
+  bio: "Dr. Danella Hafeman is a child psychiatrist and Associate Professor of Psychiatry at the University of Pittsburgh. Her research program is focused on mood instability in youth with and at-risk for mood disorders. Her studies employ a combination of clinical assessments, neuroimaging, and technology-based in vivo assessments to longitudinally assess mood symptoms and the effect of early interventions. Clinically, she is Medical Director of the Child and Adolescent Bipolar Services outpatient clinic, where she evaluates and treats youth with and at-risk for bipolar disorder."
+  thumbnailUrl: 'hafeman.JPG'
+  rockstar: true
+  social:

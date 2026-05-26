@@ -953,3 +953,18 @@ These findings contribute to our understanding of the general principles governi
   language: en
   complexity:
   video:  
+
+  -
+  id: 064
+  title: "Neural Markers of Risk for Bipolar Disorder: Leveraging Big Data and Precision Imaging"
+  description: " <p> Bipolar disorder (BD) is a serious mental illness that often emerges during adolescence and is associated with substantial morbidity and mortality. A better understanding of the neural mechanisms underlying risk for BD is essential for developing early interventions and novel treatment targets. However, neuroimaging studies of youth with and at risk for BD have often been limited by small sample sizes, contributing to challenges in reproducibility and generalizability. In this talk, I will present two complementary strategies to identify neural markers of risk for BD and advance understanding of its neurobiology. First, we leverage findings from large adult consortia (ENIGMA, UK Biobank) that have identified small yet robust structural differences (e.g., cortical thickness, subcortical volumes), summarized as a “regional vulnerability index” (RVI). We apply this previously derived RVI for BD in an independent sample enriched for offspring of parents with BD, examining associations with both familial and clinical risk. Second, in a separate study, we use precision imaging to longitudinally characterize functional connectivity (FC) within a largely subcortical, mood-related network. By acquiring large amounts of functional imaging data per individual (~80–120 minutes) across multiple mood states over 9 months, we assess whether FC within this network is less stable in BD compared with healthy volunteers and how this variability relates to mood state. Together, these approaches highlight the potential of leveraging both large-scale datasets and precision imaging to identify neural markers of risk and improve understanding of BD neurobiology, particularly during adolescence and young adulthood, when early intervention may be most impactful.</p>
+      <b>Recommended Article:</b>
+      <ul>
+          <li> Hafeman DM, Feldman J, Mak J, Merranko J, Goldstein TR, Gratton C, et al. (2025): Longitudinal stability of mood-related resting-state networks in youth with symptomatic bipolar-I/II disorder. Translational psychiatry. 15:187.  <a href='https://www.nature.com/articles/s41398-025-03404-5'> Link to Paper </a> </li>
+          <li> Hafeman DM, Feldman J, Merranko J, Phillips ML, Birmaher B, Gao S, et al. Brain-Wide Structural Markers of Familial and Clinical Risk for Bipolar Disorder in Youth. Biological Psychiatry: CNNI. Accepted. </li>          
+      </ul> "
+  subtype: presentation
+  speakers: [167]
+  language: en
+  complexity:
+  video:  
