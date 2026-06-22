@@ -968,3 +968,21 @@ These findings contribute to our understanding of the general principles governi
   language: en
   complexity:
   video:  
+
+  -
+  id: 065
+  title: "Development of 7T MRI protocols for neuroimaging applications in HIV"
+  description: " <p> Although antiretroviral therapy effectively suppresses peripheral HIV-1 infection, persistent viral reservoirs within the central nervous system (CNS) remain a significant challenge. To address this, we are conducting a randomized, placebo-controlled Phase IIb trial investigating the effects of baricitinib on CNS HIV-1 persistence, with neuroimaging as a key secondary outcome. Participants undergo baseline and 10-week follow-up imaging on a 7 Tesla MRI system, incorporating multimodal acquisitions including high-resolution structural MRI, resting-state fMRI, MR spectroscopy, and diffusion-weighted imaging. By providing non-invasive measures of brain structure, function, perfusion, and neuroinflammation, this ultrahigh-field imaging approach aims to characterize CNS changes associated with HIV-1 and evaluate the potential impact of reducing viral reservoirs in the brain. In this presentation, I will discuss the development of the 7T neuroimaging protocol and present baseline results.</p>
+      <b>Recommended Article:</b>
+      <ul>
+          <li> Fleischer, CC et al. Study protocol for neuroimaging using 7 T MRI in the investigation of baricitinib for reduction of HIV in the CNS: a randomized placebo-controlled trial. BMC Med Imaging 2026;26:127.  <a href='https://link.springer.com/article/10.1186/s12880-026-02202-9'> Link to Paper </a> </li>
+          <li> Balaganesh, A … and Fleischer, CC. Sex and age differences in brain metabolism and cognition in adolescents. Imag Neuroscience 2026;4:IMAG.a.1159 <a href='https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1159/135339/Sex-and-age-differences-in-brain-metabolism-and'> Link to Paper </a></li>
+          <li> Liu, Z, … and Fleischer, CC. Associations Between Brain Metabolites Measured With MR Spectroscopy and Head Impacts in High School American Football Athletes. J Magn Reson Imaging, 2025;61:1738-1750.  <a href='https://onlinelibrary.wiley.com/doi/10.1002/jmri.29581'> Link to Paper </a></li>
+          <li> Sung, D, Risk, BB, Wang, KJ, Allen, JW and Fleischer, CC. Resting-State Brain Temperature: Dynamic Fluctuations in Brain Temperature and the Brain–Body Temperature Gradient. J Magn Reson Imaging, 2023;57:1222-1228.  <a href='https://onlinelibrary.wiley.com/doi/10.1002/jmri.28376'> Link to Paper </a></li>
+          <li> Sung, D, Risk, BB, Kottke, PA, Allen, JW, Nahab, FN, Fedorov, AG and Fleischer CC. Comparisons of healthy human brain temperature predicted from biophysical modeling and measured with whole brain MR thermometry. Sci Rep 12, 19285 (2022).  <a href='https://www.nature.com/articles/s41598-022-22599-x'> Link to Paper </a></li>          
+      </ul> "
+  subtype: presentation
+  speakers: [168]
+  language: en
+  complexity:
+  video:  
