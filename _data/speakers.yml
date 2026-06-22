@@ -1069,3 +1069,15 @@ psychiatry."
   thumbnailUrl: 'hafeman.JPG'
   rockstar: true
   social:
+
+    - 
+  id: 168
+  name: "Candace"
+  surname: "Fleischer"
+  company: "Emory University"
+  title: "Associate Professor of Radiology"
+  team: false
+  bio: "Dr. Candace Fleischer is an associate professor of radiology and biomedical engineering at Emory University in Atlanta, GA. Her doctoral training was in chemistry and spectroscopy, and she received her PhD from the Georgia Institute of Technology. She currently directs the Biomedical Spectroscopy and Imaging Laboratory where her group is focused on MR spectroscopy and thermometry in the healthy and injured brain, particularly focused on cancer, HIV, stroke, and traumatic brain injury."
+  thumbnailUrl: 'Candace.JPG'
+  rockstar: true
+  social:
